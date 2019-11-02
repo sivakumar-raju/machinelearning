@@ -1,0 +1,999 @@
+CID,DATE,CAR NAME,OWNERSHIP,OFFER,PRICE,TYPE,YEAR,MODE,HP,DISCOUNT,MILEAGE,FUEL,STATUS,DUPLICATE,IGNORE
+1,03-04-2016 11:54,Subaru_G3X_Justy_1.3,private,offer,3850,Small Car,2004,manual,94,50000,7,petrol,No,03-04-2016 00:00,0
+2,08-03-2016 19:54,Volkswagen_Passat_Variant_2.0_TDI_DPF_Comfortline,private,offer,5999,Combi,2007,manual,140,150000,5,diesel,No,08-03-2016 00:00,0
+3,26-03-2016 17:38,Mercedes_Benz_C_220_CDI_Automatik_Elegance_AHK__Navi_Leder,private,offer,5990,limousine,2007,automatic,150,150000,2,diesel,No,26-03-2016 00:00,0
+4,11-03-2016 13:42,Alfa_Romeo_147_1.9_JTD_16V_M_Jet,private,offer,4000,limousine,2005,manual,150,150000,9,diesel,No,11-03-2016 00:00,0
+5,17-03-2016 17:49,Audi_A4,private,offer,12950,Combi,2005,manual,200,125000,3,petrol,No,17-03-2016 00:00,0
+6,02-04-2016 17:42,mercedes_c_kalse,private,offer,3600,limousine,2000,automatic,129,150000,5,petrol,No,02-04-2016 00:00,0
+7,15-03-2016 13:53,Passat_3bg_Variant_1_9TDI__6_Gang,private,offer,4450,Combi,2003,manual,131,150000,7,diesel,No,15-03-2016 00:00,0
+8,11-03-2016 10:51,Gepflegtes_Familienauto,private,offer,10500,bus,2010,manual,146,80000,8,petrol,No,11-03-2016 00:00,0
+9,25-03-2016 00:56,BMW_645_Ci_M_PAKET_LEDER_NAVI_XENON_SPORTAUSPUFF,private,offer,10900,coupe,2004,automatic,333,150000,12,petrol,No,24-03-2016 00:00,0
+10,29-03-2016 09:36,Audi_A3_1.4_TFSI,private,offer,17250,limousine,2013,manual,122,30000,10,petrol,No,29-03-2016 00:00,0
+11,05-03-2016 16:52,Land_Rover_Range_Rover_TDV8,private,offer,25900,suv,2010,automatic,272,150000,1,diesel,No,05-03-2016 00:00,0
+12,10-03-2016 16:50,Mercedes_Benz_E_200_CDI_Classic,private,offer,9500,limousine,2000,manual,116,150000,6,diesel,Yes,10-03-2016 00:00,0
+13,21-03-2016 10:37,Sehr_gut_erhaltener_Audi_A4,private,offer,8500,limousine,2006,automatic,163,100000,0,petrol,No,21-03-2016 00:00,0
+14,01-04-2016 12:45,Audi_A4_Avant_2.5_TDI_quattro_Xenon_Klimaaut._Sitzhzg,private,offer,2690,Combi,2002,manual,179,150000,5,diesel,NA,01-04-2016 00:00,0
+15,11-03-2016 17:53,Opel_Astra_Caravan_1.6_Tuev+Insp.NEU_schwarz_8_fach_TOP,private,offer,5899,Combi,2007,manual,105,125000,3,petrol,No,11-03-2016 00:00,0
+16,06-03-2016 11:37,Mercedes_Benz_Vito_116_CDI_Lang__Aut.,private,offer,31830,bus,2015,automatic,163,60000,2,diesel,No,06-03-2016 00:00,0
+17,08-03-2016 18:51,BMW_COMPACT_M_SPORT_SCHECKHEFTGEPFLEGT,private,offer,2850,Small Car,2003,manual,116,150000,2,petrol,NA,08-03-2016 00:00,0
+18,31-03-2016 13:55,Audi_A3_2.0_TDI_Ambition_NaviPlus/Xenon/DAB/APS,private,offer,23750,limousine,2014,manual,150,70000,8,diesel,No,31-03-2016 00:00,0
+19,08-03-2016 11:38,Mercedes_Benz_C_350_CDI_DPF_7G_TRONIC_Elegance,private,offer,12700,limousine,2009,automatic,224,150000,7,diesel,No,08-03-2016 00:00,0
+20,25-03-2016 14:47,Mercedes_Benz_C_220_T_CDI_DPF_Avantgarde,private,offer,13999,Combi,2008,manual,170,150000,12,diesel,No,25-03-2016 00:00,0
+21,09-03-2016 00:25,Smart_smart_fortwo_coupe_softouch_pure_micro_hybri...,private,offer,5050,Small Car,2011,automatic,61,60000,4,petrol,No,08-03-2016 00:00,0
+22,24-03-2016 17:57,BMW_320i_touring_Edition_Exclusive,private,offer,8200,Combi,2004,manual,170,80000,5,petrol,No,24-03-2016 00:00,0
+23,17-03-2016 19:56,Biete_einen_lagunar_an,private,offer,1200,Combi,2003,manual,150,150000,6,diesel,Yes,17-03-2016 00:00,0
+24,25-03-2016 15:49,Top_gepflegter_Mercedes_C_180__CGI____204_,private,offer,15200,limousine,2010,automatic,156,60000,6,petrol,No,25-03-2016 00:00,0
+25,27-03-2016 23:51,Fiat_Grande_Punto_1.4_8V_Dynamic,private,offer,3350,Small Car,2008,manual,77,100000,12,petrol,No,27-03-2016 00:00,0
+26,23-03-2016 05:04,VW_Passat_Variant_1_9_TDI_Highline,private,offer,3490,Combi,2003,automatic,114,150000,1,diesel,NA,23-03-2016 00:00,0
+27,22-03-2016 18:49,VW_Passat_Kombi_3.2_4Motion_Highline,private,offer,9500,Combi,2006,automatic,250,150000,3,petrol,No,22-03-2016 00:00,0
+28,07-03-2016 18:56,Toyota_Avensis_Combi_2.2_D_4D_Automatik_Executive,private,offer,15555,Combi,2011,automatic,150,90000,3,diesel,No,07-03-2016 00:00,0
+29,07-03-2016 16:53,Passat_1_6_Bj_2001_T?v_bis_11:2017,private,offer,1222,Combi,2001,manual,0,150000,8,petrol,No,07-03-2016 00:00,0
+30,20-03-2016 17:53,A3_1.6_TDI_/s_sitze/klima/Euro5/Navi,private,offer,8499,coupe,2011,manual,105,150000,4,diesel,No,20-03-2016 00:00,0
+31,28-03-2016 22:43,Audi_A4_Avant_2.0_TFSI_quattro_S_line_Sportpaket_...,private,offer,18999,Combi,2008,manual,211,125000,11,petrol,No,28-03-2016 00:00,0
+32,22-03-2016 06:37,Volkswagen_Polo_1.4_TDI_Blue_Motion_Technology_Cross_Polo,private,offer,13999,Small Car,2014,manual,90,40000,10,diesel,No,22-03-2016 00:00,0
+33,12-03-2016 13:44,Audi_A4_Avant_2.0_multitronic___Vollleder___2._Hand,private,offer,7700,Combi,2006,automatic,131,150000,3,petrol,No,12-03-2016 00:00,0
+34,14-03-2016 00:37,Volkswagen_Sharan_1.9_TDI,private,offer,6000,bus,2005,automatic,116,150000,7,diesel,No,13-03-2016 00:00,0
+35,16-03-2016 12:37,Mazda_323_F_1.6_sportive,private,offer,2399,limousine,2003,manual,98,125000,3,petrol,No,16-03-2016 00:00,0
+36,11-03-2016 15:50,Mercedes_Benz_A_Klasse_190_Avantgarde_TÜV_Neu_Vollausstattung,private,offer,2700,Small Car,2000,manual,125,150000,1,petrol,No,11-03-2016 00:00,0
+37,18-03-2016 12:43,Mercedes_Benz_C_180_Kompressor_Avantgarde,private,offer,4200,limousine,2002,manual,143,150000,12,petrol,No,18-03-2016 00:00,0
+38,31-03-2016 17:06,Mercedes_Benz_Vito_115_CDI_lang,private,offer,5999,bus,2006,manual,150,150000,6,diesel,No,31-03-2016 00:00,0
+39,29-03-2016 13:53,320D__177_PS_LIFT_NAVI_KLIMA,private,offer,6000,limousine,2009,automatic,177,125000,8,diesel,No,29-03-2016 00:00,0
+40,17-03-2016 22:46,E46_Compact_316i_individual_Automatik_steuerkette_NEU!_BBS_18zoll,private,offer,2300,NA,2016,automatic,115,150000,5,petrol,NA,15-03-2016 00:00,0
+41,05-03-2016 21:54,FORD_B_MAX_1.0_ECO_BOOST_TREND_zu_Verkaufen,private,offer,11900,bus,2014,manual,101,20000,12,petrol,No,05-03-2016 00:00,0
+42,09-03-2016 10:56,Porsche_Cayenne_S_Tiptronic_SCHECKHEFT_LÜCKENLOS_PORSCHE,private,offer,13900,suv,2005,automatic,340,150000,4,petrol,No,09-03-2016 00:00,0
+43,21-03-2016 07:56,BMW_116i_mit_M_Paket,private,offer,7500,limousine,2006,manual,116,125000,12,petrol,No,21-03-2016 00:00,0
+44,12-03-2016 08:36,BMW_330d_touring,private,offer,5800,Combi,2003,manual,204,150000,11,diesel,No,12-03-2016 00:00,0
+45,10-03-2016 21:57,Renault_Clio_1.2_16V_TCE_Grandtour_Dynamique__scheckheft,private,offer,3999,Combi,2008,manual,101,100000,1,petrol,No,10-03-2016 00:00,0
+46,01-04-2016 17:47,BMW_316i_compact_Comfort_Edition,private,offer,1599,limousine,2000,manual,105,150000,3,petrol,No,01-04-2016 00:00,0
+47,30-03-2016 15:37,Mercedes_Benz_SL_320,private,offer,12500,cabrio,2003,automatic,218,125000,8,petrol,No,30-03-2016 00:00,0
+48,07-03-2016 01:53,Ford_Focus_ST_2.0_EcoBoost__*Geschaeftsfuehrerfahrzeug*,private,offer,19200,limousine,2013,manual,250,40000,1,petrol,No,07-03-2016 00:00,0
+49,10-03-2016 18:48,Volkswagen_Touran_1.4_TSI_DSG_Comfortline,private,offer,14550,bus,2011,automatic,140,60000,3,petrol,No,10-03-2016 00:00,0
+50,16-03-2016 03:03,Nissan_Primera_1.8_Comfort._Leder._Sitzheizung._Xenon.,private,offer,2400,limousine,2002,manual,114,125000,9,petrol,No,16-03-2016 00:00,0
+51,03-04-2016 14:38,BMW_530d_Touring_Diesel,private,offer,7199,Combi,2005,automatic,231,150000,12,diesel,No,03-04-2016 00:00,0
+52,23-03-2016 09:47,Alfa_Romeo_2.0**EINZELSTÜCK**TÜV_04/17*147TKM*KLIM*VB,private,offer,1500,limousine,2000,manual,155,150000,8,petrol,No,23-03-2016 00:00,0
+53,07-03-2016 00:52,MINI_One_Glasdach_Klimaauto_Scheckheftgepfl_wenig_km,private,offer,11800,Small Car,2011,manual,98,30000,3,petrol,No,06-03-2016 00:00,0
+54,29-03-2016 04:03,Audi__Q3,private,offer,27300,suv,2014,manual,177,30000,1,diesel,No,29-03-2016 00:00,0
+55,29-03-2016 20:58,Opel_Agila_1.0_12_V,private,offer,1250,Small Car,2000,manual,58,150000,10,petrol,No,29-03-2016 00:00,0
+56,04-04-2016 15:37,Ford_Focus_Turnier_TDCi_Viva_X,private,offer,2700,Combi,2004,manual,101,150000,7,diesel,No,04-04-2016 00:00,0
+57,04-04-2016 15:56,Peugeot_806_Van,private,offer,1499,bus,2000,manual,132,150000,1,petrol,Yes,04-04-2016 00:00,0
+58,08-03-2016 10:45,Mercedes_Benz_C_200_Kompressor_Avantgarde,private,offer,2200,limousine,2000,manual,163,150000,7,petrol,No,08-03-2016 00:00,0
+59,21-03-2016 15:25,Ford_Focus_Turnier_1.6_TDCi_DPF_Style,private,offer,3300,Combi,2007,manual,109,150000,8,diesel,No,21-03-2016 00:00,0
+60,01-04-2016 19:57,Opel_Vectra_2.8_V6_Turbo_First_Edition,private,offer,3250,limousine,2006,manual,230,150000,10,petrol,No,01-04-2016 00:00,0
+61,27-03-2016 18:56,BMW_318i_Touring_E46__TÜV_neu__Teilleder.....,private,offer,3299,Combi,2003,manual,143,150000,3,petrol,No,27-03-2016 00:00,0
+62,29-03-2016 13:37,Hyundai_Tucson_2.0_GLS_2WD,private,offer,6350,suv,2007,manual,141,150000,9,petrol,No,29-03-2016 00:00,0
+63,05-04-2016 06:56,Audi_A6_Avant_2.7_TDI_s_line_quattro_tiptronic,private,offer,7750,Combi,2006,automatic,180,150000,1,diesel,No,05-04-2016 00:00,0
+64,30-03-2016 23:52,VW_Golf_VII_plus_1_Jahr_Neuwahlen_Garantie,private,offer,25000,limousine,2013,automatic,140,40000,0,NA,No,30-03-2016 00:00,0
+65,09-03-2016 21:50,BMW_520i,private,offer,6950,limousine,2005,automatic,170,150000,5,lpg,No,09-03-2016 00:00,0
+66,28-03-2016 17:38,Toyota_Avensis_Combi_2.2_D_4D_Automatik,private,offer,13500,Combi,2009,automatic,150,40000,6,diesel,No,28-03-2016 00:00,0
+67,12-03-2016 16:38,Mercedes_Benz_C_220_CDI_DPF_Automatik_Avantgarde,private,offer,14599,limousine,2008,automatic,170,150000,5,diesel,No,12-03-2016 00:00,0
+68,28-03-2016 18:52,BMW_330ci_Cabrio,private,offer,6666,cabrio,2002,automatic,231,150000,10,petrol,No,28-03-2016 00:00,0
+69,25-03-2016 16:44,Peugeot_307_HDi_110_Tendance,private,offer,2500,limousine,2003,manual,107,150000,1,diesel,No,25-03-2016 00:00,0
+70,11-03-2016 10:54,Ford_Focus_1.6,private,offer,3700,limousine,2003,manual,101,50000,3,petrol,No,11-03-2016 00:00,0
+71,21-03-2016 13:56,BMW_116d_DPF_Advantage_Paket,private,offer,9400,limousine,2012,manual,116,80000,4,diesel,No,21-03-2016 00:00,0
+72,14-03-2016 18:51,Toyota_Rav_4,private,offer,5750,suv,2005,manual,126,150000,12,petrol,No,14-03-2016 00:00,0
+73,01-04-2016 17:48,Audi_A3_1.8_TFSI_Sportback_quattro_Ambition,private,offer,21500,Combi,2012,manual,160,50000,9,petrol,No,01-04-2016 00:00,0
+74,08-03-2016 13:49,Fiesta_Titanium_1.25,private,offer,6800,Small Car,2009,manual,82,60000,12,petrol,No,08-03-2016 00:00,0
+75,29-03-2016 18:50,Mercedes_Benz_C220_guter_Zustand!!,private,offer,6150,limousine,2006,manual,150,150000,12,diesel,No,29-03-2016 00:00,0
+76,23-03-2016 12:38,Audi_A5_1.8_TFSI,private,offer,13999,coupe,2008,manual,170,150000,4,petrol,No,23-03-2016 00:00,0
+77,15-03-2016 14:38,BMW_118_Diesel_Cabrio_M_Paket,private,offer,17950,cabrio,2011,manual,143,80000,1,diesel,No,15-03-2016 00:00,0
+78,06-03-2016 11:52,Corsa_C_1.0_12V_Euro4_Klima_1.Hand_Servo,private,offer,1900,Small Car,2004,manual,60,150000,2,petrol,No,06-03-2016 00:00,0
+79,22-03-2016 22:50,Alfa_Romeo_147_2.0_Twin_Spark,private,offer,1699,limousine,2003,manual,150,150000,5,petrol,No,22-03-2016 00:00,0
+80,05-04-2016 14:06,Audi_A3_Sportpack_Ambitition_phantomschwarz,private,offer,10200,Combi,2007,manual,140,150000,6,diesel,No,05-04-2016 00:00,0
+81,22-03-2016 17:50,Mercedes_Benz_C_350_Limousine_4Matic_7G_TRONIC_Avantgarde,private,offer,21490,limousine,2011,automatic,306,100000,6,petrol,No,22-03-2016 00:00,0
+82,24-03-2016 22:56,Hyundai_Atos_1.1_Prime__TÜV_bis_12/2017,private,offer,1450,Small Car,2005,manual,58,150000,5,NA,NA,24-03-2016 00:00,0
+83,05-03-2016 19:58,VW_Touran_1_9_Tdi_105_PS,private,offer,6990,bus,2006,manual,105,150000,5,diesel,No,05-03-2016 00:00,0
+84,04-04-2016 22:45,Chrysler_PT_Cruiser_Cabrio,private,offer,3500,cabrio,2006,manual,134,150000,0,NA,NA,04-04-2016 00:00,0
+85,08-03-2016 20:57,Mercedes_Benz_C_220_T_CDI_DPF_BlueEFFICIENCY_Avantgarde_Comand,private,offer,13900,Combi,2010,manual,170,150000,6,diesel,No,08-03-2016 00:00,0
+86,10-03-2016 20:47,Volkswagen_Touareg_3.2_V6_Automatik,private,offer,5500,suv,2003,automatic,220,150000,4,petrol,Yes,10-03-2016 00:00,0
+87,01-04-2016 21:50,Volkswagen_VW_T5_1.9_TDI_9_Sitze,private,offer,4000,bus,2003,NA,0,150000,12,diesel,Yes,01-04-2016 00:00,0
+88,24-03-2016 19:51,Mercedes_Benz_G_400_CDI_Automatik,private,offer,37000,suv,2001,automatic,250,125000,2,diesel,No,24-03-2016 00:00,0
+89,09-03-2016 13:54,Fiat_Grande_Punto_1.4_8V_Active,private,offer,3800,Small Car,2008,manual,77,125000,2,petrol,No,09-03-2016 00:00,0
+90,04-04-2016 18:51,Mercedes_Benz_ML_270_CDI,private,offer,12500,suv,2005,manual,163,150000,9,diesel,No,04-04-2016 00:00,0
+91,26-03-2016 16:54,330d_Aut_._Xenon_Standheizung_Leder,private,offer,9400,NA,2007,automatic,231,150000,0,NA,NA,26-03-2016 00:00,0
+92,15-03-2016 18:38,Audi_A6_Avant_2.7_TDI_DPF_multitronic,private,offer,5200,Combi,2006,automatic,179,150000,11,diesel,No,15-03-2016 00:00,0
+93,01-04-2016 16:39,Porsche_Boxster_S,private,offer,18500,cabrio,2006,manual,260,125000,2,petrol,No,01-04-2016 00:00,0
+94,10-03-2016 22:38,Fiat_Grande_Punto_My_Life_1.2_8V___top_Zustand!,private,offer,7880,Small Car,2012,manual,69,30000,2,petrol,No,10-03-2016 00:00,0
+95,16-03-2016 21:54,BMW_730d,private,offer,8999,limousine,2004,automatic,218,150000,4,diesel,No,16-03-2016 00:00,0
+96,26-03-2016 00:48,Volkswagen_Multivan_DPF_Comfortline,private,offer,20000,bus,2009,manual,174,150000,3,diesel,No,25-03-2016 00:00,0
+97,16-03-2016 14:57,320D_E92_Coupe_100%_unfallfreie,private,offer,6500,limousine,2008,automatic,177,150000,9,diesel,No,16-03-2016 00:00,0
+98,27-03-2016 20:06,Golf_4_Diesel,private,offer,2900,limousine,2000,manual,101,150000,10,diesel,No,27-03-2016 00:00,0
+99,12-03-2016 12:43,Toyota_Yaris_1_0_Cool____5tuerig,private,offer,7500,Small Car,2009,manual,69,40000,2,petrol,Yes,12-03-2016 00:00,0
+100,20-03-2016 09:58,VW_POLO__1_4_L__TÜV_Neu__EURO__4__1.HAND,private,offer,2222,Combi,2001,manual,75,150000,10,petrol,No,20-03-2016 00:00,0
+101,24-03-2016 14:36,Der_Wagen_ist_Tip_Top_TÜV_neu,private,offer,3200,Small Car,2010,manual,0,60000,12,petrol,No,24-03-2016 00:00,0
+102,10-03-2016 21:55,VW_Polo_1.2_Trendline__Klimaanlage__Top_Zustand,private,offer,5200,Small Car,2008,manual,60,80000,10,petrol,No,10-03-2016 00:00,0
+103,08-03-2016 08:54,Mitsubishi_Pajero_V80_Vollausstattung!!,private,offer,23500,suv,2011,automatic,200,90000,9,diesel,No,08-03-2016 00:00,0
+104,18-03-2016 01:57,BMW_525dA_M_look,private,offer,4500,limousine,2002,automatic,163,150000,2,diesel,No,18-03-2016 00:00,0
+105,23-03-2016 23:38,BMW_525d,private,offer,12500,limousine,2007,manual,177,100000,5,diesel,No,23-03-2016 00:00,0
+106,05-04-2016 00:42,BMW_325i_Aut.,private,offer,9900,limousine,2005,automatic,218,125000,8,petrol,No,04-04-2016 00:00,0
+107,30-03-2016 23:38,Audi_A6_Quattro_Avant,private,offer,3200,Combi,2000,manual,179,150000,11,diesel,No,30-03-2016 00:00,0
+108,04-04-2016 22:40,Golf_5_Grau_Metallic,private,offer,8999,limousine,2009,manual,105,125000,9,petrol,No,04-04-2016 00:00,0
+109,20-03-2016 20:45,Toyota_Aygo,private,offer,3950,Small Car,2009,manual,68,50000,6,petrol,Yes,20-03-2016 00:00,0
+110,15-03-2016 11:51,Opel_Vivaro_2.0_CDTI_L1H1,private,offer,10499,bus,2010,manual,0,150000,1,diesel,NA,15-03-2016 00:00,0
+111,25-03-2016 13:51,Mercedes_Benz_C_180_T_Kompressor_Classic,private,offer,4100,Combi,2003,manual,143,150000,10,petrol,No,25-03-2016 00:00,0
+112,17-03-2016 18:30,Mercedes_Benz_SLK_200_Kompressor,private,offer,17000,cabrio,2004,manual,163,20000,9,petrol,No,17-03-2016 00:00,0
+113,28-03-2016 20:39,Audi_A6_2.4,private,offer,3600,limousine,2001,NA,170,150000,9,petrol,No,28-03-2016 00:00,0
+114,10-03-2016 14:57,Porsche_Cayman_S,private,offer,29500,coupe,2006,manual,295,60000,5,petrol,No,10-03-2016 00:00,0
+115,14-03-2016 13:51,Opel_Vectra_1.9_CDTI_Caravan,private,offer,3600,Combi,2005,manual,150,150000,3,diesel,No,14-03-2016 00:00,0
+116,08-03-2016 15:37,Volkswagen_Scirocco_2.0_TSI,private,offer,14000,coupe,2008,manual,200,90000,11,petrol,No,08-03-2016 00:00,0
+117,15-03-2016 10:53,Mercedes_Benz_cla_180__Urban_Austattung,private,offer,23000,coupe,2013,manual,122,10000,11,petrol,No,15-03-2016 00:00,0
+118,12-03-2016 15:54,Das_Fz_hat_ein_paar_Macken_deswegen_wird_das_du_guenstig_abgegeb,private,offer,1099,Combi,2004,manual,81,150000,6,diesel,NA,12-03-2016 00:00,0
+119,24-03-2016 18:38,Volkswagen_Golf_Variant_1.6_TDI_DPF_BlueMotion,private,offer,10000,Combi,2010,manual,105,150000,11,NA,No,24-03-2016 00:00,0
+120,04-04-2016 08:51,Volkswagen_Lupo_1.0,private,offer,1300,Small Car,2001,manual,50,150000,4,petrol,No,04-04-2016 00:00,0
+121,10-03-2016 22:37,Smart_fortwo_top_zustand_vollautomatik_Navi,private,offer,3790,coupe,2007,automatic,71,80000,3,petrol,No,10-03-2016 00:00,0
+122,20-03-2016 20:39,Ford_Focus_1.6_16V_Style,private,offer,4500,limousine,2007,manual,101,125000,6,petrol,No,20-03-2016 00:00,0
+123,26-03-2016 07:37,Seat_Ibiza_2.Hand_Autogas__Standheizung,private,offer,8350,NA,2011,manual,86,70000,8,petrol,No,26-03-2016 00:00,0
+124,30-03-2016 08:55,VW_Passat_Variant_ComfortLine_1.9_TDI**Zahnrimmen_neu*TÜV+AU_neu*,private,offer,4750,Combi,2006,manual,105,150000,7,diesel,NA,30-03-2016 00:00,0
+125,27-03-2016 18:57,Ford_Focus_Turnier_1.8_DI_Futura,private,offer,1499,Combi,2004,manual,90,150000,1,diesel,No,27-03-2016 00:00,0
+126,07-03-2016 16:57,Mercedes_Benz_C_200_T_CDI_Automatik__TÜV_bis_2017,private,offer,5400,Combi,2004,automatic,122,150000,6,diesel,No,07-03-2016 00:00,0
+127,16-03-2016 18:37,MINI_Cooper_Cabrio_/_PDC_/_Alufelgen__Winter__inkl.,private,offer,14650,cabrio,2011,automatic,122,40000,5,petrol,No,16-03-2016 00:00,0
+128,01-04-2016 21:37,Volkswagen_Touran_1.9_TDI_DPF_mit_Navi__Tempomat_...,private,offer,9300,bus,2006,manual,105,100000,12,diesel,No,01-04-2016 00:00,0
+129,26-03-2016 20:51,BMW_316ti_compact_Edition_Lifestyle_TÜV_NEU,private,offer,3900,coupe,2004,manual,116,150000,3,petrol,No,26-03-2016 00:00,0
+130,25-03-2016 21:54,Mazda_3_1.6_CD_DPF,private,offer,3690,limousine,2007,manual,109,150000,2,diesel,No,25-03-2016 00:00,0
+131,20-03-2016 19:51,Audi_A4_Avant_2.0_TFSI_Ambiente__Leder__unfallfrei,private,offer,12990,Combi,2010,manual,179,125000,4,petrol,No,20-03-2016 00:00,0
+132,28-03-2016 19:56,Volkswagen_Jetta_1.4_TSI_Comfortline,private,offer,5490,limousine,2006,manual,140,150000,11,petrol,No,28-03-2016 00:00,0
+133,19-03-2016 10:58,Mercedes_Benz_C_220_T_CDI_DPF_Automatik_Avantgarde,private,offer,9400,Combi,2009,automatic,170,150000,1,diesel,No,19-03-2016 00:00,0
+134,21-03-2016 09:37,Peugeot_307_110_Platinum__TÜV_NEU,private,offer,1999,limousine,2001,manual,109,150000,9,petrol,No,21-03-2016 00:00,0
+135,30-03-2016 04:03,BMW_320d_DPF_touring__Euro_4_Klima_AHK,private,offer,2250,Combi,2004,manual,150,150000,12,diesel,No,30-03-2016 00:00,0
+136,04-04-2016 14:37,POLO_6N2__1_4_16V__75PS_Klima__Servo_Funk_ZV_aus_1_Hand_,private,offer,1800,NA,2016,manual,75,150000,8,petrol,No,04-04-2016 00:00,0
+137,22-03-2016 19:25,Mazda_Tribute_3.0___V_6__Exclusive__Automatik__LPG__Leder___AHK,private,offer,6999,suv,2004,automatic,203,125000,11,lpg,No,22-03-2016 00:00,0
+138,31-03-2016 13:47,Renault_Kangoo_1.5_dCi_Expression,private,offer,1700,bus,2002,manual,82,150000,8,diesel,No,31-03-2016 00:00,0
+139,10-03-2016 15:54,Audi_A8_4.2_quattro_Langversion,private,offer,7800,limousine,2005,automatic,334,150000,9,petrol,Yes,10-03-2016 00:00,0
+140,14-03-2016 10:38,Nissan_Primera_Traveller_1.8_Aut.___56.677_Km.,private,offer,4500,Combi,2006,manual,116,60000,8,petrol,No,14-03-2016 00:00,0
+141,06-04-2016 13:06,Opel_Tigra_Twin_Top_1.8_Edition,private,offer,7300,cabrio,2008,manual,125,20000,3,petrol,No,06-04-2016 00:00,0
+142,05-03-2016 17:45,Volkswagen_Golf_1.4_Trendline_1.Hand_mit_Sitzheizung,private,offer,8690,limousine,2009,manual,80,50000,7,petrol,No,05-03-2016 00:00,0
+143,30-03-2016 18:56,Volkswagen_Bora_Variant_1.9_TDI_Sport_Edition,private,offer,2599,Combi,2002,manual,131,150000,7,diesel,No,30-03-2016 00:00,0
+144,28-03-2016 21:53,Renault_Grand_Espace_3.0_dCi_Dynamique,private,offer,3950,bus,2005,automatic,177,150000,9,diesel,No,28-03-2016 00:00,0
+145,23-03-2016 13:50,Mercedes_W_203_Sportcoupe_mit_Vollausstattung,private,offer,4390,coupe,2001,automatic,170,150000,3,petrol,No,23-03-2016 00:00,0
+146,17-03-2016 10:48,Ford_Fiesta_1_3_Toller_Zustand_viele_Rechnungen...Neuteile!,private,offer,2099,Small Car,2004,manual,60,150000,6,petrol,No,17-03-2016 00:00,0
+147,23-03-2016 22:51,Volkswagen_Passat_Variant_1.6_TDI_DPF_BlueMotion,private,offer,7777,Combi,2010,manual,105,150000,6,diesel,No,23-03-2016 00:00,0
+148,24-03-2016 15:51,Volkswagen_Golf_1.4_TSI_Highline,private,offer,8800,limousine,2010,manual,122,125000,2,petrol,No,24-03-2016 00:00,0
+149,15-03-2016 16:48,Smart__Fortwo_Coupe_Klima__Leder__Automatik,private,offer,4399,Small Car,2011,automatic,61,40000,12,petrol,No,15-03-2016 00:00,0
+150,18-03-2016 23:46,Suzuki_Liana_Kombi_1.4_Klimaanlage_Zentralverriegelung,private,offer,1900,Combi,2005,manual,90,150000,8,diesel,No,18-03-2016 00:00,0
+151,09-03-2016 00:59,Ales_ok_raifen_bremze_oli_ales_noq,private,offer,3000,limousine,2001,manual,0,5000,1,diesel,NA,08-03-2016 00:00,0
+152,20-03-2016 08:37,Peugeot_206_75_Platinum_95000_km_Automatik___4/5_Tueren_TÜV_03.17,private,offer,2000,limousine,2002,automatic,75,100000,3,petrol,NA,20-03-2016 00:00,0
+153,17-03-2016 22:40,Toyota_Corolla_1.4_Sol_Neue_TÜV,private,offer,3550,limousine,2004,manual,97,150000,1,petrol,No,17-03-2016 00:00,0
+154,30-03-2016 09:56,Volkswagen_Passat,private,offer,9900,limousine,2005,manual,0,125000,2,NA,No,30-03-2016 00:00,0
+155,07-03-2016 21:54,BMW_520i,private,offer,1999,limousine,2001,manual,170,150000,12,petrol,No,07-03-2016 00:00,0
+156,23-03-2016 12:48,KIA_CARNIVAL_EX_BUSINESS_2.9_CRDI,private,offer,1599,bus,2005,manual,144,150000,3,diesel,NA,23-03-2016 00:00,0
+157,20-03-2016 14:52,Opel_Astra,private,offer,2199,cabrio,2003,manual,0,150000,11,petrol,No,20-03-2016 00:00,0
+158,20-03-2016 15:44,Land_Rover_Defender,private,offer,20500,suv,2008,manual,122,125000,4,diesel,No,20-03-2016 00:00,0
+159,01-04-2016 10:50,Smart_451_Cabrio_+_8_Fach_+_Alu_+_wenig_Kilometer__*TOP*,private,offer,8900,cabrio,2013,NA,0,20000,5,petrol,NA,01-04-2016 00:00,0
+160,24-03-2016 20:25,Renault_Clio_1.2_Authentique,private,offer,1820,Small Car,2003,manual,58,90000,4,petrol,No,24-03-2016 00:00,0
+161,10-03-2016 10:53,Mercedes_Benz_Bestattungswagen/Leichenwagen,private,offer,8400,Combi,2001,automatic,143,150000,8,NA,No,10-03-2016 00:00,0
+162,03-04-2016 12:55,Panda_Schnaeppchen_Modell_2011_Wenig_Kilometer_Klima,private,offer,3999,Combi,2010,manual,60,70000,11,petrol,NA,03-04-2016 00:00,0
+163,29-03-2016 12:56,"Volkswagen_Golf_GTD_BMT_DSG_19""_Navi_AHK_PanoDach_Assistenz",private,offer,31900,limousine,2015,automatic,184,10000,5,diesel,No,29-03-2016 00:00,0
+164,06-03-2016 17:06,Bmw_525d_M_Paket,private,offer,7500,Combi,2004,automatic,177,150000,11,diesel,No,06-03-2016 00:00,0
+165,30-03-2016 20:06,Opel_Corsa_1.2_Edition,private,offer,11600,Small Car,2015,manual,69,10000,5,petrol,No,30-03-2016 00:00,0
+166,20-03-2016 17:50,Opel_Vivaro_1.9_CDTI_L2H1,private,offer,3000,bus,2005,manual,101,125000,9,diesel,No,20-03-2016 00:00,0
+167,11-03-2016 22:46,Audi_A6_Avant_2.7_TDI_DPF_multitronic,private,offer,22100,Combi,2009,automatic,190,100000,11,diesel,No,11-03-2016 00:00,0
+168,03-04-2016 01:57,Opel_Astra_1.6_UNFALLFREI_TOP_ZUSTAND,private,offer,1950,limousine,2000,manual,84,150000,10,petrol,No,03-04-2016 00:00,0
+169,27-03-2016 22:57,Mercedes_Benz_E_220_CDI_Automatik_Classic,private,offer,4990,limousine,2003,automatic,150,150000,9,diesel,No,27-03-2016 00:00,0
+170,05-03-2016 17:47,Audi_1.6_Ambiente,private,offer,5700,Small Car,2004,manual,116,150000,3,petrol,No,05-03-2016 00:00,0
+171,13-03-2016 11:51,320d_touring,private,offer,2499,Combi,2000,manual,136,150000,7,diesel,NA,13-03-2016 00:00,0
+172,30-03-2016 22:53,BMW_E60_525iA_Scheckheft_/_M_Paket_/19_Zoll_/_Individual_/_Folie,private,offer,16999,limousine,2004,automatic,192,150000,6,petrol,No,30-03-2016 00:00,0
+173,28-03-2016 18:42,Audi_Q5_2.0TDI_quattro_Stronic__Xenon__Navi__Panorama,private,offer,26500,limousine,2010,automatic,170,90000,4,diesel,No,28-03-2016 00:00,0
+174,06-04-2016 10:36,Mercedes_Benz_CLK_Cabrio_240_Elegance,private,offer,11500,cabrio,2003,automatic,170,150000,7,petrol,No,06-04-2016 00:00,0
+175,28-03-2016 10:37,Opel_Astra_1.6_Turbo_Innovation_OPC__Line_Paket,private,offer,16999,limousine,2012,manual,179,50000,5,petrol,No,28-03-2016 00:00,0
+176,19-03-2016 20:58,Volkswagen_Golf_Variant_1.9_TDI_Ocean,private,offer,3450,Combi,2005,manual,101,150000,6,diesel,No,19-03-2016 00:00,0
+177,10-03-2016 09:52,Citroën_Xsara_Picasso_1.6_Exclusive_1.Hand_Euro_4,private,offer,2300,bus,2007,manual,109,150000,3,petrol,No,10-03-2016 00:00,0
+178,23-03-2016 18:56,Peugeot_206_5_tuerig_nur_93.000km_2._Hand__12_fach_bereift,private,offer,2499,limousine,2001,manual,60,100000,3,petrol,No,23-03-2016 00:00,0
+179,16-03-2016 13:50,Hyundai_i30_Coupé,private,offer,10400,coupe,2014,manual,99,20000,3,petrol,No,16-03-2016 00:00,0
+180,19-03-2016 14:48,Opel_Astra_1.6,private,offer,12999,limousine,2014,manual,116,30000,9,petrol,No,19-03-2016 00:00,0
+181,03-04-2016 14:49,honda_jazz_1.4__klima__aus_1.hand._141_tkm__euro_4,private,offer,1600,limousine,2003,manual,83,150000,10,petrol,NA,03-04-2016 00:00,0
+182,20-03-2016 02:02,Vw_Polo_6kv_1.4_Liter_16_V_23_Monate_Tuef,private,offer,2384,Combi,2001,manual,75,150000,8,petrol,No,20-03-2016 00:00,0
+183,16-03-2016 14:46,VW_FOX_1.2_Fresh__40Kw__Benzin__Bj._2008__69.500_km,private,offer,3500,Small Car,2008,manual,54,70000,7,petrol,NA,16-03-2016 00:00,0
+184,30-03-2016 10:51,Jaguar_XJR,private,offer,14500,limousine,2000,automatic,363,150000,12,petrol,No,30-03-2016 00:00,0
+185,22-03-2016 11:59,318_Ci_Cabrio_M_PACKET_LPG_GAS_LEDER_NAVi_HARTOP_Prins,private,offer,9990,cabrio,2005,NA,150,150000,5,lpg,NA,22-03-2016 00:00,0
+186,05-03-2016 19:38,Golf_Kombi_*_Reserviert*,private,offer,1500,Combi,2001,manual,100,150000,5,diesel,No,05-03-2016 00:00,0
+187,27-03-2016 17:58,MINI_Mini_Cooper,private,offer,4400,Small Car,2003,manual,116,150000,2,petrol,No,27-03-2016 00:00,0
+188,30-03-2016 21:42,Honda_Jazz_1.4_LS,private,offer,1890,Small Car,2002,manual,83,150000,5,petrol,No,30-03-2016 00:00,0
+189,22-03-2016 15:58,Volkswagen_Passat_Variant_2.0_Highline,private,offer,3900,Combi,2003,manual,116,150000,11,petrol,No,22-03-2016 00:00,0
+190,28-03-2016 15:25,MINI_Mini_One,private,offer,3200,Small Car,2001,manual,90,150000,11,petrol,No,28-03-2016 00:00,0
+191,23-03-2016 19:57,Dacia_Duster,private,offer,15500,suv,2013,manual,110,50000,12,diesel,No,23-03-2016 00:00,0
+192,04-04-2016 21:44,BMW_530_d_e61_Xenon_Leder_NaviProf.__HeadUp_KeylessGO_Pano_!!,private,offer,9299,Combi,2006,automatic,231,150000,12,diesel,NA,04-04-2016 00:00,0
+193,12-03-2016 16:52,Ford_C_MAX_2.0_Ghia_verfuegbar_ab_April_2016,private,offer,7200,bus,2008,manual,145,50000,5,petrol,No,12-03-2016 00:00,0
+194,23-03-2016 16:52,Volkswagen_Golf_2.0_TDI_DPF_DSG_GT,private,offer,5499,limousine,2006,automatic,170,150000,10,diesel,No,23-03-2016 00:00,0
+195,17-03-2016 21:45,Skoda_Fabia_1.2__Benzin___TOP_Zustand__gepflegt__vierfach_bereift,private,offer,4500,limousine,2008,manual,60,90000,3,petrol,No,17-03-2016 00:00,0
+196,16-03-2016 21:54,Volkswagen_Golf_2.0_GTI_DSG_*TOP*_TÜV_01/2018*,private,offer,10490,limousine,2005,automatic,200,90000,2,petrol,No,16-03-2016 00:00,0
+197,01-04-2016 15:57,Vw_Golf_5_GT_Sport_2.0_Tdi,private,offer,10900,limousine,2008,manual,170,150000,9,diesel,No,01-04-2016 00:00,0
+198,25-03-2016 20:37,Audi_A3_Sportback,private,offer,7250,Combi,2005,automatic,150,150000,12,petrol,No,25-03-2016 00:00,0
+199,26-03-2016 10:50,Volkswagen_Golf_2.0_TDI_Trendline,private,offer,3150,limousine,2006,manual,140,150000,2,diesel,No,26-03-2016 00:00,0
+200,14-03-2016 22:38,Fiat_500_1.2_Pop,private,offer,7600,Small Car,2011,manual,69,40000,11,petrol,No,14-03-2016 00:00,0
+201,30-03-2016 15:52,Alfa_Romeo_GT_3.2_V6_Distinctive,private,offer,7200,coupe,2005,manual,241,125000,9,petrol,No,30-03-2016 00:00,0
+202,05-03-2016 14:43,move_up!__1.hand__nur_5800km_Klima_PDC_Wie_Neu,private,offer,7990,Small Car,2013,manual,60,10000,4,petrol,No,05-03-2016 00:00,0
+203,01-04-2016 19:57,Peugeot_206_CC_110,private,offer,3600,cabrio,2004,manual,109,150000,3,petrol,No,01-04-2016 00:00,0
+204,04-04-2016 19:54,Volkswagen_Polo_1.2_|_TÜV_|_inkl._Alufelgen_u._Sommerreifen,private,offer,2500,Small Car,2003,manual,54,125000,12,petrol,No,04-04-2016 00:00,0
+205,26-03-2016 19:51,Ford_Fiesta,private,offer,5500,Small Car,2010,manual,82,150000,9,petrol,No,26-03-2016 00:00,0
+206,17-03-2016 10:58,Berlingo_1_4_L_neu_Kupplung_!,private,offer,2550,bus,2004,manual,75,150000,5,petrol,NA,17-03-2016 00:00,0
+207,14-03-2016 07:56,Mazda_Tribute_fuer_Export_oder_Bastler,private,offer,2800,suv,2003,manual,124,150000,0,petrol,No,14-03-2016 00:00,0
+208,14-03-2016 15:56,BMW_530d_Touring_Sport_Aut.,private,offer,30500,Combi,2011,automatic,258,80000,10,diesel,No,14-03-2016 00:00,0
+209,07-04-2016 03:06,Opel_Corsa_12V__TÜV_NEU_2018,private,offer,1300,Small Car,2000,manual,54,150000,4,petrol,No,07-04-2016 00:00,0
+210,08-03-2016 18:42,Opel_Astra_1_6_Baujahr_2010,private,offer,7690,limousine,2010,manual,0,70000,0,petrol,NA,08-03-2016 00:00,0
+211,08-03-2016 20:57,Audi_A8_4.2_quattro,private,offer,7750,limousine,2000,automatic,310,150000,6,petrol,No,08-03-2016 00:00,0
+212,21-03-2016 20:36,Audi_A3_2.0_FSI_S_Line_Sportpaket_plus,private,offer,4290,limousine,2003,manual,150,150000,12,petrol,No,21-03-2016 00:00,0
+213,27-03-2016 10:52,Ford_Focus_Cabrio,private,offer,6700,cabrio,2007,manual,100,150000,5,petrol,NA,27-03-2016 00:00,0
+214,29-03-2016 00:57,Citroën_DS3,private,offer,8888,Small Car,2012,manual,120,70000,5,petrol,Yes,28-03-2016 00:00,0
+215,17-03-2016 09:43,VW_Passat_3C_Variant_/_Kombi__2.0_TDI___DSG__TÜV_NEU__TOP_Zustand,private,offer,7900,Combi,2007,automatic,140,150000,3,diesel,No,10-02-2016 00:00,0
+216,15-03-2016 09:50,Audi_A4_allroad_quattro_2.0_TDI_Pano_Dach_Navi_Xenon.,private,offer,14850,Combi,2011,manual,170,150000,8,diesel,No,15-03-2016 00:00,0
+217,03-04-2016 14:54,Golf_5_GTI_ca._250PS__Ansaugsystem__Xenon__PDC__Gewindefahrwerk,private,offer,5950,limousine,2005,manual,250,150000,9,petrol,No,03-04-2016 00:00,0
+218,28-03-2016 21:25,Audi_A4_Avant_1.8_T_quattro,private,offer,3000,Combi,2004,manual,163,150000,5,petrol,No,28-03-2016 00:00,0
+219,18-03-2016 07:36,Volkswagen_Caddy_Life_TEAM_7_Sitzer_1.4l_Heckfluegeltueren,private,offer,8650,bus,2010,manual,80,90000,5,petrol,No,18-03-2016 00:00,0
+220,03-04-2016 11:36,Renault_Kangoo_1.5dCi__Privilege_von_Privat_mit_vielen_Extras_!,private,offer,5999,Combi,2008,manual,103,150000,8,diesel,NA,03-04-2016 00:00,0
+221,04-04-2016 16:58,MAZDA_323_SPORTY_1_6_LT_MIT_KLIMA........2_JAHRE_TÜV_MOTOR_TOP...,private,offer,1590,Small Car,2001,manual,98,150000,7,petrol,No,04-04-2016 00:00,0
+222,21-03-2016 19:54,Audi_A4_Avant_2.5_TDI_quattro_S_Line_Bose_Navi_Leder,private,offer,4200,Combi,2004,manual,179,150000,1,diesel,No,21-03-2016 00:00,0
+223,14-03-2016 20:57,Auto_zu_Verkaufen,private,offer,2600,Small Car,2005,manual,75,150000,4,petrol,No,14-03-2016 00:00,0
+224,21-03-2016 23:55,"Opel_GT_Roadster_20""_Schmidt_Felgen_H&R_300_PS",private,offer,14500,cabrio,2008,manual,300,60000,9,petrol,No,21-03-2016 00:00,0
+225,11-03-2016 19:56,Renault_Scenic_1.4_TCe_130_Dynamique,private,offer,8300,bus,2011,manual,130,60000,6,petrol,No,11-03-2016 00:00,0
+226,24-03-2016 18:59,Volkswagen_Golf_Plus_1.2_TSI_Style,private,offer,11490,bus,2011,manual,86,30000,9,petrol,No,24-03-2016 00:00,0
+227,19-03-2016 11:55,Opel_Corsa_C_Comfort_1.o_12V_58PS__112000_KM_Guter_Zustand_2002,private,offer,1680,Small Car,2002,manual,58,125000,4,petrol,No,19-03-2016 00:00,0
+228,21-03-2016 19:48,BMW_116i_schwarz,private,offer,6500,limousine,2006,manual,116,125000,5,petrol,NA,21-03-2016 00:00,0
+229,03-04-2016 13:39,BMW_318i_mit_Automatikgetriebe_tuv_ASU_neu,private,offer,2990,limousine,2001,automatic,118,150000,5,petrol,No,03-04-2016 00:00,0
+230,20-03-2016 14:48,ML_350_CDI_Bluetec_Vollaustattung,private,offer,25800,suv,2012,automatic,258,150000,2,diesel,NA,20-03-2016 00:00,0
+231,17-03-2016 10:58,Fiat_Grande_Punto_1.4_16V_Dynamic_Klima_TÜV_NEU,private,offer,3399,Small Car,2007,manual,95,125000,8,petrol,No,17-03-2016 00:00,0
+232,02-04-2016 09:51,Audi_A5_S_line_2.0_TFSI_179_Ps,private,offer,15000,coupe,2009,manual,179,125000,6,petrol,No,02-04-2016 00:00,0
+233,21-03-2016 23:57,Ford_Focus_Liousine___gebraucht_im_GUTEN_Zustand,private,offer,4500,limousine,2008,automatic,110,150000,10,diesel,No,21-03-2016 00:00,0
+234,07-04-2016 07:36,Bmw_e46_320i_Cabrio_M_Paket,private,offer,9950,cabrio,2003,manual,170,125000,6,petrol,No,07-04-2016 00:00,0
+235,24-03-2016 17:54,Opel_Meriva_1.7_CDTI_DPF,private,offer,6100,bus,2008,manual,101,100000,10,diesel,No,24-03-2016 00:00,0
+236,20-03-2016 16:48,BMW_535d_xDrive_Touring_Sport_Aut.,private,offer,37800,Combi,2011,automatic,313,90000,11,diesel,No,20-03-2016 00:00,0
+237,30-03-2016 23:56,MINI_Mini_Cooper,private,offer,5690,Small Car,2003,manual,116,150000,1,petrol,No,30-03-2016 00:00,0
+238,08-03-2016 20:47,MINI_Cooper_Cabrio_Leder_PDC_1_Hand_Klimaanlage,private,offer,5500,cabrio,2006,manual,116,150000,11,petrol,Yes,08-03-2016 00:00,0
+239,27-03-2016 15:53,Nissan_Primera_Traveller_2.0,private,offer,1450,Combi,2004,NA,0,150000,6,petrol,No,27-03-2016 00:00,0
+240,06-03-2016 23:38,Suzuki_Jimny_Style_4x4_TÜV_neu_Scheckheft,private,offer,6900,suv,2006,manual,86,125000,0,petrol,NA,06-03-2016 00:00,0
+241,21-03-2016 20:52,Opel_Zafira_B_1.9_CDTI,private,offer,5799,Other,2005,automatic,150,125000,9,diesel,NA,21-03-2016 00:00,0
+242,23-03-2016 13:57,BMW_523i,private,offer,6900,limousine,2005,manual,177,150000,4,petrol,No,23-03-2016 00:00,0
+243,19-03-2016 12:49,Citroen_C1_Scheckheft__Winterreifen__Klima__wenig_Km,private,offer,4700,Small Car,2012,manual,68,40000,1,petrol,No,19-03-2016 00:00,0
+244,30-03-2016 15:37,Mercedes_Benz_GLK_220__4Mat_Alcantara/_Kamera_7G_TRONIC,private,offer,32499,suv,2014,automatic,170,30000,7,diesel,No,30-03-2016 00:00,0
+245,30-03-2016 14:57,Volkswagen_Passat_CC,private,offer,13900,coupe,2010,manual,170,100000,10,diesel,No,30-03-2016 00:00,0
+246,29-03-2016 21:55,Opel_Astra_1.6_Caravan_Edition_2000,private,offer,1250,Combi,2000,manual,75,150000,1,petrol,No,29-03-2016 00:00,0
+247,22-03-2016 09:36,Mercedes_Benz_C_200_T_CDI_DPF_BlueEFFICIENCY,private,offer,10800,Combi,2010,manual,136,150000,6,diesel,No,22-03-2016 00:00,0
+248,11-03-2016 16:57,320d_DPF_Touring,private,offer,3100,Combi,2007,NA,0,150000,11,diesel,No,11-03-2016 00:00,0
+249,23-03-2016 12:38,Volkswagen_Sharan_1.9_TDI_Automatik_Highline,private,offer,5500,bus,2005,automatic,116,150000,12,diesel,No,23-03-2016 00:00,0
+250,11-03-2016 10:54,Volkswagen_Golf_V1.9_TDI_Comfortline__Schecksh._Top_Zustand,private,offer,4100,limousine,2004,manual,105,150000,8,diesel,No,11-03-2016 00:00,0
+251,24-03-2016 11:41,Audi_A4_Cabriolet_2.0_TDI_DPF,private,offer,10850,cabrio,2006,manual,140,150000,4,diesel,No,24-03-2016 00:00,0
+252,16-03-2016 19:47,Peugeot_207_CC_120_VTi_Sport,private,offer,6999,cabrio,2008,manual,120,70000,7,petrol,No,16-03-2016 00:00,0
+253,31-03-2016 21:56,Opel_Corsa_1.2_16V_Edition,private,offer,6350,Small Car,2008,manual,80,70000,3,petrol,No,31-03-2016 00:00,0
+254,02-04-2016 15:45,Mercedes_Benz_C_270_T_CDI_Avantgarde,private,offer,5250,Combi,2004,automatic,170,150000,11,diesel,No,02-04-2016 00:00,0
+255,31-03-2016 19:56,Peugeot_207,private,offer,4200,Small Car,2006,manual,73,100000,10,petrol,No,31-03-2016 00:00,0
+256,28-03-2016 10:58,Peugeot_Boxer_HDi_330_L2H2,private,offer,8800,bus,2009,manual,120,100000,1,diesel,No,28-03-2016 00:00,0
+257,10-03-2016 20:43,Daihatsu_Cuore__gepflegter_Kleinwagen_mit_HU_bis_Februar_2018.,private,offer,1450,Small Car,2003,manual,58,150000,10,petrol,No,10-03-2016 00:00,0
+258,03-04-2016 18:47,Opel_Astra_Cabrio_2.2_16V,private,offer,5900,cabrio,2004,manual,147,125000,11,petrol,No,03-04-2016 00:00,0
+259,21-03-2016 15:57,Ford_S_Max_2.0_TDCi_DPF_Titanium_7_SITZER,private,offer,8950,bus,2007,NA,140,150000,9,diesel,No,21-03-2016 00:00,0
+260,29-03-2016 21:39,Ford_Fiesta_ST,private,offer,3190,Small Car,2005,manual,150,150000,0,petrol,No,29-03-2016 00:00,0
+261,11-03-2016 22:52,Audi_A1_1.2_TFSI__Ambition___Audi_exclusiv,private,offer,10250,Small Car,2010,manual,86,60000,10,petrol,No,11-03-2016 00:00,0
+262,02-04-2016 19:55,MINI_Cooper_S_Countryman,private,offer,19000,Small Car,2011,manual,184,70000,10,petrol,No,02-04-2016 00:00,0
+263,22-03-2016 14:56,Volkswagen_Touran_1.6_FSI_Goal_Navi_SHZ_Klimaautomatik,private,offer,6300,bus,2006,manual,116,125000,3,petrol,No,22-03-2016 00:00,0
+264,04-04-2016 19:59,Seat_Leon_1.9_TDI_Stylance_aus_2_Hand_Scheckheft,private,offer,3990,limousine,2005,manual,105,150000,12,diesel,No,04-04-2016 00:00,0
+265,12-03-2016 19:50,Opel_Zafira_1.9_CDTI,private,offer,6800,bus,2009,manual,120,150000,5,diesel,No,12-03-2016 00:00,0
+266,20-03-2016 12:59,VW_Golf_V_in_schwarz_BJ_2004,private,offer,2450,limousine,2004,manual,75,100000,7,petrol,NA,20-03-2016 00:00,0
+267,24-03-2016 15:49,BMW_118d_DPF__eSD__SiH__Scheckh.__SpL__Klima__NSW,private,offer,13490,limousine,2009,manual,143,60000,8,diesel,No,24-03-2016 00:00,0
+268,08-03-2016 14:55,Ford_Expedition,private,offer,4999,suv,2004,automatic,242,100000,3,petrol,No,08-03-2016 00:00,0
+269,22-03-2016 19:36,Audi_A3_Cabriolet_1.8_TFSI_S_tronic_Ambition,private,offer,20600,cabrio,2011,automatic,160,60000,3,petrol,No,22-03-2016 00:00,0
+270,31-03-2016 22:38,Volkswagen_Passat_Variant_1.9_TDI,private,offer,2450,Combi,2002,manual,131,150000,9,diesel,Yes,31-03-2016 00:00,0
+271,26-03-2016 17:58,BMW_320ci_Cabrio_Tuev_neu_viele_neuteile._MPacket_V.w,private,offer,6000,cabrio,2001,manual,0,150000,3,NA,No,26-03-2016 00:00,0
+272,24-03-2016 17:49,Verkaufe_meinen_Treuen_Wagen,private,offer,1200,limousine,2000,manual,95,150000,5,petrol,NA,24-03-2016 00:00,0
+273,10-03-2016 21:38,Renault_Espace_2.0_Dynamique,private,offer,2990,bus,2005,manual,170,150000,10,petrol,No,10-03-2016 00:00,0
+274,15-03-2016 11:41,Mercedes_Benz_Mercedes_Benz_Sprinter_II_Kombi_315CDI_Hoch_ANH.,private,offer,9290,bus,2006,automatic,150,150000,9,diesel,No,15-03-2016 00:00,0
+275,22-03-2016 23:48,Seat_Ibiza_1.4_16V_Reference,private,offer,2890,Small Car,2007,manual,86,150000,2,petrol,No,22-03-2016 00:00,0
+276,31-03-2016 17:54,Hallo_gutten_tag_fur_info_tel_015781245408,private,offer,12999,NA,2005,automatic,210,90000,9,petrol,No,31-03-2016 00:00,0
+277,04-04-2016 13:54,Mercedes_E_200_Kompressor_Elegance_Tuev_Orig.Km_Top_Zustand,private,offer,2800,limousine,2001,manual,163,125000,6,petrol,No,04-04-2016 00:00,0
+278,12-03-2016 14:50,Volkswagen_Caddy_2.0_TDI,private,offer,12450,Combi,2011,NA,0,125000,3,diesel,No,12-03-2016 00:00,0
+279,05-04-2016 00:46,VW_Golf_4_1_9_tdi_Klimaanlage,private,offer,1800,Other,2002,manual,101,150000,4,diesel,Yes,04-04-2016 00:00,0
+280,29-03-2016 23:55,Renault_Twingo_LPG_Gas_Anlage,private,offer,3950,Small Car,2010,manual,56,150000,10,lpg,No,24-03-2016 00:00,0
+281,03-04-2016 18:55,Golf_Plus_2009_1_6Liter,private,offer,6950,Combi,2009,manual,102,125000,8,petrol,NA,03-04-2016 00:00,0
+282,23-03-2016 03:36,Opel_Corsa_1.6_Turbo_OPC,private,offer,7250,Small Car,2008,manual,192,100000,1,petrol,No,23-03-2016 00:00,0
+283,22-03-2016 23:47,Opel_Corsa_1.2_Twinport_Van_Easytronic,private,offer,4250,Small Car,2007,automatic,80,80000,3,petrol,NA,22-03-2016 00:00,0
+284,09-03-2016 21:57,Smart_smart_&_pulse,private,offer,2190,Small Car,2003,automatic,61,100000,1,petrol,No,09-03-2016 00:00,0
+285,16-03-2016 10:06,Mercedes_Benz_R_320_CDI_4Matic_7G_TRONIC_+_7_Sitz_+_Keyless_go,private,offer,13990,bus,2009,automatic,224,150000,6,diesel,No,16-03-2016 00:00,0
+286,02-04-2016 21:54,Peugeot_307_CC_135,private,offer,3999,cabrio,2004,manual,136,150000,9,petrol,No,02-04-2016 00:00,0
+287,15-03-2016 21:56,BMW_320i_touring_Teilleder/Harman_Kardon,private,offer,4000,Combi,2002,manual,170,150000,11,petrol,No,15-03-2016 00:00,0
+288,18-03-2016 15:48,Smart_smart_fortwo_coupe_pure_micro_hybrid_drive,private,offer,3600,Small Car,2009,manual,61,70000,1,petrol,No,18-03-2016 00:00,0
+289,24-03-2016 19:46,Mercedes_Benz_E_270_CDI,private,offer,6999,limousine,2004,automatic,177,150000,3,diesel,No,24-03-2016 00:00,0
+290,02-04-2016 13:37,Smart_fortwo_coupe_voll_fahrbereit,private,offer,2300,coupe,2005,automatic,61,125000,6,petrol,No,02-04-2016 00:00,0
+291,09-03-2016 15:38,Volkswagen_Golf_1.9_TDI_Highline,private,offer,3500,limousine,2002,manual,150,150000,7,diesel,No,09-03-2016 00:00,0
+292,27-03-2016 20:36,Audi_A6_Allroad,private,offer,7500,Combi,2003,manual,165,150000,12,diesel,No,27-03-2016 00:00,0
+293,01-04-2016 11:49,Audi_A6_3.2_FSI,private,offer,6499,limousine,2008,automatic,258,150000,1,petrol,No,01-04-2016 00:00,0
+294,23-03-2016 16:58,Toyota_RAV4,private,offer,4500,suv,2002,manual,136,150000,7,petrol,No,23-03-2016 00:00,0
+295,15-03-2016 14:36,Volkswagen_Passat_Variant_1.6_Comfortline,private,offer,1655,Combi,2001,manual,101,150000,3,petrol,No,15-03-2016 00:00,0
+296,21-03-2016 21:38,Opel_Corsa_1.4_16V_Innovation_110_Jahre,private,offer,5700,Small Car,2009,manual,90,100000,4,petrol,No,21-03-2016 00:00,0
+297,04-04-2016 09:56,Toyota_Toyota_Yaris_1.3_VVT___I_Blue_Line,private,offer,4000,Small Car,2006,manual,87,80000,5,petrol,No,04-04-2016 00:00,0
+298,10-03-2016 22:55,BMW_530d_Touring_Blue_Performance_Aut.,private,offer,19500,Combi,2011,automatic,245,150000,4,diesel,No,10-03-2016 00:00,0
+299,13-03-2016 01:31,Audi_A3_1.8_Ambiente_Automatik_Alcantara,private,offer,1600,limousine,2001,automatic,125,150000,3,petrol,No,12-03-2016 00:00,0
+300,20-03-2016 18:57,Kia_Rio_1.5_CRDi_DPF_EX_Top_Gruene_Plakette,private,offer,2350,Small Car,2006,manual,110,150000,8,diesel,No,20-03-2016 00:00,0
+301,09-03-2016 15:43,VW_Passat_2.0_TDI_Trendline,private,offer,4950,Combi,2008,manual,140,150000,7,diesel,No,09-03-2016 00:00,0
+302,17-03-2016 20:37,Ford_Fiesta_1.25_Trend__Unfallfrei__Klima__Scheckheft_gepflegt_,private,offer,5600,Small Car,2009,manual,60,80000,3,petrol,No,17-03-2016 00:00,0
+303,02-04-2016 23:52,Mercedes_Benz_C_180_Kompressor_Automatik_Elegance,private,offer,12800,limousine,2008,automatic,156,70000,4,petrol,No,02-04-2016 00:00,0
+304,25-03-2016 11:45,MINI_Mini_Cooper,private,offer,24500,Small Car,2015,manual,136,20000,6,petrol,No,25-03-2016 00:00,0
+305,11-03-2016 19:56,Volkswagen_Golf_1.4_Tour,private,offer,5950,limousine,2007,manual,80,100000,1,petrol,No,11-03-2016 00:00,0
+306,26-03-2016 19:49,Seat_Ibiza_1.4_16V_SportEdition,private,offer,4750,Small Car,2007,manual,86,125000,12,petrol,No,26-03-2016 00:00,0
+307,09-03-2016 18:57,Golf_VI__TSI_1.2__schwarz__105_PS__Navi,private,offer,12700,limousine,2011,manual,105,50000,2,petrol,NA,09-03-2016 00:00,0
+308,22-03-2016 17:54,Verkaufe_Opel_Corsa_D,private,offer,5000,Small Car,2007,NA,90,80000,5,petrol,No,22-03-2016 00:00,0
+309,08-03-2016 03:55,Bmw_320_diesle_163ps_6_gange_navigatie,private,offer,6290,Combi,2005,manual,163,150000,11,diesel,No,08-03-2016 00:00,0
+310,31-03-2016 12:47,Volkswagen_Lupo_1.0,private,offer,1600,Small Car,2000,manual,50,125000,2,petrol,No,31-03-2016 00:00,0
+311,29-03-2016 20:43,Smart_ForTwo,private,offer,3250,Small Car,2007,NA,0,125000,10,petrol,No,29-03-2016 00:00,0
+312,09-03-2016 12:52,Renault_Twingo_1.2,private,offer,1950,Small Car,2002,manual,58,150000,3,petrol,No,09-03-2016 00:00,0
+313,16-03-2016 18:56,Privatverkauf,private,offer,4500,bus,2006,manual,64,60000,12,petrol,NA,16-03-2016 00:00,0
+314,22-03-2016 13:57,Skoda_Octavia_1.9_TDI_PD_Combi_Selection_4x4,private,offer,2500,Combi,2004,manual,101,150000,3,diesel,No,22-03-2016 00:00,0
+315,19-03-2016 14:44,Mercedes_Benz_C_220_T_CDI_Avantgarde,private,offer,4000,Combi,2001,automatic,143,150000,8,diesel,No,19-03-2016 00:00,0
+316,08-03-2016 02:57,Peugeot_207_CC_120_VTi,private,offer,6550,cabrio,2012,manual,120,30000,8,petrol,No,08-03-2016 00:00,0
+317,03-04-2016 22:50,Mercedes_Benz_A_180_URBAN_/_EZ:2013/gepflegt/39200_KM,private,offer,16500,limousine,2013,manual,122,40000,8,petrol,Yes,03-04-2016 00:00,0
+318,04-04-2016 14:43,VW_Bora_1_6_Comfortline,private,offer,2650,limousine,2001,manual,105,150000,5,petrol,NA,04-04-2016 00:00,0
+319,29-03-2016 00:36,BMW_645ci_top_Zustand,private,offer,17999,coupe,2004,automatic,333,150000,0,petrol,NA,29-03-2016 00:00,0
+320,05-03-2016 21:52,Opel_Omega_Caravan_2.5_DTI_Design_Edition,private,offer,1950,Combi,2002,automatic,150,150000,2,diesel,No,05-03-2016 00:00,0
+321,17-03-2016 19:52,Opel_Insignia_2.0_Turbo_4x4_57759_km_TOP_gepflegt,private,offer,15500,limousine,2010,manual,220,60000,6,petrol,No,17-03-2016 00:00,0
+322,30-03-2016 00:39,Mazda_6_Sport_Kombi_2.0_CD_DPF_Active,private,offer,4000,Combi,2007,manual,143,150000,2,diesel,Yes,29-03-2016 00:00,0
+323,25-03-2016 01:56,Porsche_Cayman_S___UNIKAT___Vollausstattung,private,offer,26890,coupe,2006,manual,295,80000,6,petrol,No,24-03-2016 00:00,0
+324,08-03-2016 14:36,Volvo_V_70_dunkelblau,private,offer,3499,Combi,2001,manual,163,150000,11,diesel,No,08-03-2016 00:00,0
+325,25-03-2016 16:46,Opel_Astra_1_4_Selection_3_5Jahre_5_tuerig_87PS_+_4_Sommerreifen,private,offer,8300,limousine,2012,manual,87,60000,9,petrol,No,25-03-2016 00:00,0
+326,15-03-2016 21:47,Seat_Leon_2.0_TDI_DPF_DSG_FR,private,offer,13990,limousine,2010,automatic,170,100000,2,diesel,No,15-03-2016 00:00,0
+327,25-03-2016 11:51,Mercedes_Benz_E_320_T_CDI_Avantgarde,private,offer,3500,Combi,2003,automatic,204,150000,10,diesel,No,25-03-2016 00:00,0
+328,08-03-2016 17:44,Volkswagen_Golf_2.0_GTI_DSG_Edition_30,private,offer,11999,limousine,2007,automatic,306,150000,5,petrol,No,08-03-2016 00:00,0
+329,12-03-2016 00:58,Mercedes_A__Klasse_Klima,private,offer,2350,Small Car,2002,automatic,82,125000,2,petrol,No,11-03-2016 00:00,0
+330,19-03-2016 19:57,Honda_CR_V_2.0i_ES_Automatik__Nichtraucher,private,offer,6000,suv,2002,automatic,150,125000,11,petrol,No,19-03-2016 00:00,0
+331,09-03-2016 14:39,Volkswagen_Touran_1.9_TDI_Highline,private,offer,6450,bus,2006,manual,105,150000,11,diesel,No,09-03-2016 00:00,0
+332,10-03-2016 07:57,Mercedes_Cls_350_cdi_Facelift,private,offer,14500,coupe,2010,automatic,224,150000,1,diesel,NA,10-03-2016 00:00,0
+333,22-03-2016 12:49,Opel_Adam_1.2_White_Link_mit_Sportpaket_uvm.,private,offer,10999,Small Car,2014,manual,69,30000,3,petrol,No,22-03-2016 00:00,0
+334,13-03-2016 20:39,Mercedes_Benz_SLK_200_Kompressor,private,offer,11500,cabrio,2003,automatic,163,40000,4,petrol,No,13-03-2016 00:00,0
+335,24-03-2016 23:57,Audi_A4_Avant_2.0_TDI_DPF_multitronic_Ambiente,private,offer,11500,Combi,2008,automatic,143,150000,8,diesel,No,24-03-2016 00:00,0
+336,02-04-2016 02:36,Audi_A6_Avant_3.0_TDI_DPF_quattro,private,offer,8900,Combi,2006,automatic,224,150000,1,diesel,No,02-04-2016 00:00,0
+337,07-03-2016 17:57,MITSUBISHI_COLT_1.5_INSTYLE_**_4_TÜRER_**_TOPZUSTAND,private,offer,2750,limousine,2004,manual,109,150000,6,petrol,No,07-03-2016 00:00,0
+338,17-03-2016 19:36,Kia_Sportage_1.6_GDI_2WD_inkl.7_Jahre_Kia_Garantie,private,offer,14399,suv,2013,automatic,135,30000,6,petrol,No,17-03-2016 00:00,0
+339,21-03-2016 16:59,Mercedes_Benz_200,private,offer,5700,limousine,2001,manual,163,70000,3,petrol,No,21-03-2016 00:00,0
+340,21-03-2016 17:36,A4_Avant_1.9_TDI_KOMBI,private,offer,2400,Combi,2004,manual,131,150000,5,diesel,No,21-03-2016 00:00,0
+341,08-03-2016 21:44,Audi_A1_1.6_TDI___Misanorot_&_Eissilber__SHZ__Tempomat__SH,private,offer,11900,Small Car,2011,manual,105,80000,4,diesel,No,08-03-2016 00:00,0
+342,20-03-2016 19:44,Ford_Fiesta_1.25_Trend,private,offer,5500,Small Car,2010,manual,82,125000,8,petrol,No,20-03-2016 00:00,0
+343,09-03-2016 15:37,VW_Multivan_Highline_Leder_Holz_Vollausstattung,private,offer,16990,bus,2005,manual,174,150000,7,diesel,No,09-03-2016 00:00,0
+344,05-03-2016 16:54,BMW_318td_compact_Sondermodell_VOLL_Voll_voll_Extras,private,offer,3650,coupe,2003,manual,116,150000,8,diesel,No,05-03-2016 00:00,0
+345,11-03-2016 09:50,BMW_320d_DPF_Touring____Neuer_Motor__Navi_Pro__Leder,private,offer,6990,Combi,2006,manual,163,150000,10,diesel,No,11-03-2016 00:00,0
+346,15-03-2016 01:47,AUTO__AUDI_A3__ZU_VERKAUFEN.,private,offer,14500,Combi,2011,manual,140,90000,12,diesel,NA,14-03-2016 00:00,0
+347,31-03-2016 08:56,VWPassat2.0TDI1HandHighline170PSXenonLederScheckheftTÜV03.18Stzhz,private,offer,8650,Combi,2007,manual,170,150000,1,diesel,No,31-03-2016 00:00,0
+348,10-03-2016 22:53,Bmw_318i,private,offer,2800,limousine,2002,manual,143,150000,7,petrol,NA,10-03-2016 00:00,0
+349,11-03-2016 14:56,GOLF_1.9TDI_131PS_6_Gang_Klima,private,offer,2100,limousine,2002,manual,131,150000,8,diesel,No,11-03-2016 00:00,0
+350,08-03-2016 13:44,Alfa_Romeo_147_1.9_JTD_16V_M_Jet_FESTPREIS,private,offer,1500,limousine,2005,manual,150,150000,3,diesel,Yes,08-03-2016 00:00,0
+351,14-03-2016 22:48,Mercedes_Benz_E_200_T_Kompressor_Automatik,private,offer,9800,Combi,2005,automatic,163,100000,9,petrol,No,14-03-2016 00:00,0
+352,13-03-2016 18:37,Volkswagen_Passat_2.0_FSI_Trendline,private,offer,5900,limousine,2005,manual,150,125000,6,petrol,No,13-03-2016 00:00,0
+353,06-03-2016 15:47,Ford_Mondeo_Turnier_2.0_TDCi_Titanium,private,offer,5800,Combi,2008,manual,140,150000,6,diesel,No,06-03-2016 00:00,0
+354,06-03-2016 15:46,Opel_Corsa_C_1.3_CDTI_*wenig_Verbrauch*_8_Fach_bereift,private,offer,2450,Small Car,2005,manual,75,150000,5,diesel,No,06-03-2016 00:00,0
+355,28-03-2016 13:49,Mercedes_Benz_CLA_220__CDI__d_7G_DCT_AMG_Line,private,offer,36999,coupe,2015,automatic,177,10000,8,diesel,No,28-03-2016 00:00,0
+356,05-04-2016 19:06,Volkswagen_Passat_Variant_1.9_TDI_Trendline,private,offer,5450,Combi,2006,manual,105,150000,5,diesel,No,05-04-2016 00:00,0
+357,11-03-2016 11:50,Mazda_Cabrio_MX_5_NB,private,offer,6999,cabrio,2002,manual,0,50000,0,petrol,No,11-03-2016 00:00,0
+358,03-04-2016 10:53,Renault_Laguna_Grandtour_1.8_Emotion,private,offer,1900,Combi,2003,manual,120,150000,11,petrol,No,03-04-2016 00:00,0
+359,17-03-2016 12:51,"Volkswagen_Golf_2.0_R_DSG_Luftfahrwerk__20""_Felgen",private,offer,24400,limousine,2011,automatic,271,60000,4,petrol,No,17-03-2016 00:00,0
+360,26-03-2016 23:36,MINI_Cooper_D_Clubman,private,offer,9990,Combi,2008,manual,109,125000,1,diesel,No,26-03-2016 00:00,0
+361,29-03-2016 20:40,Ford_Focus_Cabrio_2.0_TDCi_Titanium_Navi_Leder,private,offer,9000,cabrio,2008,manual,136,150000,7,diesel,No,29-03-2016 00:00,0
+362,29-03-2016 20:38,Opel_Corsa_D/_mit_neuem_TÜV,private,offer,3550,Small Car,2007,manual,75,150000,3,diesel,No,29-03-2016 00:00,0
+363,21-03-2016 09:38,Golf_V_1.9_TDI,private,offer,2950,limousine,2004,manual,105,150000,11,diesel,Yes,21-03-2016 00:00,0
+364,29-03-2016 22:53,Opel_Zafira_1.9_CDTI,private,offer,4800,bus,2006,manual,120,125000,11,diesel,No,29-03-2016 00:00,0
+365,20-03-2016 12:39,BMW_330d_DPF_Aut.,private,offer,13499,limousine,2007,automatic,231,150000,2,diesel,No,20-03-2016 00:00,0
+366,12-03-2016 18:00,BMW_320d_Touring,private,offer,6000,Combi,2005,manual,163,150000,12,diesel,No,12-03-2016 00:00,0
+367,19-03-2016 16:54,BMW_120d_Cabrio_Aut.,private,offer,13000,cabrio,2009,automatic,177,100000,3,diesel,No,19-03-2016 00:00,0
+368,25-03-2016 16:58,Toyota_RAV_4_D_4D_mit_Bullfaenger_8_x_Reifen,private,offer,5250,suv,2003,manual,116,150000,10,diesel,No,25-03-2016 00:00,0
+369,27-03-2016 13:44,Smart_smart_cdi,private,offer,1100,Small Car,2001,NA,41,150000,11,diesel,No,27-03-2016 00:00,0
+370,19-03-2016 20:40,BMW_335i_Coupé_DKG_Leder_Navi_Glasdach_PDCv+h_++++,private,offer,26800,coupe,2010,automatic,306,40000,6,petrol,No,19-03-2016 00:00,0
+371,05-03-2016 14:21,Opel_Astra_1.6_Sports_Tourer_Design_Edition,private,offer,12800,Combi,2011,manual,140,50000,8,petrol,No,04-03-2016 00:00,0
+372,20-03-2016 23:46,Fiat_punto_1.2,private,offer,2000,limousine,2006,manual,0,150000,5,petrol,No,20-03-2016 00:00,0
+373,31-03-2016 14:37,Opel_Zafira,private,offer,2000,bus,2003,manual,0,150000,9,petrol,No,31-03-2016 00:00,0
+374,30-03-2016 21:49,Volkswagen_Passat_Variant_2.0_TDI_Highline,private,offer,5500,Combi,2005,manual,140,150000,8,diesel,No,30-03-2016 00:00,0
+375,09-03-2016 11:38,Volkswagen_Golf_Variant_1.2_TSI_BlueMotion_AHK,private,offer,16900,Combi,2015,manual,86,20000,2,petrol,No,09-03-2016 00:00,0
+376,10-03-2016 00:52,Mercedes_Benz_CLK_Coupe_220_CDI_Automatik_Elegance_DPF,private,offer,8490,coupe,2007,automatic,150,150000,4,diesel,No,09-03-2016 00:00,0
+377,26-03-2016 10:50,Audi_A6_Allroad,private,offer,3799,Combi,2001,automatic,250,150000,10,petrol,No,26-03-2016 00:00,0
+378,21-03-2016 22:49,Opel_Corsa_1.0_TÜV_Meu_Gruene_plakette_Klima_Servo,private,offer,1499,Small Car,2004,manual,60,125000,9,petrol,No,21-03-2016 00:00,0
+379,19-03-2016 12:47,Ford_Transit_260_K_TDCi_Lkw_2_2_TDCI,private,offer,3949,bus,2008,manual,86,150000,4,diesel,No,19-03-2016 00:00,0
+381,12-03-2016 16:51,Slk_320_6_Zylinder._Vollausstattung,private,offer,9900,cabrio,2000,automatic,214,125000,11,petrol,No,12-03-2016 00:00,0
+382,25-03-2016 09:50,Volkswagen_Passat_Variant_2.0_TDI_4Motion_Highline,private,offer,4350,Combi,2007,manual,140,150000,3,diesel,No,25-03-2016 00:00,0
+383,02-04-2016 19:44,Mercedes_Benz_CLK_200_K_Cabrio_Avantgarde_Leder_Automatik__Ahk,private,offer,6990,cabrio,2001,automatic,163,150000,6,petrol,No,02-04-2016 00:00,0
+384,05-03-2016 18:42,Opel_Corsa_C_1.0,private,offer,1190,Small Car,2001,manual,60,150000,7,petrol,NA,05-03-2016 00:00,0
+385,21-03-2016 11:52,Volvo_V40_1.9D_aus_2004,private,offer,2000,Combi,2004,manual,115,150000,2,diesel,No,21-03-2016 00:00,0
+386,31-03-2016 16:54,Verk._CLK_Cabrio_230_Kompresor,private,offer,7499,cabrio,2001,automatic,230,150000,5,petrol,No,31-03-2016 00:00,0
+387,19-03-2016 15:48,BMW_320D___Gruene_Plakette,private,offer,3950,limousine,2003,NA,150,150000,5,diesel,NA,19-03-2016 00:00,0
+388,05-03-2016 22:51,Volkswagen_Sharan_2.0_TDI_BlueMotion_Technology_Trendline,private,offer,16750,bus,2010,manual,140,125000,8,diesel,No,05-03-2016 00:00,0
+389,04-04-2016 21:56,Smart_smart_fortwo_coupe_softouch_passion_micro_hy...,private,offer,7450,Small Car,2013,automatic,71,20000,3,petrol,No,04-04-2016 00:00,0
+390,07-03-2016 12:45,Volkswagen_Touran_2.0_TDI_Highline,private,offer,5100,bus,2003,manual,136,150000,11,diesel,No,07-03-2016 00:00,0
+391,11-03-2016 19:57,VW_Golf_6_GT/R_Line_neuer_Motor_sehr_viel_Ausstattung_Individual_,private,offer,8999,limousine,2009,manual,122,150000,2,petrol,No,11-03-2016 00:00,0
+392,06-03-2016 08:52,PEUGEOT_206+_60_URBAN_MOVE____HU_02/2018___UNFALLFREI_!!!!,private,offer,5300,limousine,2011,manual,60,70000,7,petrol,No,06-03-2016 00:00,0
+393,12-03-2016 12:38,NISSAN_MICRA_VISA_1_2_59_kW_Bj_2003_Unfallfrei!_Top_erhalten!,private,offer,2400,Small Car,2003,manual,59,80000,5,petrol,No,12-03-2016 00:00,0
+394,01-04-2016 10:38,Hyundai_Tucson_2.0Ltr_komplett_oder_GLS_als_Teilspender,private,offer,1200,suv,2007,manual,0,80000,9,petrol,NA,01-04-2016 00:00,0
+395,30-03-2016 16:42,Audi_A6_3.0TDI_Vollausstattung,private,offer,17400,Combi,2012,automatic,204,150000,9,NA,Yes,30-03-2016 00:00,0
+396,30-03-2016 17:52,KIA__2.5_disel___klima,private,offer,3750,suv,2003,NA,140,150000,5,diesel,No,30-03-2016 00:00,0
+397,16-03-2016 12:55,Dacia_Logan_MCV_1.6__Laureate,private,offer,2750,Combi,2007,manual,105,150000,12,petrol,No,16-03-2016 00:00,0
+398,19-03-2016 10:58,Honda_CRV_2.0_Executive_Top_Zustamd,private,offer,8000,suv,2007,manual,140,150000,6,NA,No,19-03-2016 00:00,0
+399,26-03-2016 18:54,Volkswagen_Passat_Variant_1.9_TDI_Comfortline,private,offer,1990,Combi,2002,manual,101,150000,5,diesel,No,26-03-2016 00:00,0
+400,18-03-2016 01:57,Audi_A4_Avant_S_line_2.0Tdi,private,offer,17450,Combi,2010,manual,143,150000,9,NA,NA,18-03-2016 00:00,0
+401,14-03-2016 10:58,Audi_A3_kombilimousine,private,offer,12500,limousine,2009,manual,92,80000,5,petrol,No,14-03-2016 00:00,0
+402,02-04-2016 10:43,Alfa_2_0_JTS,private,offer,2250,limousine,2002,manual,0,150000,6,petrol,NA,02-04-2016 00:00,0
+403,28-03-2016 18:55,BMW_e46_316ti_compact,private,offer,5000,coupe,2001,automatic,116,80000,7,petrol,No,28-03-2016 00:00,0
+404,26-03-2016 19:44,Peugeot_206_90_Quiksilver_Tuev_neu_1/2018,private,offer,1700,Small Car,2005,manual,88,150000,6,petrol,No,26-03-2016 00:00,0
+405,09-03-2016 21:25,Volkswagen_Golf_Style_1.6_Diesel,private,offer,10499,limousine,2011,manual,105,150000,6,diesel,No,09-03-2016 00:00,0
+406,24-03-2016 12:37,SLK_200_Kompressor_AMG_Felgen_Serciveh._Topgepflegt,private,offer,8349,cabrio,2005,manual,163,150000,1,petrol,No,24-03-2016 00:00,0
+407,10-03-2016 20:52,Skoda_Octavia_2.0_TDI_DPF_DSG,private,offer,7750,Combi,2009,automatic,140,150000,1,diesel,No,10-03-2016 00:00,0
+408,21-03-2016 19:54,Fiat_Bravo_1.6_Multijet_16V_DPF_Dynamic,private,offer,4500,limousine,2008,manual,105,150000,8,diesel,No,21-03-2016 00:00,0
+409,21-03-2016 20:57,Audi_A4_Avant_2.0_TDI_DPF_Leder_Navi,private,offer,6500,Combi,2005,automatic,140,150000,12,diesel,No,21-03-2016 00:00,0
+410,17-03-2016 13:36,BMW_BMW_525i_touring,private,offer,3180,Combi,2001,manual,192,150000,5,petrol,No,17-03-2016 00:00,0
+411,24-03-2016 19:50,Kia_Rio_1.4_EX_Basis,private,offer,3900,Small Car,2009,manual,97,40000,4,petrol,No,24-03-2016 00:00,0
+412,16-03-2016 21:25,Opel_astra_G_1.4_ecotec_105.000_km,private,offer,1400,limousine,2002,manual,0,125000,0,petrol,NA,16-03-2016 00:00,0
+413,14-03-2016 17:49,Opel_Astra_1.6_Caravan_!_TÜV_03/2017_!_Klima_AHK_Servo_!,private,offer,1350,Combi,2000,manual,84,150000,12,petrol,No,14-03-2016 00:00,0
+414,06-03-2016 16:43,Ford_Fiesta_TÜV_NEU!,private,offer,2999,limousine,2005,manual,69,125000,0,petrol,No,06-03-2016 00:00,0
+415,19-03-2016 10:42,Ford_Kuga_2.0_TDCi_4x4_Aut._Titanium_m._Werksgarantie,private,offer,21500,suv,2012,automatic,163,60000,6,diesel,No,19-03-2016 00:00,0
+416,09-03-2016 20:36,BMW_X3_3.0d_Aut.,private,offer,12990,limousine,2006,automatic,218,150000,12,diesel,No,09-03-2016 00:00,0
+417,25-03-2016 17:51,Audi_A4_Avant_2_5_TDI,private,offer,3500,Combi,2004,manual,163,150000,4,diesel,No,25-03-2016 00:00,0
+418,29-03-2016 13:46,Volkswagen_Golf_1.8_Turbo_GTI,private,offer,1300,limousine,2001,manual,150,150000,8,petrol,No,29-03-2016 00:00,0
+419,21-03-2016 23:56,Ford_Maverick_2_mit_der_guten_2_0l_16V_Ford_Maschine_91kw_124_PS.,private,offer,3300,suv,2004,manual,121,150000,6,petrol,No,21-03-2016 00:00,0
+420,27-03-2016 17:52,Peugeot_206_sw_110_HDI__TÜV_NEU!!!_Nur_noch_1_Woche_hier!!!!!!!!!,private,offer,2990,Combi,2005,manual,110,150000,2,diesel,NA,24-03-2016 00:00,0
+421,04-04-2016 10:37,Mercedes_Benz_E_220_CDI_BE_Avantgard_MB_Garantie,private,offer,22800,limousine,2009,automatic,170,80000,10,diesel,No,04-04-2016 00:00,0
+422,26-03-2016 12:49,Fiat_1_4L,private,offer,2500,Small Car,2006,manual,77,150000,3,petrol,No,26-03-2016 00:00,0
+423,28-03-2016 23:54,MINI_Cooper,private,offer,17000,Small Car,2014,manual,136,20000,9,petrol,No,28-03-2016 00:00,0
+424,05-03-2016 14:31,Fiat_Bravo,private,offer,3900,Small Car,2007,manual,150,150000,3,petrol,No,05-03-2016 00:00,0
+425,16-03-2016 01:36,BMW_118d_DPF_Facelift_Aut._Sehr_gepflegt,private,offer,7230,limousine,2007,automatic,143,150000,3,diesel,No,16-03-2016 00:00,0
+426,22-03-2016 08:56,Ford_Galaxy_16V_Ghia,private,offer,2450,bus,2001,manual,145,150000,7,petrol,No,22-03-2016 00:00,0
+427,24-03-2016 20:37,Opel_Insignia_mit_sehr_sehr_viel_Ausstattung_im_TOP_Zustand,private,offer,15500,Combi,2012,manual,160,70000,2,diesel,NA,24-03-2016 00:00,0
+428,22-03-2016 19:45,Hyundai__i30_1.4_Edition_Plus_49000_KM_1.Hand_8Fach,private,offer,6300,limousine,2009,manual,109,50000,6,petrol,No,22-03-2016 00:00,0
+429,15-03-2016 18:50,Peugeot_307_HDi_135_OXYGO,private,offer,4499,limousine,2007,manual,136,125000,4,diesel,No,15-03-2016 00:00,0
+430,11-03-2016 21:49,Renault_scenic,private,offer,4300,limousine,2007,manual,130,125000,8,diesel,NA,11-03-2016 00:00,0
+431,03-04-2016 19:36,Ford_Focus_Turnier_1.6_TDCi_1.Hand_unfallfrei_privat,private,offer,6990,Combi,2010,manual,109,150000,11,diesel,No,03-04-2016 00:00,0
+432,31-03-2016 22:54,Volkswagen_Golf_Variant_1.9_TDI,private,offer,2500,Combi,2002,manual,101,150000,4,diesel,No,31-03-2016 00:00,0
+433,16-03-2016 12:49,Renault_Laguna_Coupe_Monaco_GP_V6_DCI_235_FAP_TÜV_Inspektion_NEU,private,offer,17590,coupe,2011,automatic,235,80000,2,diesel,No,16-03-2016 00:00,0
+434,19-03-2016 20:53,Peugeot_207______1_4_Benzin_Euro_4,private,offer,2650,Small Car,2009,manual,95,70000,4,petrol,Yes,19-03-2016 00:00,0
+435,25-03-2016 19:57,Mercedes_Benz_E_220_CDI_Automatik_Classic_AHK_Xenon_PDC,private,offer,4490,limousine,2003,automatic,150,150000,4,diesel,No,25-03-2016 00:00,0
+436,21-03-2016 10:53,Gepflegter_Ford_Mondeo..Neuer_TÜV._.Neuer_Service..8_Fach_bereift,private,offer,2500,Combi,2003,manual,116,150000,2,NA,NA,21-03-2016 00:00,0
+437,21-03-2016 20:54,Opel_Corsa_1.0_12V,private,offer,1400,Small Car,2002,manual,58,100000,6,petrol,No,21-03-2016 00:00,0
+438,12-03-2016 16:59,Volkswagen_Golf_Variant_1.6_TDI_DPF,private,offer,7900,Combi,2010,manual,105,125000,6,diesel,No,12-03-2016 00:00,0
+439,22-03-2016 00:58,BMW_335d_AUT./NAVI/F1/XENON/PDC/KEY.GO/19ZOLL/LEDER!,private,offer,14444,coupe,2007,automatic,286,150000,2,diesel,No,21-03-2016 00:00,0
+440,28-03-2016 04:36,Volkswagen_Touran_2.0_TDI_DPF_Highline_R_line,private,offer,13000,bus,2008,manual,170,150000,11,diesel,No,28-03-2016 00:00,0
+441,30-03-2016 18:47,Volkswagen_Passat_Variant_1.9_TDI_Comfortline,private,offer,3500,Combi,2001,manual,101,150000,5,diesel,No,30-03-2016 00:00,0
+442,15-03-2016 14:51,Mazda_2_1.4l_Klimaanlage_1_Hand_Scheckheft_HU_Neu,private,offer,2300,Small Car,2005,manual,80,150000,2,petrol,No,15-03-2016 00:00,0
+443,10-03-2016 16:55,Ford_Focus_Turnier_TDCi_Trend,private,offer,1700,Combi,2001,manual,116,150000,9,diesel,No,10-03-2016 00:00,0
+444,30-03-2016 14:54,Audi_A3_1.9_TDI_Sportback_DPF_Ambiente,private,offer,6300,Combi,2007,manual,105,150000,7,diesel,No,30-03-2016 00:00,0
+445,23-03-2016 20:36,Seat_Toledo_1.2_TSI_Start_&_Stop_Style_Salsa,private,offer,11490,limousine,2013,manual,105,20000,11,petrol,No,23-03-2016 00:00,0
+446,23-03-2016 14:55,Vw_Touran_7_Sitzer,private,offer,5500,bus,2003,manual,136,150000,10,diesel,No,23-03-2016 00:00,0
+447,14-03-2016 22:49,Fiat_500_1.2_Lounge,private,offer,6900,Small Car,2012,manual,69,80000,2,petrol,No,14-03-2016 00:00,0
+448,01-04-2016 19:43,MINI_Mini_Cooper_S_Cabrio,private,offer,8888,cabrio,2005,manual,170,150000,1,petrol,No,01-04-2016 00:00,0
+449,08-03-2016 21:49,Audi_A6_Avant_2.7_TDI_DPF,private,offer,6800,Combi,2005,manual,179,150000,10,diesel,No,08-03-2016 00:00,0
+450,27-03-2016 18:46,Mercedes_Benz_CLA_200_7G_DCT_AMG_Line,private,offer,32700,coupe,2015,automatic,156,10000,1,petrol,No,27-03-2016 00:00,0
+451,26-03-2016 08:53,Opel_Insignia_Limousine_2.0_dti,private,offer,8900,limousine,2009,manual,160,125000,5,diesel,No,26-03-2016 00:00,0
+452,12-03-2016 21:45,Jaguar_S_Type_mit_LPG_Gas_Anlage_Klima,private,offer,3950,limousine,2003,manual,156,150000,4,petrol,No,12-03-2016 00:00,0
+453,07-04-2016 05:36,BMW_318i_LIMUSINE,private,offer,2300,limousine,2000,manual,118,150000,9,petrol,No,07-04-2016 00:00,0
+454,26-03-2016 14:58,Bmw_E60_M_paket_Ab_werk,private,offer,7600,limousine,2004,manual,177,150000,11,diesel,NA,26-03-2016 00:00,0
+455,22-03-2016 18:48,Mazda_5_2.0,private,offer,4750,bus,2008,manual,143,150000,4,diesel,No,22-03-2016 00:00,0
+456,28-03-2016 16:49,Audi_A3_1.9_TDI_Ambiente,private,offer,3500,limousine,2002,manual,101,150000,5,diesel,No,28-03-2016 00:00,0
+457,11-03-2016 13:51,BMW_VB_318d_DPF_+_extra_Ausstattung_+_TÜV_NEU,private,offer,9200,limousine,2006,manual,122,150000,8,diesel,No,11-03-2016 00:00,0
+458,02-04-2016 13:43,Opel_Astra_1.6_Klima_Anhaengerkupplung,private,offer,1800,Combi,2002,manual,101,150000,11,petrol,NA,02-04-2016 00:00,0
+459,23-03-2016 18:52,BMW_735i_*LPG_Prins*,private,offer,6500,limousine,2002,automatic,272,150000,9,lpg,NA,23-03-2016 00:00,0
+460,16-03-2016 21:52,Berlingo_Multispace_VTI,private,offer,6500,bus,2011,manual,120,100000,6,petrol,NA,16-03-2016 00:00,0
+461,14-03-2016 19:38,Zafira_1.9CDTI_150PS_SKIN_Klima,private,offer,2500,Combi,2006,NA,150,150000,3,diesel,No,14-03-2016 00:00,0
+462,12-03-2016 19:06,Opel_Vivaro_2.0_CDTI_L2H1_Lang,private,offer,6300,bus,2009,manual,114,150000,7,diesel,No,12-03-2016 00:00,0
+463,27-03-2016 14:57,Volkswagen_Passat_Variant_2.0_5V,private,offer,1999,Combi,2003,manual,131,125000,4,petrol,Yes,27-03-2016 00:00,0
+464,23-03-2016 18:37,Ich_veracufen,private,offer,1650,Combi,2004,manual,130,150000,8,diesel,No,23-03-2016 00:00,0
+465,25-03-2016 13:49,Mercedes_Benz_A_170_Elegance,private,offer,5400,limousine,2006,manual,116,90000,11,petrol,No,25-03-2016 00:00,0
+466,26-03-2016 12:51,Ford_Fiesta_1.4_Trend,private,offer,3900,Small Car,2005,manual,80,30000,1,petrol,No,26-03-2016 00:00,0
+467,10-03-2016 15:50,Optik_vorne_Facelift___gruene_Plakatte,private,offer,4500,limousine,2002,manual,150,150000,9,diesel,No,10-03-2016 00:00,0
+468,14-03-2016 20:43,Opel_Corsa_D_5_Tuerer_1_2_80_PS_Klima,private,offer,4999,Small Car,2007,manual,80,90000,8,petrol,No,14-03-2016 00:00,0
+469,28-03-2016 21:52,Volkswagen_Fox_1.2,private,offer,2000,Small Car,2005,manual,54,150000,10,petrol,No,28-03-2016 00:00,0
+470,27-03-2016 13:55,Renault_Grand_Espace_3.0_dCi___Vollausstattung___7_Sitze,private,offer,3250,bus,2003,automatic,177,150000,1,diesel,No,27-03-2016 00:00,0
+471,03-04-2016 14:46,Jeep_Grand_Cherokee_3.0I_CRD_Overland,private,offer,34500,suv,2012,automatic,241,70000,10,diesel,No,03-04-2016 00:00,0
+472,02-04-2016 12:54,Gepflegter_Polo__1.0,private,offer,2100,NA,2016,manual,50,125000,8,NA,No,02-04-2016 00:00,0
+473,01-04-2016 20:56,Smart_Roadster_Coupe,private,offer,4200,cabrio,2003,automatic,82,150000,9,petrol,No,01-04-2016 00:00,0
+474,17-03-2016 20:43,Volkswagen_New_Beetle_Cabriolet_1.4,private,offer,5999,cabrio,2003,manual,75,125000,3,petrol,No,17-03-2016 00:00,0
+475,25-03-2016 15:41,Volkswagen_Golf_Plus_2.0_TDI_DPF_Comfortline,private,offer,9850,bus,2010,automatic,140,100000,3,diesel,No,25-03-2016 00:00,0
+476,08-03-2016 10:51,BMW_118d_Coupe_Aut.,private,offer,20500,coupe,2013,automatic,143,60000,4,diesel,No,08-03-2016 00:00,0
+477,29-03-2016 19:51,Opel_Corsa_D_5Tuerig_mit_Fahrradtraeger,private,offer,5199,Small Car,2009,manual,80,60000,6,petrol,No,29-03-2016 00:00,0
+478,15-03-2016 14:50,Volkswagen_Scirocco_1.4_TSI___Top_Zustand_!!!!,private,offer,9700,coupe,2008,manual,160,150000,8,petrol,No,15-03-2016 00:00,0
+479,15-03-2016 18:39,ML320_CDI_4Matic_7_G_Tronic_Vollausstattung,private,offer,16500,NA,2016,automatic,224,150000,6,NA,No,15-03-2016 00:00,0
+480,25-03-2016 13:47,Opel_Astra_1_9_CDTI,private,offer,5900,Combi,2009,manual,150,150000,3,diesel,NA,25-03-2016 00:00,0
+481,06-03-2016 17:43,Hyundai_Getz_1.1,private,offer,2399,Small Car,2007,manual,67,150000,1,petrol,No,06-03-2016 00:00,0
+482,20-03-2016 18:45,Volkswagen_Tiguan_2.0_TDI_DPF_4Motion_BlueMotion_Techn....,private,offer,26990,suv,2013,automatic,177,60000,6,diesel,No,20-03-2016 00:00,0
+483,28-03-2016 12:41,Ford_Mondeo_2.2_Turnier_TDCi_Titanium_X_tuev_10.2017,private,offer,3950,Combi,2006,manual,155,150000,9,diesel,No,28-03-2016 00:00,0
+484,22-03-2016 23:45,Audi_A6_2_5TDI_179PS,private,offer,1799,Combi,2003,automatic,179,150000,0,diesel,Yes,22-03-2016 00:00,0
+485,31-03-2016 17:46,VW_Lupo_Tuev_08/2017_Servo_zentral_D4_67Euro_Steuern_Anfaenger!,private,offer,1200,Small Car,2000,manual,50,150000,6,petrol,NA,31-03-2016 00:00,0
+486,20-03-2016 17:37,Mazda_Premacy_1.9,private,offer,2500,bus,2001,manual,101,125000,12,petrol,No,20-03-2016 00:00,0
+487,03-04-2016 23:52,Volkswagen_Touran_2.0_TDI_DPF_DSG_Highline_+_Navi,private,offer,11500,bus,2007,automatic,140,150000,5,diesel,No,03-04-2016 00:00,0
+488,14-03-2016 11:38,Peugeot_207_VTi_95_1._Hand_TÜV_neu,private,offer,3299,Small Car,2009,manual,95,150000,3,petrol,No,14-03-2016 00:00,0
+489,03-04-2016 21:49,Fiat_Freemont_Lounge,private,offer,20000,Combi,2012,manual,170,60000,6,diesel,No,03-04-2016 00:00,0
+490,14-03-2016 03:51,Chevrolet_Lacetti,private,offer,2990,limousine,2006,manual,109,90000,9,petrol,No,13-03-2016 00:00,0
+491,20-03-2016 22:53,Golf_IV___TDI_101_PS,private,offer,2500,limousine,2003,manual,101,150000,0,diesel,NA,20-03-2016 00:00,0
+492,22-03-2016 08:55,Mercedes_C200_CDI_Kombi___2006__Facelift.,private,offer,4350,Combi,2006,manual,122,150000,6,diesel,No,22-03-2016 00:00,0
+493,25-03-2016 13:47,VW_Touran_1_9_TDI___AHK__Zahnriemen_Neu___Alufelgen.,private,offer,6999,bus,2007,manual,105,150000,6,diesel,NA,25-03-2016 00:00,0
+494,05-04-2016 11:54,Bmw_E65_730d_Facelift_Sport_Alpina_Umbau_Unfall,private,offer,8690,limousine,2006,automatic,231,150000,12,diesel,Yes,19-03-2016 00:00,0
+495,26-03-2016 14:36,Volkswagen_CC_1.4_TSI___8_Fach_Bereifung___XENON___Navi,private,offer,18490,coupe,2013,manual,160,60000,6,petrol,No,26-03-2016 00:00,0
+496,02-04-2016 10:54,VW_Lupo_50_Servo__TÜV_neu._Euro_4.,private,offer,1490,Small Car,2001,manual,50,125000,10,petrol,No,02-04-2016 00:00,0
+497,08-03-2016 16:50,BMW_316i,private,offer,3250,limousine,2000,automatic,105,150000,4,petrol,No,08-03-2016 00:00,0
+498,18-03-2016 17:38,Suzuki_Gran_Vitara_1.9ddis__AHK___Steuerriemen_neu__Tuev_03/2018,private,offer,15200,suv,2011,manual,129,60000,3,diesel,No,18-03-2016 00:00,0
+499,05-03-2016 15:31,Vw_Passat_1.9Tdi_Tuev_Neu_Navi_6_Gang_131ps,private,offer,3499,Combi,2003,manual,131,150000,5,diesel,No,05-03-2016 00:00,0
+500,01-04-2016 22:54,Hyundai_Santa_Fe_2.0_CRDi_VGT_4WD_Automatik_GLS,private,offer,3950,suv,2005,automatic,125,150000,5,diesel,No,01-04-2016 00:00,0
+501,09-03-2016 17:48,Audi_A4_Avant_2.0_TDI_DPF_Attraction_18_zoll,private,offer,12000,Combi,2009,manual,143,150000,4,diesel,No,09-03-2016 00:00,0
+502,28-03-2016 19:25,Ford_Focus_1.6_TDCi_DPF_Titanium,private,offer,6900,limousine,2009,manual,109,150000,9,diesel,No,28-03-2016 00:00,0
+503,11-03-2016 10:37,Ford_C_max_Titanium_Bj_2013___Standheizung_Rueckfahrkamera,private,offer,15300,Combi,2013,manual,115,50000,5,diesel,No,11-03-2016 00:00,0
+504,02-04-2016 11:56,Audi_A2_1.4,private,offer,5800,Small Car,2000,manual,75,90000,11,petrol,No,02-04-2016 00:00,0
+505,02-04-2016 14:54,Citroën_C8_2.2_HDi_Exclusive,private,offer,1350,bus,2003,manual,128,150000,4,diesel,No,02-04-2016 00:00,0
+506,10-03-2016 21:44,Opel_Zafira_1.9_CDTI,private,offer,6200,bus,2006,manual,150,150000,12,diesel,No,10-03-2016 00:00,0
+507,14-03-2016 12:51,Audi_S3_Sportback_AUDI_WA_8_fach_bereift,private,offer,37500,Combi,2015,manual,300,10000,5,petrol,No,14-03-2016 00:00,0
+508,02-04-2016 10:36,BMW_330,private,offer,5450,Combi,2004,automatic,204,150000,4,diesel,No,02-04-2016 00:00,0
+509,28-03-2016 18:44,Citroën_C5_HDi_135_Automatik_Exclusive,private,offer,4250,limousine,2005,automatic,133,150000,12,diesel,No,28-03-2016 00:00,0
+510,14-03-2016 00:36,Volkswagen_Golf_1.9_TDI_Pacific,private,offer,3490,limousine,2003,manual,101,150000,4,diesel,No,14-03-2016 00:00,0
+511,11-03-2016 17:44,Bmw_325_i_Limousine_Leder_Navy_218_PS,private,offer,10700,limousine,2005,manual,218,150000,6,petrol,No,11-03-2016 00:00,0
+512,13-03-2016 20:36,Citroen_C1_4_Tuerig_Automatic_aus_1.Hand_TÜV/AU_Neu,private,offer,3250,limousine,2007,automatic,68,125000,3,petrol,No,13-03-2016 00:00,0
+513,02-04-2016 20:57,Mini_Cooper_S,private,offer,5600,Small Car,2002,manual,0,150000,10,petrol,No,02-04-2016 00:00,0
+514,31-03-2016 13:56,VW_T4_Transporter_Kasten_LKW_Zulassung,private,offer,3800,NA,2005,manual,88,150000,0,NA,NA,31-03-2016 00:00,0
+515,02-04-2016 08:53,Mercedes_Benz_CLS_350_CDI_Orig._23.000_km_Voll.._NP_83.000_€,private,offer,38500,limousine,2011,automatic,265,30000,5,diesel,No,02-04-2016 00:00,0
+516,24-03-2016 15:00,Skoda_Fabia_1.2_HTP_Combi,private,offer,1800,Combi,2008,manual,64,90000,12,petrol,Yes,24-03-2016 00:00,0
+517,22-03-2016 13:51,Ford_Ka_Royal___Lederausstattung,private,offer,1100,Small Car,2003,manual,69,60000,11,petrol,No,22-03-2016 00:00,0
+518,02-04-2016 00:57,Fiat_500L_1.4_16V_Pop_Star,private,offer,13499,bus,2014,manual,95,10000,6,petrol,No,02-04-2016 00:00,0
+519,05-04-2016 11:36,BMW_330d_E92_Coupe__245ps__Diesel__Shadow__Bj.2010,private,offer,17900,coupe,2010,manual,245,150000,1,diesel,NA,05-04-2016 00:00,0
+520,23-03-2016 13:40,Volkswagen_Golf,private,offer,3666,limousine,2005,manual,75,20000,2,petrol,Yes,23-03-2016 00:00,0
+521,07-03-2016 19:39,BMW_318ti_compact,private,offer,2900,limousine,2002,manual,143,150000,11,petrol,No,07-03-2016 00:00,0
+522,03-04-2016 15:43,Smart_smart_fortwo_coupe_softouch_passion,private,offer,4490,Small Car,2007,automatic,71,80000,6,petrol,No,03-04-2016 00:00,0
+523,26-03-2016 13:44,Nissan_Qashqai_1.6_visia,private,offer,12600,limousine,2011,manual,117,60000,4,petrol,No,26-03-2016 00:00,0
+524,22-03-2016 17:38,520_d_Aut._Navi_Prof._Schiebedach__HUD_1_Hand,private,offer,12800,limousine,2011,automatic,184,125000,1,diesel,No,22-03-2016 00:00,0
+525,08-03-2016 15:54,Seat_Altea_2.0_TDI,private,offer,4199,bus,2006,manual,140,150000,3,diesel,No,08-03-2016 00:00,0
+526,21-03-2016 16:52,Mazda_MX_5_1.8_MZR_Kaminari,private,offer,15999,cabrio,2012,manual,126,50000,12,petrol,No,21-03-2016 00:00,0
+527,31-03-2016 15:38,"Mercedes_Benz_SLK_200_Kompressor__""Sommerfahrzeug""",private,offer,13450,cabrio,2006,manual,0,50000,11,petrol,NA,31-03-2016 00:00,0
+528,29-03-2016 12:37,Volkswagen_Golf,private,offer,2600,limousine,2006,manual,105,150000,4,diesel,Yes,29-03-2016 00:00,0
+529,05-04-2016 08:56,Volkswagen_Caddy_2.0_EcoFuel,private,offer,5100,bus,2006,manual,109,150000,11,cng,No,05-04-2016 00:00,0
+530,11-03-2016 10:40,Volkswagen_Achtung_nur_bis_Sonntag_Tiguan_1.4_TSI_DSG,private,offer,26500,suv,2015,automatic,150,10000,11,petrol,No,11-03-2016 00:00,0
+531,12-03-2016 22:36,Mercedes_Benz_A_140_Classic,private,offer,3950,limousine,2002,automatic,82,60000,2,petrol,No,12-03-2016 00:00,0
+532,20-03-2016 15:38,Audi_A4_S_Line_Avant_2.0_TDI_DPF_Bose_Gewindefahrwerk,private,offer,7990,Combi,2007,manual,170,150000,2,diesel,No,20-03-2016 00:00,0
+533,21-03-2016 02:00,Jumper__Kasten_in_teile_zu_verkaufen,private,offer,1111,bus,2005,manual,101,150000,5,diesel,Yes,21-03-2016 00:00,0
+534,06-03-2016 22:37,Mercedes_Benz_Avantgard__!!!Tuev_Nagel_Neu!!!Xenon__Euro4,private,offer,4899,Combi,2001,NA,170,150000,7,diesel,No,06-03-2016 00:00,0
+535,21-03-2016 10:53,ROVER_75_mit_TÜV,private,offer,2350,limousine,2000,manual,120,150000,0,NA,NA,21-03-2016 00:00,0
+536,31-03-2016 18:50,Ford_C_Max,private,offer,3650,bus,2004,manual,136,150000,1,diesel,No,31-03-2016 00:00,0
+537,22-03-2016 17:49,Mercedes_Benz_E_220_T_CDI_Classic,private,offer,6190,Combi,2003,manual,150,150000,11,diesel,No,22-03-2016 00:00,0
+538,21-03-2016 20:44,Fiat_Punto_Grande_1.2_8V_Active_Start&Stop,private,offer,5000,Small Car,2011,manual,69,70000,9,petrol,No,21-03-2016 00:00,0
+539,05-04-2016 10:48,BMW_X5_xDrive30d_Edition_10_Jahre,private,offer,31700,limousine,2010,automatic,235,125000,4,diesel,No,05-04-2016 00:00,0
+540,20-03-2016 23:55,Opel_Corsa_C_1.2_Twinport__blau_grau__TÜV_09/17__80PS__69999km,private,offer,4999,Small Car,2006,manual,80,70000,9,petrol,No,20-03-2016 00:00,0
+541,07-03-2016 12:47,Toyota_Yaris_1.3_VVT_i,private,offer,5500,Small Car,2008,automatic,0,100000,1,petrol,No,07-03-2016 00:00,0
+542,24-03-2016 23:37,Ford_C_Max_1.0_EcoBoost_Start_Stopp_System_Titanium,private,offer,16650,bus,2015,manual,125,40000,1,petrol,No,24-03-2016 00:00,0
+543,28-03-2016 17:53,Mitsubishi_Carisma_1.8_GDI_Dynamics__selten_,private,offer,1699,NA,2016,manual,125,150000,7,NA,No,28-03-2016 00:00,0
+544,15-03-2016 14:36,Zum_Verkauf_steht_ein_Renault_Twingo_in_einem_gutem_Zustand_!!!,private,offer,1099,Small Car,2001,manual,45,150000,8,petrol,No,15-03-2016 00:00,0
+545,16-03-2016 13:45,Dacia_Sandero_1.6_MPI_Stepway_II,private,offer,7900,Small Car,2012,manual,84,20000,10,petrol,No,16-03-2016 00:00,0
+546,01-04-2016 13:48,Fiat_Punto_1.2_8V_Active_Clima__Neu_Tuev_/_Inspektion,private,offer,2750,Small Car,2004,manual,60,70000,9,petrol,No,01-04-2016 00:00,0
+547,31-03-2016 20:48,Volkswagen_Passat_Variant_1.9_TDI,private,offer,2399,Combi,2002,manual,101,150000,12,diesel,No,31-03-2016 00:00,0
+548,23-03-2016 07:55,Mitsubishi_L200_mit_Seilwinde_TÜV_sehr_gepflegt_Bj_2005,private,offer,6500,suv,2005,manual,0,150000,8,diesel,No,23-03-2016 00:00,0
+549,09-03-2016 08:57,Opel_Astra_1.7_CDTI_Caravan_Sport_6_Gang,private,offer,3350,Combi,2004,manual,101,150000,10,diesel,No,09-03-2016 00:00,0
+550,15-03-2016 19:40,Mercedes_CLS_320_CDI_Schwarz_Metallic,private,offer,12900,limousine,2006,automatic,224,150000,6,diesel,No,15-03-2016 00:00,0
+551,01-04-2016 12:56,Volkswagen_Lupo_1.0_Trendline,private,offer,1590,Small Car,2001,manual,50,125000,10,petrol,No,01-04-2016 00:00,0
+552,11-03-2016 17:41,Touareg_2.5TDI_Full,private,offer,4500,suv,2003,NA,0,150000,7,diesel,NA,11-03-2016 00:00,0
+553,05-03-2016 17:46,VW_Touran_2_0_TDI__Highline,private,offer,5600,Combi,2005,manual,140,150000,1,diesel,No,05-03-2016 00:00,0
+554,15-03-2016 14:00,Ford_Mondeo_Titanium_S___Voll_Wie_neu!,private,offer,21900,Combi,2013,manual,163,30000,7,diesel,No,11-03-2016 00:00,0
+555,17-03-2016 17:48,Smart_fortwo,private,offer,3900,NA,2007,NA,0,70000,7,NA,NA,17-03-2016 00:00,0
+556,22-03-2016 15:45,Dacia_Sandero_1.4_MPI_Ambiance_TÜV_NEU_ZAHNRIEMEN_NEU,private,offer,2999,Small Car,2009,manual,75,125000,8,petrol,No,22-03-2016 00:00,0
+557,02-04-2016 17:54,Mercedes_E500_v8,private,offer,8500,limousine,2002,automatic,306,150000,0,lpg,No,02-04-2016 00:00,0
+558,26-03-2016 15:38,Mercedes_Benz_A_180_CDI_Autotronic_Classic_DPF,private,offer,5000,limousine,2005,automatic,109,125000,2,diesel,No,26-03-2016 00:00,0
+559,05-03-2016 22:57,Toyota_Avensis_1.8_VVT_i_Combi_Sol,private,offer,6300,Combi,2006,manual,129,125000,6,petrol,No,05-03-2016 00:00,0
+560,03-04-2016 15:57,Seat_Ibiza_1.4_16V_Reference,private,offer,3400,Small Car,2005,manual,75,125000,4,petrol,Yes,03-04-2016 00:00,0
+561,05-04-2016 00:39,Citroën_Xsara__Coupe_1.8i_SX,private,offer,2550,coupe,2000,manual,90,50000,6,petrol,No,04-04-2016 00:00,0
+562,11-03-2016 17:38,MINI_COOPER_CABRIO__in_CHILIRED__m._weissen_Rallye_Streifen,private,offer,11000,cabrio,2007,manual,116,90000,0,petrol,No,11-03-2016 00:00,0
+563,23-03-2016 18:36,VERKAUFE_SKODA_OCTAVIA_1.6_TDI_KOMBI,private,offer,7250,Combi,2011,manual,105,150000,12,diesel,No,23-03-2016 00:00,0
+564,17-03-2016 18:39,Ford_Fiesta_1.4_Futura,private,offer,1999,Small Car,2004,manual,80,100000,3,petrol,No,17-03-2016 00:00,0
+565,29-03-2016 10:50,Toyota_Corolla_2005_3_Tuerer_Limousine_Bluetooth_8_Fach_bereift,private,offer,3990,limousine,2005,manual,110,150000,10,petrol,No,29-03-2016 00:00,0
+566,23-03-2016 15:57,Ford_Focus_Turnier_1.6_TDCi_Ambiente,private,offer,4200,Combi,2006,manual,90,80000,4,diesel,No,23-03-2016 00:00,0
+567,09-03-2016 23:37,BMW_530d,private,offer,5300,limousine,2005,automatic,218,150000,2,diesel,No,09-03-2016 00:00,0
+568,02-04-2016 20:47,Smart_Pulse___Mit_original_Sommerfelgen___TÜV_bis_08/2017,private,offer,2100,Small Car,2003,automatic,61,150000,3,petrol,No,02-04-2016 00:00,0
+569,09-03-2016 14:41,Bmw_520_i_lpg,private,offer,7000,limousine,2005,manual,170,150000,2,NA,No,09-03-2016 00:00,0
+570,31-03-2016 11:57,Volkswagen_Golf_2.0_GTI_DSG,private,offer,6500,limousine,2006,automatic,200,150000,5,petrol,No,31-03-2016 00:00,0
+571,07-03-2016 11:25,Opel_Corsa_1.2_16V_Catch_me,private,offer,4150,Small Car,2007,manual,80,150000,5,petrol,No,07-03-2016 00:00,0
+572,25-03-2016 18:46,Opel_Cascada_1.4_Turbo,private,offer,18800,cabrio,2013,manual,120,20000,6,petrol,No,25-03-2016 00:00,0
+573,20-03-2016 04:02,BMW_120d,private,offer,4350,limousine,2006,manual,163,150000,3,diesel,No,20-03-2016 00:00,0
+574,31-03-2016 14:58,Volkswagen_Touran_1.4_TSI_EcoFuel_DSG_Trendline,private,offer,5999,bus,2011,automatic,150,150000,8,cng,Yes,31-03-2016 00:00,0
+575,10-03-2016 11:50,Volkswagen_Golf_6,private,offer,9500,limousine,2010,manual,105,150000,2,diesel,No,10-03-2016 00:00,0
+576,12-03-2016 16:57,Dacia_Logon_2013_LPG_Autogas_Klima,private,offer,4400,Combi,2013,manual,84,150000,3,lpg,No,12-03-2016 00:00,0
+577,26-03-2016 10:53,Opel_Zafira_elegance,private,offer,2199,bus,2001,automatic,125,150000,6,petrol,NA,26-03-2016 00:00,0
+578,03-04-2016 11:43,Fiat_Grande_Punto_1.4_16V_Sport,private,offer,3300,Small Car,2006,manual,95,125000,12,petrol,No,03-04-2016 00:00,0
+579,07-03-2016 16:46,Mercedes_e_220_diesel,private,offer,1490,NA,2016,manual,95,150000,0,diesel,NA,07-03-2016 00:00,0
+580,19-03-2016 10:37,Opel_Astra,private,offer,2900,Combi,2006,manual,101,150000,3,diesel,Yes,19-03-2016 00:00,0
+581,30-03-2016 16:54,seat_arosa_1.0_mpi_alu_klima_tuev_no_vw_lupo_corsa._top_zustand,private,offer,2200,Small Car,2000,manual,56,150000,1,petrol,No,30-03-2016 00:00,0
+582,03-04-2016 14:40,Opel_corsa_c,private,offer,1600,Small Car,2003,manual,55,150000,9,petrol,NA,03-04-2016 00:00,0
+583,09-03-2016 13:45,Verkaufe_gut_erhaltenen_Polo_6N2__Farbe_blau,private,offer,1100,Small Car,2000,manual,75,150000,5,petrol,NA,09-03-2016 00:00,0
+584,29-03-2016 21:49,220_cdi_coupe,private,offer,3750,coupe,2004,manual,143,150000,2,diesel,No,29-03-2016 00:00,0
+585,29-03-2016 13:50,Volkswagen_Caddy_1.6,private,offer,5000,bus,2005,manual,102,150000,10,petrol,No,29-03-2016 00:00,0
+586,29-03-2016 21:53,Renault_Clio_1.6_16V_gt_panoramadach_navi,private,offer,7800,Small Car,2010,manual,128,70000,5,petrol,No,29-03-2016 00:00,0
+587,12-03-2016 11:53,BMW_123d_Coupe,private,offer,16990,coupe,2011,manual,204,150000,4,diesel,No,12-03-2016 00:00,0
+588,20-03-2016 23:56,Volkswagen_Lupo_1.4_Comfortline,private,offer,1690,Small Car,2002,manual,60,150000,12,petrol,No,20-03-2016 00:00,0
+589,14-03-2016 21:44,Volkswagen_Polo_1_2_Trendline,private,offer,4720,Small Car,2007,manual,64,80000,5,petrol,No,14-03-2016 00:00,0
+590,02-04-2016 17:39,Seat_Ibiza,private,offer,1750,Small Car,2003,manual,75,150000,3,petrol,NA,02-04-2016 00:00,0
+591,15-03-2016 14:53,Volkswagen_Golf_Variant_1.9_TDI,private,offer,1600,Combi,2000,manual,116,150000,6,diesel,No,15-03-2016 00:00,0
+592,29-03-2016 15:48,Mercedes_Benz_ML_320_CDI_4Matic_7G_TRONIC,private,offer,15300,suv,2006,automatic,224,150000,1,diesel,No,29-03-2016 00:00,0
+593,27-03-2016 22:51,Verkaufe_Top_gepflegten_Audi_S1,private,offer,27500,Small Car,2014,manual,231,30000,4,petrol,No,27-03-2016 00:00,0
+594,20-03-2016 12:39,Skoda_Fabia_Kombi_Klima_86PS_ALU_8_fach_bereift_Enjoy_Paket_TOP**,private,offer,7999,Combi,2012,manual,86,50000,3,petrol,No,20-03-2016 00:00,0
+595,20-03-2016 22:48,BMW_316ti_compact,private,offer,3000,limousine,2003,manual,116,150000,9,petrol,No,20-03-2016 00:00,0
+596,05-03-2016 22:42,Fiat_500_C_1.2_8V_Lounge,private,offer,9450,cabrio,2012,manual,69,50000,6,petrol,No,05-03-2016 00:00,0
+597,26-03-2016 17:06,Subaru_Forester_2.0X_Edition___Garantie_11/2017_AHK,private,offer,19950,Combi,2012,manual,150,40000,8,petrol,No,26-03-2016 00:00,0
+598,07-03-2016 20:55,BMW_520d_Vollaustattung__Xenon__M_Paket!,private,offer,11999,Combi,2005,manual,163,150000,11,diesel,No,07-03-2016 00:00,0
+599,21-03-2016 11:54,Skoda_Fabia_6Y_Combi_1.9_SDI_Tuev_03/2018,private,offer,1500,Combi,2003,manual,64,150000,0,NA,NA,21-03-2016 00:00,0
+600,23-03-2016 19:58,Ford_Fiesta_1.0_EcoBoost_Start_Stop_SYNC_Edition,private,offer,14999,Small Car,2015,manual,101,20000,7,petrol,No,23-03-2016 00:00,0
+601,11-03-2016 17:42,2002_Toyota_Yaris_TÜV_NEU,private,offer,1700,Small Car,2002,manual,68,150000,1,petrol,No,11-03-2016 00:00,0
+602,18-03-2016 15:37,AUDI_A_4__2.7_TDI_V_6_Motor,private,offer,14500,Combi,2008,automatic,190,150000,12,diesel,No,18-03-2016 00:00,0
+603,02-04-2016 21:54,Golf_V_2_0_Tdi_Sportline_140_PS,private,offer,2900,limousine,2006,manual,140,150000,6,diesel,No,02-04-2016 00:00,0
+604,29-03-2016 22:42,BMW_320d_Langstrecken_Fahrzeug_!!,private,offer,3000,Combi,2003,manual,150,150000,5,diesel,No,29-03-2016 00:00,0
+605,01-04-2016 00:57,Bmw_e46_116ti_compact_90tkm,private,offer,4000,NA,2016,manual,0,90000,12,petrol,NA,31-03-2016 00:00,0
+606,03-04-2016 14:57,Volkswagen_Golf_2.0_GTI_DSG,private,offer,16500,limousine,2009,automatic,211,90000,11,petrol,No,03-04-2016 00:00,0
+607,07-03-2016 02:53,Kia_Ceed_1.6_CRDi_136__GT_Line_ISG_NAVI_PDC_KAMERA,private,offer,19500,limousine,2016,manual,136,5000,3,diesel,No,07-03-2016 00:00,0
+608,04-04-2016 19:58,Mercedes_Benz_SLK_350_7G_TRONIC,private,offer,15500,cabrio,2005,automatic,272,125000,1,petrol,No,04-04-2016 00:00,0
+609,08-03-2016 19:46,Audi_A6/S6,private,offer,3500,Combi,2001,automatic,220,150000,9,petrol,NA,08-03-2016 00:00,0
+610,09-03-2016 22:55,VW_Golf_V_1.6_FSI_Sportline,private,offer,5299,limousine,2006,manual,115,150000,3,petrol,No,09-03-2016 00:00,0
+611,04-04-2016 19:43,Volkswagen_Polo_1.2_TSI_Highline__Winter_Paket_,private,offer,9300,Small Car,2010,manual,105,90000,3,petrol,No,04-04-2016 00:00,0
+612,29-03-2016 08:32,Mercedes_Benz_C_200_CDI_7G_TRONIC_Avantgarde_Edition_C,private,offer,10800,limousine,2013,automatic,136,150000,6,diesel,No,29-03-2016 00:00,0
+613,25-03-2016 13:48,Fiat_500_C_1.2_Lounge_Sonderedition,private,offer,8999,cabrio,2012,manual,69,40000,3,petrol,No,25-03-2016 00:00,0
+614,05-03-2016 17:48,Opel_Corsa_1.0_12V_Njoy_HU/AU_neu__2/2018_,private,offer,1700,Small Car,2003,manual,58,150000,2,petrol,No,05-03-2016 00:00,0
+615,18-03-2016 11:47,Audi_A3_1.6L__94_TKM_2_Hand_8_Fach_ber.Klimaautomatik_Service_Neu,private,offer,6900,NA,2016,manual,102,100000,8,petrol,No,18-03-2016 00:00,0
+616,20-03-2016 21:55,Opel_Astra_H/GTC__1_6_Liter,private,offer,4750,coupe,2006,manual,77,125000,11,petrol,No,20-03-2016 00:00,0
+617,07-03-2016 22:37,BMW_123d_Coupe_TOP_ZUSTAND,private,offer,19500,coupe,2008,manual,204,125000,3,diesel,No,07-03-2016 00:00,0
+618,17-03-2016 11:52,Volkswagen_Golf_GTI_BlueMotion_Technology,private,offer,25499,limousine,2014,manual,220,20000,8,petrol,No,17-03-2016 00:00,0
+619,19-03-2016 19:47,Audi_A3_Sportback_Ambiente_2.0_FSI_Tiptronic__WKR__Tempomat__EPH,private,offer,6990,Combi,2005,automatic,150,150000,7,petrol,No,19-03-2016 00:00,0
+620,23-03-2016 11:54,MINI_Mini_Cooper_Top_Zustand!,private,offer,2500,Small Car,2003,manual,116,150000,4,petrol,No,23-03-2016 00:00,0
+621,20-03-2016 10:48,Toyota_IQ_1.0_N_collection_Licht/Regensensor_Keyless_Go,private,offer,6490,Small Car,2010,manual,68,50000,9,petrol,No,20-03-2016 00:00,0
+622,28-03-2016 12:25,Ford_Focus_Kombi,private,offer,1490,Combi,2001,manual,101,150000,0,petrol,No,28-03-2016 00:00,0
+623,25-03-2016 20:55,Skoda_Full_Ausstatung_leder_Klima_V6_150_ps_tdi,private,offer,2750,limousine,2002,manual,150,150000,10,diesel,No,25-03-2016 00:00,0
+624,06-03-2016 00:37,Volkswagen_Beetle,private,offer,9499,cabrio,2009,manual,75,125000,8,petrol,No,05-03-2016 00:00,0
+625,02-04-2016 18:42,Mercedes_Benz_CLK_Cabrio_230_Kompressor_Avantgarde,private,offer,5999,cabrio,2000,automatic,197,150000,6,petrol,No,02-04-2016 00:00,0
+626,08-03-2016 23:52,Corsa_C_*einsteigen_und_los*,private,offer,1500,Small Car,2001,manual,75,150000,11,petrol,No,08-03-2016 00:00,0
+627,20-03-2016 15:37,Opel_Corsa_C.Zu_Verkauf,private,offer,1999,limousine,2002,manual,0,150000,6,petrol,No,20-03-2016 00:00,0
+628,17-03-2016 13:46,VW_Passat_3bg_Kombi_1_9TDI_131PS_Tuev_neu,private,offer,2999,Combi,2003,manual,131,150000,6,NA,No,17-03-2016 00:00,0
+629,11-03-2016 22:41,Audi_A4_Avant_1.8T_Klima/SHZ/Standheizung/Automatik,private,offer,8500,Combi,2006,automatic,163,125000,5,petrol,No,11-03-2016 00:00,0
+630,09-03-2016 14:40,Opel_Astra_G_Cabrio_*Sonderausstattung*,private,offer,5000,cabrio,2003,manual,147,150000,3,petrol,No,09-03-2016 00:00,0
+631,24-03-2016 10:37,Alfa_Romeo_159_Sportwagon_1.9_JTDM_16V_DPF_TI_Motorschaden,private,offer,6000,Combi,2008,manual,150,150000,3,diesel,Yes,24-03-2016 00:00,0
+632,06-03-2016 21:39,Volkswagen_Golf_1.4_TSI_DSG_GT_Sport,private,offer,8500,limousine,2008,automatic,140,150000,2,petrol,No,06-03-2016 00:00,0
+633,31-03-2016 00:46,Peugeot_307_SW_110_Premium,private,offer,1600,Combi,2003,manual,109,150000,3,petrol,No,30-03-2016 00:00,0
+634,12-03-2016 17:38,Seat_Altea_XL_1.4_TSI_Style,private,offer,9300,bus,2010,manual,125,80000,11,petrol,No,12-03-2016 00:00,0
+635,23-03-2016 19:51,Chrysler_Crossfire_STARTECH_4.4S_Testwagen_Sammlerobjekt,private,offer,20000,coupe,2004,manual,325,125000,3,petrol,No,23-03-2016 00:00,0
+636,24-03-2016 14:58,Audi_A3_8_Fach_bereift,private,offer,1050,NA,2016,manual,101,150000,6,petrol,No,24-03-2016 00:00,0
+637,23-03-2016 20:45,Volkswagen_Lupo_1.7_SDI_mit_Standheizung_Webasto,private,offer,2300,Small Car,2000,manual,60,150000,3,diesel,No,23-03-2016 00:00,0
+638,15-03-2016 21:42,Mazda_CX_5_2.0_SKYACTIV_G_AWD_Sports_Line,private,offer,22950,suv,2013,manual,160,30000,11,petrol,No,15-03-2016 00:00,0
+639,24-03-2016 10:48,VW_Golf_1_4_2003__Klima__1_Hand__Scheckheft__TÜV_3/18,private,offer,2990,Combi,2003,manual,75,150000,6,petrol,No,24-03-2016 00:00,0
+640,27-03-2016 18:38,Ford_Galaxy_TDI_Viva,private,offer,5150,bus,2005,manual,116,100000,1,diesel,No,27-03-2016 00:00,0
+641,28-03-2016 17:39,VW_Touran_III_2.0_TDI_DSG_Highline_ALU_NAVI_PDC_PANORAMA_Standhzg,private,offer,18650,bus,2011,automatic,140,100000,1,diesel,No,28-03-2016 00:00,0
+642,21-03-2016 17:25,Mercedes_CL_55_AMG_absolute_voll_Ausstattung_!!!_Mit_neuem_Tuev,private,offer,5490,coupe,2002,automatic,348,150000,9,petrol,No,21-03-2016 00:00,0
+643,17-03-2016 19:54,Nissan_Note_1_4_Benziner_mit_original_32500_Km_Tuev_Neu_KLIMA,private,offer,4600,limousine,2006,manual,88,30000,9,petrol,No,17-03-2016 00:00,0
+644,09-03-2016 16:39,A4_2.0_TDI_QUATTRO_Traktionskontrolle_und_Stabilitaets,private,offer,3899,Combi,2007,manual,170,150000,6,diesel,NA,09-03-2016 00:00,0
+645,15-03-2016 00:56,Volkswagen_New_Beetle_2.0_Automatik,private,offer,8500,limousine,2008,automatic,116,30000,12,petrol,No,15-03-2016 00:00,0
+646,31-03-2016 19:54,Audi_S3_Limousine/Top_Austattung/Volle_Garantie,private,offer,38800,limousine,2014,manual,300,20000,7,petrol,No,31-03-2016 00:00,0
+647,21-03-2016 10:55,BMW_325d_DPF_Touring_Aut._NAVI_LEDER_PANORAMA_XENON,private,offer,9990,Combi,2010,automatic,197,150000,2,diesel,No,21-03-2016 00:00,0
+648,04-04-2016 13:47,Angebot_Peugeot307,private,offer,1950,NA,2016,manual,105,150000,12,NA,No,04-04-2016 00:00,0
+649,14-03-2016 10:42,Mercedes_160cdi.__Disel,private,offer,2100,Small Car,2003,manual,0,150000,4,diesel,NA,14-03-2016 00:00,0
+650,22-03-2016 18:39,Audi_A6_Avant_3.0_TDI_DPF_quattro_tiptronic_Facelift,private,offer,19890,Combi,2008,automatic,239,125000,10,diesel,No,22-03-2016 00:00,0
+651,16-03-2016 09:47,MINI_Mini_Cooper_50_Mayfair,private,offer,12500,Small Car,2010,manual,122,70000,4,petrol,No,16-03-2016 00:00,0
+652,07-03-2016 12:52,OPEL_ASTRA_J___OPC_Line___tadelloser_Zustand_/_top_gepflegt,private,offer,15400,limousine,2014,manual,125,10000,3,petrol,No,07-03-2016 00:00,0
+653,15-03-2016 20:56,Ford_focus,private,offer,1100,Combi,2000,manual,75,150000,5,petrol,No,15-03-2016 00:00,0
+654,18-03-2016 17:39,BMW_320_Ci,private,offer,5200,coupe,2002,manual,170,150000,1,lpg,No,18-03-2016 00:00,0
+655,06-03-2016 19:47,Mercedes_Benz_E_350_CDI_DPF_Coupe_AMG_SPORTPAKET/PANORAMA/VOLL,private,offer,22999,coupe,2009,automatic,231,125000,8,diesel,No,06-03-2016 00:00,0
+656,11-03-2016 11:51,Volkswagen_Golf,private,offer,7300,Small Car,2005,automatic,140,100000,3,diesel,No,11-03-2016 00:00,0
+657,18-03-2016 18:25,Mercedes_Benz_211_CDI_Sprinter_901.661,private,offer,5550,bus,2005,manual,109,150000,4,diesel,No,18-03-2016 00:00,0
+658,15-03-2016 16:53,Q7_3.0_TDI_S_Line_Sport_Paket_PLUS__FACELIFT,private,offer,14000,suv,2009,automatic,239,60000,11,diesel,No,15-03-2016 00:00,0
+659,17-03-2016 20:56,Saab_9_5_Kombi_2.3_Turbo_Aero,private,offer,1800,Combi,2003,manual,250,150000,5,petrol,Yes,17-03-2016 00:00,0
+660,13-03-2016 00:58,Vw_Passat_Unfallwagen,private,offer,6950,Combi,2011,manual,140,150000,5,diesel,Yes,12-03-2016 00:00,0
+661,18-03-2016 08:36,Top_gepflegte_A__Klasse_160_mit_Scheckheft_Automatic_Haengerkupp,private,offer,2990,bus,2002,automatic,102,125000,3,petrol,No,18-03-2016 00:00,0
+662,24-03-2016 16:46,Peugeot_307_CC_135,private,offer,3490,cabrio,2004,manual,136,125000,12,petrol,No,24-03-2016 00:00,0
+663,19-03-2016 11:36,Volkswagen_Golf_Variant_1.6_BlueTDI_Panorama__ADC_ErgoActiv,private,offer,19900,Combi,2013,manual,110,30000,12,diesel,No,19-03-2016 00:00,0
+664,03-04-2016 11:36,Mitsubishi_Lancer_Evo_8_GSR_LHD,private,offer,8900,limousine,2005,manual,392,150000,10,petrol,Yes,03-04-2016 00:00,0
+665,31-03-2016 19:50,Audi_Q7_3.0_TDI__S_Line_quattro_tiptronic_7_Sitze,private,offer,21000,limousine,2008,automatic,239,150000,10,diesel,No,31-03-2016 00:00,0
+666,11-03-2016 11:50,Citroën_Berlingo_Multispace_2.0_HDi,private,offer,1450,bus,2001,manual,90,150000,10,diesel,No,11-03-2016 00:00,0
+667,27-03-2016 00:46,Opel_Zafira_1.9_CDTI_Edition,private,offer,5900,bus,2007,manual,150,125000,8,diesel,No,26-03-2016 00:00,0
+668,01-04-2016 10:38,Volkswagen_Fox_1.4_TDI_Fresh___Klimaanlage___sehr_gepflegt,private,offer,3990,Small Car,2008,manual,69,125000,8,diesel,No,01-04-2016 00:00,0
+669,01-04-2016 04:02,Seat_Leon_2.0_TDI_Stylance,private,offer,3700,limousine,2006,manual,140,150000,3,diesel,No,01-04-2016 00:00,0
+670,28-03-2016 19:51,Opel_Astra_GTC_1.9_CDTI_TÜV_NOTVERKAUF,private,offer,3000,coupe,2005,manual,120,150000,9,diesel,No,28-03-2016 00:00,0
+671,21-03-2016 13:55,Seat_Ibiza_1.9_TDI_Freeze_Klimaautomatik__Partikelfil,private,offer,2700,Small Car,2001,manual,90,20000,10,diesel,No,21-03-2016 00:00,0
+672,31-03-2016 21:25,BMW_118d_DPF___M_Paket___Xenon___Scheckheftgepflegt,private,offer,8900,Other,2008,manual,143,150000,7,diesel,No,31-03-2016 00:00,0
+673,29-03-2016 00:41,Fiat_Bravo_1.6TD_Multijet_16V__Unfallfrei__TÜV_bis_10/2017__DPF,private,offer,4700,limousine,2008,manual,105,150000,2,diesel,NA,28-03-2016 00:00,0
+674,22-03-2016 22:36,Audi_A6_3.0_TDI_Quattro,private,offer,7000,limousine,2005,automatic,0,150000,8,diesel,No,22-03-2016 00:00,0
+675,14-03-2016 20:52,Verkaufe_Astra_G_Automatik,private,offer,1850,limousine,2000,automatic,75,150000,9,petrol,NA,14-03-2016 00:00,0
+676,13-03-2016 18:48,Opel_Signum_Irmscher_475nm,private,offer,5500,Combi,2005,manual,241,150000,5,diesel,No,13-03-2016 00:00,0
+677,12-03-2016 16:48,Honda_CR_V_2.2i_CTDi_Executive,private,offer,6500,suv,2005,manual,140,150000,2,diesel,No,12-03-2016 00:00,0
+678,25-03-2016 23:58,Bmw_320d_kombi,private,offer,3790,Combi,2004,manual,150,150000,10,diesel,No,25-03-2016 00:00,0
+679,08-03-2016 22:49,Gepflegter_VW_Golf_4_1.6i_zu_verkaufen,private,offer,2900,limousine,2000,manual,105,70000,3,petrol,No,08-03-2016 00:00,0
+680,05-03-2016 18:51,Audi_TT_Coupe_2.0_TFSI_S_line_sehr_gepflegt_2_Hand,private,offer,15690,coupe,2008,manual,200,150000,8,petrol,No,05-03-2016 00:00,0
+681,10-03-2016 15:55,Fiat_Doblo_1.6_16V_Multijet_My_Doblo,private,offer,3900,bus,2013,manual,105,50000,7,diesel,Yes,10-03-2016 00:00,0
+682,02-04-2016 13:54,Renault_Modus_1.6_16V_Cite_mit_Winterreifen_auf_Felgen!!,private,offer,2500,bus,2006,manual,88,125000,3,petrol,No,02-04-2016 00:00,0
+683,18-03-2016 12:49,Ford_Mondeo_Kombi._Gruene_Plakette._Preis_ohne_Dach_und_Reifen,private,offer,2000,Combi,2004,manual,120,150000,5,diesel,No,13-03-2016 00:00,0
+684,17-03-2016 20:45,Ford_Focus_C_MAX_1.6_Trend,private,offer,3000,bus,2004,manual,101,150000,12,petrol,No,17-03-2016 00:00,0
+685,02-04-2016 11:57,Citroën_C2_1.1_X,private,offer,3000,Small Car,2004,manual,60,80000,7,petrol,No,02-04-2016 00:00,0
+687,19-03-2016 12:59,Opel_Corsa_1.0_12V_Fresh,private,offer,1350,Small Car,2002,manual,58,150000,10,petrol,No,19-03-2016 00:00,0
+688,20-03-2016 15:48,Peugeot_107_70_Filou__Luxuspaket__1._Hand__Klima__PDC,private,offer,5000,Small Car,2009,manual,68,80000,9,petrol,No,20-03-2016 00:00,0
+689,21-03-2016 08:55,BMW_530D_E61_M_Paket,private,offer,9999,Combi,2005,automatic,218,5000,9,diesel,NA,21-03-2016 00:00,0
+690,10-03-2016 16:36,VW_UP__White_UP_,private,offer,9300,Small Car,2013,manual,75,20000,1,petrol,No,10-03-2016 00:00,0
+691,05-04-2016 00:57,Ford_Ka,private,offer,1100,Small Car,2004,manual,60,80000,4,petrol,No,04-04-2016 00:00,0
+692,27-03-2016 14:41,+++_Sondermodell_Golf_IV_GENERATION_1.4_+++,private,offer,1299,limousine,2000,manual,75,150000,6,petrol,NA,27-03-2016 00:00,0
+693,29-03-2016 15:49,Opel_Astra_1.4_Turbo_Edition,private,offer,8200,limousine,2010,manual,140,100000,9,petrol,No,29-03-2016 00:00,0
+694,30-03-2016 20:47,Tausche_BMW,private,offer,9500,Combi,2007,automatic,197,150000,12,diesel,No,30-03-2016 00:00,0
+695,15-03-2016 19:54,Renault_Megane_ENERGY_TCe_115_Start_&_Stop_Paris,private,offer,12000,limousine,2013,manual,116,30000,4,petrol,No,15-03-2016 00:00,0
+696,20-03-2016 04:02,Hyundai_i40_5_Star_Gold_Edition,private,offer,15999,Combi,2013,manual,136,50000,8,diesel,NA,20-03-2016 00:00,0
+697,12-03-2016 18:49,Seat_Ibiza_1.4_16V_Sport_Edition,private,offer,6999,Small Car,2008,manual,86,60000,3,petrol,No,12-03-2016 00:00,0
+698,08-03-2016 23:56,Renault_Laguna_Grandtour_1.8_Expression,private,offer,1500,Combi,2003,manual,120,150000,10,lpg,No,08-03-2016 00:00,0
+699,20-03-2016 21:56,Toyota_Auris_2.2_D_4D_D_CAT,private,offer,5200,limousine,2008,manual,177,150000,7,diesel,No,20-03-2016 00:00,0
+700,17-03-2016 19:45,BMW_318i,private,offer,3000,limousine,2001,manual,118,150000,7,petrol,No,17-03-2016 00:00,0
+701,22-03-2016 12:37,Toyota_Corolla_Verso_Sol_Kompaktvan_5__7__Sitzer,private,offer,9000,bus,2009,automatic,129,90000,3,petrol,No,22-03-2016 00:00,0
+702,20-03-2016 09:37,Volkswagen_Golf_VI_Match_1_2_TSI,private,offer,12000,limousine,2012,manual,86,70000,3,petrol,No,20-03-2016 00:00,0
+703,11-03-2016 23:51,BMW_320d_Automatik_VOLLAUSSTATTUNG,private,offer,13900,limousine,2008,automatic,177,150000,8,diesel,No,11-03-2016 00:00,0
+704,10-03-2016 21:48,Opel_Corsa_1.2_16V_ecoFLEX_Edition_111_Jahre,private,offer,4400,Small Car,2010,manual,69,150000,2,petrol,No,10-03-2016 00:00,0
+705,04-04-2016 23:48,Kia_Sportage_1.7_CRDi_2WD_Spirit,private,offer,20000,suv,2013,manual,116,60000,2,diesel,No,04-04-2016 00:00,0
+706,21-03-2016 20:44,Mini_Cooper_Panoramadach_Sitzheizung_Klima,private,offer,8100,Small Car,2007,manual,120,100000,6,petrol,No,21-03-2016 00:00,0
+707,03-04-2016 23:37,MG_ZR_160__ZKD_Kaputt_,private,offer,1500,NA,2016,manual,160,90000,10,petrol,Yes,03-04-2016 00:00,0
+708,10-03-2016 08:54,BMW_118d_mit_Navi_und_mehr....,private,offer,6300,limousine,2006,manual,125,150000,6,diesel,NA,10-03-2016 00:00,0
+709,19-03-2016 21:53,Audi_A4_1.6,private,offer,6600,limousine,2007,manual,102,150000,10,petrol,No,19-03-2016 00:00,0
+710,31-03-2016 15:54,Volkswagen_Golf_Plus_2.0_TDI_DPF_CrossGolf_Klimatronik,private,offer,6990,suv,2007,manual,140,150000,4,diesel,No,31-03-2016 00:00,0
+711,30-03-2016 09:50,VW_Golf_1.4_Edition,private,offer,1750,limousine,2001,manual,75,150000,8,petrol,No,30-03-2016 00:00,0
+712,20-03-2016 00:56,Hyundai_getz,private,offer,1500,Small Car,2002,manual,82,5000,10,petrol,NA,20-03-2016 00:00,0
+713,21-03-2016 15:52,Renault_Twingo_BJ_2003,private,offer,1250,NA,2016,manual,75,125000,12,petrol,No,21-03-2016 00:00,0
+714,22-03-2016 17:39,Volkswagen_Golf_1.4_TSI,private,offer,10500,limousine,2011,manual,122,80000,1,petrol,No,22-03-2016 00:00,0
+715,04-04-2016 07:55,Audi_A3_Sportback_S_line_Quattro_2.0_TDI_184_PS_+Garantie,private,offer,30000,Other,2013,automatic,184,50000,11,diesel,No,04-04-2016 00:00,0
+716,20-03-2016 13:56,Audi_Q3_2.0_TFSI_quattro_S_tronic,private,offer,29800,limousine,2013,automatic,170,40000,8,petrol,No,20-03-2016 00:00,0
+717,08-03-2016 16:38,Skoda_Octavia_Combi_2.0_TDI_Elegance,private,offer,7000,Combi,2007,manual,140,150000,9,diesel,No,08-03-2016 00:00,0
+718,21-03-2016 12:56,Audi_A5_Cabrio_3.0_TDI_DPF_quattro_S_tronic,private,offer,20500,cabrio,2009,automatic,239,150000,4,diesel,No,21-03-2016 00:00,0
+719,17-03-2016 23:56,Audi_A4_B6_Avant___BDG___S_Line_Plus___BiXenon___Teilleder,private,offer,4300,Combi,2003,manual,163,150000,0,diesel,No,17-03-2016 00:00,0
+720,14-03-2016 13:39,Saab_9_3_TiD_2.2_SE_Anniversary,private,offer,2000,coupe,2001,manual,125,150000,8,diesel,No,14-03-2016 00:00,0
+721,10-03-2016 20:39,Mercedes_Benz_A_200_CDI_Avantgarde_mit_So_und_Wi_Reifen_AHK,private,offer,5899,limousine,2004,automatic,140,100000,12,diesel,No,10-03-2016 00:00,0
+722,12-03-2016 12:39,Corsa_C_1.2_mit_Klima_TÜV_bis_09/17___164718_Km,private,offer,2000,Small Car,2002,manual,75,150000,5,petrol,No,12-03-2016 00:00,0
+723,23-03-2016 15:46,Opel_Meriva_1.6_16V_Easytronic_Cosmo,private,offer,1550,bus,2005,automatic,101,100000,8,petrol,No,23-03-2016 00:00,0
+724,14-03-2016 13:45,Ford_Ka,private,offer,7359,Small Car,2015,manual,69,20000,6,petrol,No,14-03-2016 00:00,0
+725,19-03-2016 05:36,Volkswagen_Polo_1.9_TDI_DPF_Comfortline,private,offer,3300,Small Car,2007,manual,101,150000,6,diesel,No,19-03-2016 00:00,0
+726,16-03-2016 19:57,Mercedes_Benz_E_240_T_Kombi_Elegance,private,offer,1399,Combi,2000,automatic,170,150000,10,petrol,No,16-03-2016 00:00,0
+727,28-03-2016 11:06,Nissan_Micra_1.2_DIG_S_Acenta_98_PS__72_kW_,private,offer,9900,Small Car,2014,manual,0,30000,9,petrol,No,28-03-2016 00:00,0
+728,23-03-2016 12:51,MINI_Mini_One,private,offer,4490,Small Car,2005,manual,90,90000,5,petrol,No,23-03-2016 00:00,0
+729,23-03-2016 05:36,Audi_A4_Cabriolet_3.0_quattro_Leder_Automatik_Xenon..,private,offer,10400,cabrio,2005,automatic,220,150000,9,petrol,No,23-03-2016 00:00,0
+730,17-03-2016 21:51,BMW_BMW_3er___e46_Limousine___Stahlblau___Klima,private,offer,3600,limousine,2000,manual,105,150000,5,petrol,No,17-03-2016 00:00,0
+731,26-03-2016 22:49,Kia_Ceed_1.4_CVVT_LX_1.Hand,private,offer,5999,limousine,2009,manual,109,60000,3,petrol,No,26-03-2016 00:00,0
+732,01-04-2016 16:38,Skoda_Octavia_1.6_FSI_Ambiente,private,offer,5000,limousine,2006,manual,116,150000,6,petrol,No,01-04-2016 00:00,0
+733,15-03-2016 15:37,Chevrolet_Captiva_2.4_4WD_7_Sitzer_mit_Gasanlage,private,offer,10990,suv,2009,manual,136,125000,11,lpg,No,15-03-2016 00:00,0
+734,23-03-2016 17:47,Opel_Corsa_1.4_16V_ecoFLEX_Start_Stop,private,offer,10500,Small Car,2014,manual,101,20000,5,petrol,No,23-03-2016 00:00,0
+735,15-03-2016 23:37,"BMW_520d_Touring_Sport_Aut._M_Sportpaket_19""_Zoll",private,offer,31000,Combi,2013,automatic,184,80000,3,diesel,No,15-03-2016 00:00,0
+736,14-03-2016 14:54,MINI_One_mit_PDC_und_Klima_98_PS,private,offer,13200,limousine,2013,manual,98,30000,8,petrol,No,14-03-2016 00:00,0
+737,16-03-2016 21:56,BMW_INDIVIDUAL_M_PAKET_II,private,offer,10500,cabrio,2005,automatic,231,150000,8,petrol,No,16-03-2016 00:00,0
+738,26-03-2016 12:51,Volkswagen_T4_California_Coach_/_Standheizung,private,offer,14200,bus,2001,manual,102,150000,7,diesel,No,26-03-2016 00:00,0
+739,04-04-2016 15:49,Audi_A4_Avant_2.0_TDI_e_DPF_Ambiente,private,offer,12500,Combi,2009,manual,136,150000,10,diesel,No,04-04-2016 00:00,0
+740,19-03-2016 13:36,Ford_C_MAX_1.6_TDCi_Titanium__7_Sitzer_Topausstattung,private,offer,11890,bus,2011,manual,116,150000,4,diesel,No,19-03-2016 00:00,0
+741,23-03-2016 15:51,Toyota_Hilux_SR5_147800_km_Jahr:_2010,private,offer,4700,limousine,2010,manual,88,150000,2,diesel,No,23-03-2016 00:00,0
+742,02-04-2016 18:39,Opel_GTC_1.7_CDTI_DPF__119g__Innovation_110_!_VOLL_!,private,offer,7600,limousine,2009,manual,110,150000,4,diesel,No,02-04-2016 00:00,0
+743,17-03-2016 19:39,Audi_A4_Avant_1.8_TFSI_Ambition,private,offer,16500,Combi,2010,manual,160,60000,8,petrol,No,17-03-2016 00:00,0
+744,28-03-2016 19:26,VW_PASSAT_140PS_NAV?_V?EL_EXTRAS_VB,private,offer,11999,Combi,2011,manual,140,100000,6,diesel,No,28-03-2016 00:00,0
+745,27-03-2016 15:43,BMW_630_i_Aut._Individual_Sportpaket_!!!!,private,offer,19500,coupe,2006,automatic,258,125000,5,petrol,No,27-03-2016 00:00,0
+746,24-03-2016 22:54,Smart_Cabrio,private,offer,2100,NA,2016,automatic,0,150000,0,diesel,NA,24-03-2016 00:00,0
+747,04-04-2016 10:49,Audi_A3_2.0_TDI_Sportback_Attraction,private,offer,5490,Combi,2007,manual,140,150000,3,diesel,No,04-04-2016 00:00,0
+748,29-03-2016 19:50,Mercedes_Benz_ML_280_CDI_4Matic_7G_TRONIC,private,offer,17000,suv,2006,automatic,190,150000,9,diesel,No,29-03-2016 00:00,0
+749,03-04-2016 12:44,Toyota_Corolla_Verso_2.0_D_4D_Linea_Sol,private,offer,1350,bus,2003,manual,90,150000,4,diesel,Yes,03-04-2016 00:00,0
+750,14-03-2016 15:45,UNFALLSCHADEN_OPEL_ZAFIRA_1.6__BJ_12.2007__KM_136.000__HU_3.2017,private,offer,3400,bus,2007,manual,103,150000,12,petrol,Yes,14-03-2016 00:00,0
+751,02-04-2016 16:53,Porsche_Boxster_S__Scheckheft__revidierter_Motor__gepfl.,private,offer,13986,cabrio,2001,manual,252,150000,7,petrol,No,02-04-2016 00:00,0
+752,27-03-2016 12:52,Mercedes_Benz_C_220_T_CDI_Classic,private,offer,2450,Combi,2001,manual,143,150000,8,diesel,No,27-03-2016 00:00,0
+753,09-03-2016 14:52,Opel_Vectra_2.2,private,offer,2600,limousine,2003,automatic,147,125000,11,petrol,No,09-03-2016 00:00,0
+754,27-03-2016 19:50,Volkswagen_T5_Kombi,private,offer,11500,Combi,2012,manual,102,150000,10,diesel,Yes,27-03-2016 00:00,0
+755,21-03-2016 16:38,Fiat_Grande_Punto_1.4_16V_6_Gang__Giugiaro,private,offer,2700,Small Car,2006,manual,95,150000,12,petrol,No,21-03-2016 00:00,0
+756,15-03-2016 14:47,BMW_120d_Limusine,private,offer,6299,limousine,2007,manual,177,150000,1,diesel,NA,15-03-2016 00:00,0
+757,28-03-2016 14:57,Seat_Ibiza_ST_Style_Kombi,private,offer,8100,Combi,2011,manual,105,80000,4,diesel,No,28-03-2016 00:00,0
+758,01-04-2016 13:37,Mercedes_Benz_C_180_Kompressor_Sportcoupe,private,offer,3750,coupe,2003,manual,143,150000,6,petrol,Yes,01-04-2016 00:00,0
+759,20-03-2016 20:36,Opel_Astra_GTC_1.4_Sport,private,offer,5600,limousine,2005,NA,110,100000,7,petrol,No,20-03-2016 00:00,0
+760,19-03-2016 11:53,Suzuki_Baleno_Kombi_1.6_GLX_Spezial__Klimaanlage_,private,offer,1699,Combi,2002,manual,97,150000,7,petrol,No,19-03-2016 00:00,0
+761,13-03-2016 22:38,4_Jahre_alter_Renault_Twingo_1.2_LEV_16V_75_Authentique,private,offer,3990,NA,2011,manual,75,90000,11,petrol,No,13-03-2016 00:00,0
+762,31-03-2016 13:55,VW_Golf_6__2.0_l_Tdi__Garantie,private,offer,12900,limousine,2011,manual,12,80000,12,diesel,No,31-03-2016 00:00,0
+763,15-03-2016 16:47,Seat_Ibiza_1.2_12V,private,offer,4690,Small Car,2008,manual,60,60000,4,petrol,No,15-03-2016 00:00,0
+764,06-04-2016 21:25,VW_Golf_V_1.6_FSi,private,offer,4500,limousine,2004,manual,0,150000,9,petrol,No,06-04-2016 00:00,0
+765,01-04-2016 20:47,Suzuki_Swift_1.3_Classic,private,offer,3250,Small Car,2006,manual,92,150000,5,petrol,No,01-04-2016 00:00,0
+766,14-03-2016 09:48,Bmw_318Ci_Frische_Tuev_E46,private,offer,2399,limousine,2001,manual,143,150000,1,petrol,No,14-03-2016 00:00,0
+767,29-03-2016 20:54,Ford_Streetka_1.6_8V_Elegance,private,offer,3300,cabrio,2003,manual,95,100000,7,petrol,No,29-03-2016 00:00,0
+768,23-03-2016 10:38,BMW_316i,private,offer,3100,limousine,2001,manual,105,125000,3,petrol,No,23-03-2016 00:00,0
+769,22-03-2016 18:52,Opel_Zafira_2.2_DTI,private,offer,3500,bus,2004,manual,125,150000,4,diesel,No,22-03-2016 00:00,0
+770,03-04-2016 14:06,Top_vw_eos_mit_standheizung_und_vielen_extras,private,offer,9500,cabrio,2006,manual,116,40000,11,petrol,No,03-04-2016 00:00,0
+771,12-03-2016 13:50,Audi_TT_Coupe_3.2_quattro,private,offer,11000,coupe,2004,automatic,250,150000,6,petrol,No,12-03-2016 00:00,0
+772,23-03-2016 20:42,Volkswagen_Golf_GTD_2.0_TDI_DPF_DSG,private,offer,17300,limousine,2011,automatic,170,150000,3,diesel,No,23-03-2016 00:00,0
+773,28-03-2016 15:45,Skoda_Fabia_1.2_HTP_Ambiente,private,offer,5800,Small Car,2009,manual,69,60000,11,petrol,No,28-03-2016 00:00,0
+774,17-03-2016 13:58,BMW_320_D___Gruene_Plakette_TÜV_bis_2017___schaden_rechts_vorne,private,offer,1700,limousine,2001,automatic,136,150000,9,diesel,Yes,17-03-2016 00:00,0
+775,28-03-2016 16:51,Audi_A4_2.0_Lim_TDI_e_DPF__Xenon_Sportfahrwerk_1_Hand,private,offer,15600,limousine,2011,manual,136,100000,6,diesel,No,28-03-2016 00:00,0
+776,30-03-2016 23:41,VW_Golf_4____1_6L,private,offer,2400,limousine,2002,manual,105,150000,5,petrol,NA,30-03-2016 00:00,0
+777,26-03-2016 18:43,Volkswagen_New_Beetle_Cabrio_United_1_6_Klima__Alu__Winter,private,offer,12500,cabrio,2009,manual,102,30000,3,petrol,No,26-03-2016 00:00,0
+778,04-04-2016 13:51,Volkswagen_Golf_GTI_BlueMotion_Technology_DSG_Dynaudio_19Z,private,offer,27990,limousine,2015,automatic,220,10000,4,petrol,No,04-04-2016 00:00,0
+779,14-03-2016 14:25,Volkswagen_Crafter_3.0tdi_mit_weniger_Kilometer!!!,private,offer,10000,bus,2009,manual,138,150000,12,diesel,No,14-03-2016 00:00,0
+780,29-03-2016 17:58,Smart_Cabrio_softtouch_passion,private,offer,5300,cabrio,2009,automatic,71,80000,3,petrol,No,29-03-2016 00:00,0
+781,25-03-2016 21:51,Opel_Corsa1_3_CDTI,private,offer,4400,Small Car,2008,manual,75,150000,6,diesel,No,25-03-2016 00:00,0
+782,03-04-2016 23:51,Kia_Sorento_met.2_2CRDI_Spirit__Allrad_m._AHK__Top_Zustand_1.Hand,private,offer,17900,suv,2011,manual,197,70000,9,diesel,No,03-04-2016 00:00,0
+783,15-03-2016 13:37,BMW_545i_Navigation_Leder_4_x_SHZ_PDC_Xenon,private,offer,9900,limousine,2005,automatic,333,150000,4,petrol,No,15-03-2016 00:00,0
+784,17-03-2016 10:58,Opel_Vectra_voll_Leder_Austattung,private,offer,1850,limousine,2000,automatic,101,150000,3,petrol,NA,17-03-2016 00:00,0
+785,14-03-2016 20:47,Opel_Zafira_2.0_Diesel,private,offer,1999,NA,2016,manual,101,150000,10,diesel,No,14-03-2016 00:00,0
+786,24-03-2016 09:46,Gepflegter_Skoda_Roomster_Style_Edition,private,offer,5550,bus,2007,manual,105,150000,12,diesel,No,24-03-2016 00:00,0
+787,14-03-2016 18:57,Smart_For_Two_Cabrio,private,offer,2750,cabrio,2002,manual,40,125000,7,diesel,NA,14-03-2016 00:00,0
+788,20-03-2016 19:39,Suzuki_Jimny_Cabrio_Excalibur__erst_36600_km__Tuev_neu,private,offer,6100,suv,2003,manual,80,40000,3,petrol,No,20-03-2016 00:00,0
+789,22-03-2016 14:46,BMW_318i_Touring,private,offer,14000,Combi,2009,manual,143,90000,8,petrol,No,22-03-2016 00:00,0
+790,26-03-2016 13:57,Volkswagen_Golf_5,private,offer,3500,NA,2005,manual,101,100000,0,petrol,No,26-03-2016 00:00,0
+791,07-03-2016 00:51,Citroen_C5_Baujahr_2003_mit_TÜV_/1._Hand/_wenig_KM,private,offer,2799,limousine,2004,manual,0,70000,7,petrol,No,07-03-2016 00:00,0
+792,03-04-2016 16:51,Ford_Mondeo_1.8_Trend,private,offer,2350,limousine,2005,manual,131,150000,5,petrol,No,03-04-2016 00:00,0
+793,05-04-2016 12:38,Audi_A4_1.6,private,offer,3500,limousine,2001,manual,102,150000,6,petrol,No,05-04-2016 00:00,0
+794,20-03-2016 20:59,Ford_Mondeo_Turnier_2.2_TDCi_Titanium_S_VOLL!!!,private,offer,13499,Combi,2010,manual,175,100000,4,diesel,No,20-03-2016 00:00,0
+795,27-03-2016 17:36,MINI_Mini_Cooper_S_Neu!,private,offer,27900,Small Car,2016,manual,192,5000,3,petrol,No,27-03-2016 00:00,0
+796,19-03-2016 08:51,Sportcoupe_Mercedes_Verkauf_oder_Tausch,private,offer,3500,coupe,2002,manual,129,150000,2,petrol,No,19-03-2016 00:00,0
+797,04-04-2016 16:45,Opel_Zafira_1.8_Innovation,private,offer,9900,bus,2009,manual,140,80000,6,petrol,No,04-04-2016 00:00,0
+798,12-03-2016 16:37,Skoda_Octavia_RS,private,offer,11000,limousine,2006,manual,200,30000,9,petrol,No,12-03-2016 00:00,0
+799,02-04-2016 10:44,Opel_Corsa_1.3_CDTI_DPF_MP3_MFL_Sport,private,offer,5190,Small Car,2008,manual,75,125000,1,diesel,No,02-04-2016 00:00,0
+800,11-03-2016 09:39,VW_Transporter_T5_Weiss,private,offer,7500,Other,2007,manual,0,90000,12,diesel,No,11-03-2016 00:00,0
+801,20-03-2016 15:36,Polo_6n_Tief_Breit_und_Laut,private,offer,1350,NA,2000,manual,60,150000,0,petrol,NA,20-03-2016 00:00,0
+802,03-04-2016 11:40,Audi_A_6_4_B_Sline_Avant,private,offer,4100,Combi,2005,automatic,172,150000,4,diesel,No,03-04-2016 00:00,0
+803,18-03-2016 11:47,Audi_A4_AVANT_2_5_TDI__2003,private,offer,2850,Combi,2003,manual,163,150000,5,diesel,NA,18-03-2016 00:00,0
+804,06-04-2016 15:25,BMW_530d_M_PAKET_neu_TÜV,private,offer,4500,limousine,2002,automatic,193,150000,8,diesel,No,06-04-2016 00:00,0
+805,24-03-2016 16:55,super__volvo__v40__kombi__volausstatung___tausch___auch,private,offer,2400,Combi,2001,automatic,165,150000,4,lpg,NA,24-03-2016 00:00,0
+806,04-04-2016 21:42,Mercedes_Benz_C_200_CDI_Classic_DPF,private,offer,7800,limousine,2006,manual,122,150000,11,diesel,No,04-04-2016 00:00,0
+807,28-03-2016 09:53,VW_Touran__1.Hand__Renterfzg__TOP_Zustand__nur_79500_km,private,offer,8500,bus,2006,manual,150,80000,4,petrol,NA,28-03-2016 00:00,0
+808,22-03-2016 11:59,Mercedes_Benz_C_220_CDI,private,offer,4900,limousine,2002,automatic,143,150000,9,diesel,No,22-03-2016 00:00,0
+809,07-03-2016 11:57,Verkaufe__meinen_Tiguan_mit_170_PS_und_4_Motion,private,offer,14800,suv,2009,manual,170,125000,4,NA,No,07-03-2016 00:00,0
+810,04-04-2016 17:46,VW_Passat_Comfortline_/_nagelneuer_TÜV,private,offer,2650,limousine,2002,automatic,112,150000,2,petrol,No,04-04-2016 00:00,0
+811,03-04-2016 10:37,Volkswagen_Polo_1.4_Trendline,private,offer,1899,Small Car,2003,manual,75,90000,9,petrol,Yes,03-04-2016 00:00,0
+812,01-04-2016 19:58,Opel_Meriva_1.6_16V_Edition_Tuev_2_/_2018,private,offer,4250,bus,2005,manual,101,150000,4,petrol,No,01-04-2016 00:00,0
+813,11-03-2016 23:52,Volkswagen_Sharan_1.8_5V_Turbo_Family,private,offer,2700,bus,2002,manual,150,150000,6,petrol,No,11-03-2016 00:00,0
+814,04-04-2016 12:36,Volkswagen_Golf_1.9_TDI,private,offer,1750,limousine,2001,manual,90,150000,9,diesel,No,04-04-2016 00:00,0
+815,14-03-2016 01:49,Audi_A6_2.4_multitronic_tausche_gegen_Golf_6_DSG,private,offer,10389,limousine,2005,automatic,177,60000,4,petrol,No,13-03-2016 00:00,0
+816,06-03-2016 15:24,Opel_Corsa_GSI_1_8,private,offer,3900,Small Car,2004,manual,125,125000,9,petrol,NA,06-03-2016 00:00,0
+817,03-04-2016 20:51,Volkswagen_Caravelle_Kurz__7.Si.__DPF,private,offer,17800,bus,2006,manual,131,80000,8,diesel,No,03-04-2016 00:00,0
+818,01-04-2016 17:45,LUPO_GT_SPEZIAL_AUSSTATTUNG_MIT_MOTOROPTIMIERUNG,private,offer,2250,Small Car,2005,manual,100,150000,0,diesel,NA,01-04-2016 00:00,0
+819,28-03-2016 18:51,Opel_Corsa_1.2_16V_Edition,private,offer,3990,Small Car,2006,manual,80,100000,9,petrol,No,28-03-2016 00:00,0
+820,21-03-2016 09:54,Mercedes_Benz_GLK_220_CDI_DPF_4Matic_BlueEFFICIENCY_7G_TRONIC,private,offer,27999,suv,2011,automatic,170,40000,8,diesel,No,21-03-2016 00:00,0
+821,04-04-2016 22:51,Renault_Clio_1.2.mit_Gasanlage__neuer_TÜV__03/18_,private,offer,2200,Small Car,2005,manual,75,150000,1,petrol,No,04-04-2016 00:00,0
+822,30-03-2016 16:57,Mercedes_Benz_A_170_CDI_Classic,private,offer,2100,limousine,2001,manual,95,150000,3,diesel,No,30-03-2016 00:00,0
+823,04-04-2016 16:36,Volkswagen_Scirocco_1.4_TSI_Team,private,offer,13200,coupe,2010,manual,160,80000,8,petrol,No,04-04-2016 00:00,0
+824,03-04-2016 00:56,Fiat_Grande_Punto_1_4_8V_*Klima_Sitzheizung_TÜV_neu*,private,offer,3800,Small Car,2006,manual,77,80000,1,petrol,NA,03-04-2016 00:00,0
+825,01-04-2016 00:58,Opel_Vectra_1.9_diesel_navi_xenon_standheizung,private,offer,4555,Combi,2006,manual,150,150000,12,diesel,No,01-04-2016 00:00,0
+826,31-03-2016 17:38,Ford_Transit_Connect_T200s,private,offer,1950,bus,2004,manual,90,150000,2,diesel,NA,31-03-2016 00:00,0
+827,01-04-2016 12:37,Mercedes_Benz_E_200_T_CDI_DPF_BlueEFFICIENCY_Avantgarde,private,offer,18900,Combi,2011,automatic,136,150000,9,diesel,No,01-04-2016 00:00,0
+828,13-03-2016 16:38,BMW_318,private,offer,5800,cabrio,2006,manual,150,150000,4,petrol,Yes,13-03-2016 00:00,0
+829,08-03-2016 12:49,BMW_____525_d_Aut.Standheizung_Glasdach_voll_Scheckheftgepflegt,private,offer,23900,limousine,2010,automatic,204,70000,10,diesel,NA,08-03-2016 00:00,0
+830,16-03-2016 17:42,Audi_A1_Sportback_Ambition_1.6_TDI_NAV_XENON_GARANTIE,private,offer,16750,Small Car,2014,manual,90,50000,2,diesel,No,16-03-2016 00:00,0
+831,22-03-2016 11:52,Opel_Corsa_C_1_2_in_Top_Zustand,private,offer,2700,Small Car,2003,manual,75,125000,2,petrol,No,22-03-2016 00:00,0
+832,23-03-2016 18:50,Toyota_Avensis_1.8_VVT_i_Combi__Klimautomatik,private,offer,3850,Combi,2003,manual,129,150000,7,petrol,No,23-03-2016 00:00,0
+833,19-03-2016 21:45,Mercedes_Benz_GLK_350_CDI_DPF_4Matic_7G_TRONIC_SPORT_EDITION,private,offer,28500,suv,2011,automatic,231,70000,4,diesel,No,19-03-2016 00:00,0
+834,30-03-2016 16:56,Opel_Insignia_Sports_Tourer_2.0_Xenon_Navi_Klima_und_vieles_mehr.,private,offer,7900,Combi,2009,manual,160,150000,0,diesel,No,30-03-2016 00:00,0
+835,02-04-2016 21:46,Audi_a3_s_Line_quattro_sportback,private,offer,12800,limousine,2008,manual,170,150000,7,diesel,NA,02-04-2016 00:00,0
+836,16-03-2016 23:55,Audi_a4_1.9_Diesel,private,offer,2000,Combi,2002,manual,131,5000,4,diesel,No,16-03-2016 00:00,0
+837,21-03-2016 11:48,Vw_t5_multivan_sport_Edition,private,offer,12500,bus,2006,automatic,174,150000,2,diesel,Yes,21-03-2016 00:00,0
+838,24-03-2016 20:59,Chevrolet_Captiva_2.2_Diesel_4WD_Autom_MwSt._ausw._7_Sitze,private,offer,15920,suv,2011,automatic,184,70000,12,diesel,No,24-03-2016 00:00,0
+839,11-03-2016 23:51,Golf_IV_1_4_zu_verkaufen,private,offer,1999,Small Car,2000,manual,75,125000,2,petrol,NA,11-03-2016 00:00,0
+840,08-03-2016 20:54,Seat_Leon_1.4_TSI_Style,private,offer,11700,limousine,2012,manual,125,50000,12,petrol,No,08-03-2016 00:00,0
+841,12-03-2016 20:44,Renault_Twingo_1.2_Faltdach,private,offer,1400,Small Car,2004,manual,58,100000,12,petrol,No,12-03-2016 00:00,0
+842,29-03-2016 15:53,Hyundai_Santa_Fe_2.2_CRDi_4WD_CPF_Automatik_Premium,private,offer,19900,suv,2012,automatic,197,125000,1,diesel,No,29-03-2016 00:00,0
+843,07-03-2016 18:57,Kia_Picanto,private,offer,1600,Small Car,2005,manual,0,150000,4,petrol,NA,07-03-2016 00:00,0
+844,01-04-2016 09:55,Traumauto_VW_EOS_weiss_mit_schwarzem_Leder,private,offer,11111,cabrio,2009,manual,122,90000,3,petrol,NA,01-04-2016 00:00,0
+845,30-03-2016 23:55,BMW_320i_touring,private,offer,3150,Combi,2002,manual,170,150000,7,petrol,No,30-03-2016 00:00,0
+846,21-03-2016 19:49,Seat_Leon_Sport_auch_tausch_mit_kleinem_Wagen,private,offer,1600,limousine,2000,manual,126,150000,9,petrol,No,21-03-2016 00:00,0
+847,08-03-2016 17:56,VW_PASSAT_TDI,private,offer,9300,limousine,2007,manual,170,150000,10,NA,No,08-03-2016 00:00,0
+848,01-04-2016 15:50,Volkswagen_Passat_CC_3.6_V6_4Motion_DSG,private,offer,14400,coupe,2008,automatic,299,125000,8,petrol,No,01-04-2016 00:00,0
+849,05-03-2016 16:45,Volkswagen_Polo_1.4,private,offer,2000,Small Car,2003,manual,75,125000,1,petrol,No,05-03-2016 00:00,0
+850,12-03-2016 15:43,Volkswagen_Eos_1.4_TSI,private,offer,12700,cabrio,2009,manual,122,90000,1,petrol,No,12-03-2016 00:00,0
+851,27-03-2016 14:49,Opel_Corsa_1.2_16V_Njoy!2.Hand!91TKM!Klima!Alu!Top!,private,offer,2990,Small Car,2003,manual,75,100000,7,petrol,No,27-03-2016 00:00,0
+852,02-04-2016 15:51,Skoda_Fabia_1.2_HTP_Combi_Cool_Edition,private,offer,3900,Combi,2007,manual,64,125000,7,petrol,No,02-04-2016 00:00,0
+853,06-03-2016 16:52,Honda_S_2000,private,offer,10750,cabrio,2002,manual,241,125000,7,petrol,Yes,06-03-2016 00:00,0
+854,17-03-2016 17:25,Volkswagen_Golf_Variant_2.0_TDI_Comfortline,private,offer,4500,Combi,2009,manual,140,150000,1,diesel,No,17-03-2016 00:00,0
+855,26-03-2016 15:48,Kleines_Raumwunder_m_elektr_Schiebetueren_Peugeot_1007_Hdi_Filou,private,offer,2900,Small Car,2005,manual,68,150000,9,diesel,No,26-03-2016 00:00,0
+856,08-03-2016 17:58,Ford_Fiesta_1.4_Viva__Standheizung_,private,offer,2540,Small Car,2004,manual,80,100000,4,petrol,No,08-03-2016 00:00,0
+857,30-03-2016 07:53,VW_Polo_Goal,private,offer,4300,Small Car,2006,manual,54,125000,7,petrol,No,30-03-2016 00:00,0
+858,27-03-2016 14:48,Mercedes_Benz_E500_E63_AMG_Avantgarde,private,offer,10490,limousine,2003,automatic,306,150000,2,petrol,No,27-03-2016 00:00,0
+859,17-03-2016 12:25,Smart_Fourtwo_SONDERMODELL_Schiebedach,private,offer,1450,Small Car,2002,NA,61,150000,6,petrol,NA,17-03-2016 00:00,0
+860,02-04-2016 20:39,Toyota_Yaris_sucht_neues_zuhause,private,offer,5200,Small Car,2007,manual,87,125000,4,petrol,No,02-04-2016 00:00,0
+861,10-03-2016 15:56,Ford_Ka_1_3_Luxus_Austattung__Mit_neuen_TÜV_und_einen_Top_Zustand,private,offer,1550,Small Car,2001,manual,60,150000,11,petrol,No,10-03-2016 00:00,0
+862,27-03-2016 21:51,Volvo_V50_2.0D_DPF_Momentum,private,offer,3000,Combi,2006,manual,136,150000,2,diesel,No,27-03-2016 00:00,0
+863,24-03-2016 21:57,Mercedes_Benz_S63_Facelift_AMG_S350_7GTronic,private,offer,21000,limousine,2006,automatic,272,150000,1,petrol,No,24-03-2016 00:00,0
+864,08-03-2016 19:52,Mercedes_Benz_C_200_CDI_Classic,private,offer,2700,limousine,2001,manual,125,150000,10,diesel,NA,08-03-2016 00:00,0
+865,17-03-2016 00:39,Mercedes_Benz_SLK_200_Kompressor_Automatik,private,offer,8900,cabrio,2004,automatic,163,150000,4,petrol,No,16-03-2016 00:00,0
+866,02-04-2016 12:56,Opel_Corsa_1.2_16V_ecoFLEX_150_Jahre_Opel,private,offer,7000,Small Car,2012,manual,69,30000,10,petrol,Yes,02-04-2016 00:00,0
+867,03-04-2016 17:57,VW_Passat_1_9_TDI,private,offer,1900,Combi,2003,manual,101,150000,11,diesel,No,03-04-2016 00:00,0
+868,24-03-2016 13:54,Skoda_Octavia_2.0_Combi,private,offer,2950,Combi,2004,automatic,116,150000,6,petrol,Yes,24-03-2016 00:00,0
+869,25-03-2016 22:53,Audi_Q5_Quattro_TOP_GEPFLEGT!_8_Fach_bereift!_TÜV_neu,private,offer,18300,limousine,2010,manual,179,125000,9,petrol,No,25-03-2016 00:00,0
+870,24-03-2016 15:25,Mazda_MX5_8Fach_+_HARDTOP_&_TÜV_05/17,private,offer,1900,cabrio,2000,manual,110,150000,9,petrol,No,24-03-2016 00:00,0
+871,12-03-2016 18:47,Mercedes_Benz_C_230_Kompressor_Sport_Kaum_Rost,private,offer,2150,limousine,2000,manual,193,150000,1,petrol,No,12-03-2016 00:00,0
+872,14-03-2016 13:58,Seat_Ibiza_SC_1.2_12V_Style_Viva_8fachBereifung_Klima,private,offer,7599,Small Car,2012,manual,69,70000,8,petrol,No,14-03-2016 00:00,0
+873,22-03-2016 05:36,Bmw_325ci_Cabrio_SMG,private,offer,6750,cabrio,2003,automatic,191,150000,11,petrol,NA,22-03-2016 00:00,0
+874,22-03-2016 18:31,Mercedes_Benz_C_220_T_CDI_Classic.Tuev_neu_Gruene_plaket,private,offer,2800,Combi,2002,manual,143,150000,7,diesel,No,22-03-2016 00:00,0
+875,23-03-2016 08:52,Seat_Ibiza_Super_Zustand,private,offer,3550,Small Car,2007,manual,86,150000,1,petrol,No,23-03-2016 00:00,0
+876,07-03-2016 11:53,Volkswagen_Passat_Variant_2.0_TDI_DPF_DSG_Trendline_USB,private,offer,7940,Combi,2010,automatic,140,150000,1,diesel,No,07-03-2016 00:00,0
+877,22-03-2016 15:46,Audi_TT_Coupe_1.8_T,private,offer,5499,coupe,2000,manual,179,150000,4,petrol,No,22-03-2016 00:00,0
+878,05-04-2016 08:36,Volkswagen_Golf_1.4,private,offer,1500,limousine,2004,manual,75,150000,4,petrol,Yes,05-04-2016 00:00,0
+879,03-04-2016 19:50,Citroën_C3_1.6_Senso_Drive_Exclusive,private,offer,1200,Small Car,2003,manual,109,150000,3,petrol,Yes,03-04-2016 00:00,0
+880,08-03-2016 21:38,Ford_Focus_Turnier_1.6_TDCi_DPF_Trend,private,offer,13700,Combi,2013,manual,116,90000,10,diesel,No,08-03-2016 00:00,0
+881,05-03-2016 15:53,VW_Fox__TÜV_neu_ABS__Scheckheft_gepflegt__Radio/CD,private,offer,2950,Small Car,2007,manual,54,150000,4,petrol,No,05-03-2016 00:00,0
+882,08-03-2016 01:58,BMW_525i_Edition_Exclusive,private,offer,3000,limousine,2002,manual,192,150000,10,petrol,No,08-03-2016 00:00,0
+883,30-03-2016 08:36,Volkswagen_Touareg_4.2_V8_EXCLUSIVE_ACC__LUFT__VW_GARANTIE_,private,offer,29899,suv,2010,automatic,340,150000,7,diesel,No,30-03-2016 00:00,0
+884,23-03-2016 20:58,Ford_Mustang_Cabrio_Premium_Prins_Autogasanlage_Top,private,offer,18199,cabrio,2010,automatic,213,125000,7,lpg,No,23-03-2016 00:00,0
+885,23-03-2016 06:36,BMW_X5_Vollausstattung_Automatik_Diesel_Sportpaket,private,offer,11900,suv,2006,automatic,218,150000,6,diesel,No,23-03-2016 00:00,0
+886,19-03-2016 09:48,Skoda_Octavia_Combi_2.0_TDI_DPF_Scout_4x4,private,offer,5500,Combi,2008,manual,140,150000,5,diesel,No,19-03-2016 00:00,0
+887,18-03-2016 18:37,Peugeot_206_CC_110_Quiksilver,private,offer,3490,cabrio,2006,manual,109,125000,3,petrol,No,18-03-2016 00:00,0
+888,01-04-2016 15:52,VW_Caddy_nur_heute_zum_verkauf_ab_morgen_steht_der_beim_Haendler,private,offer,1800,Other,2001,manual,0,60000,10,NA,Yes,01-04-2016 00:00,0
+889,05-03-2016 22:36,Smart_ForTwo,private,offer,4700,Small Car,2008,NA,71,60000,12,petrol,No,05-03-2016 00:00,0
+890,02-04-2016 12:47,Audi_A4_Avant_2.0_TDI_DPF,private,offer,11999,Combi,2009,manual,143,150000,8,diesel,No,02-04-2016 00:00,0
+891,19-03-2016 11:54,BMW_318_top_Zustand,private,offer,5900,limousine,2004,manual,143,125000,11,petrol,No,19-03-2016 00:00,0
+892,10-03-2016 00:37,Smart_&Plattformanhaenger,private,offer,2200,Small Car,2000,automatic,54,90000,7,petrol,No,09-03-2016 00:00,0
+893,01-04-2016 20:54,Ford_Mondeo_2.5_Titanium_S,private,offer,12500,limousine,2009,manual,220,125000,9,petrol,No,01-04-2016 00:00,0
+894,26-03-2016 02:01,BMW_325i,private,offer,5900,limousine,2003,manual,192,150000,6,petrol,No,26-03-2016 00:00,0
+895,13-03-2016 17:51,Toyota_Avensis_Executive_2009_Euro_5,private,offer,7990,Combi,2009,manual,126,150000,8,diesel,No,13-03-2016 00:00,0
+896,25-03-2016 21:52,Renault_Trafic_2.0_dCi_115_L2H1____9_Sitze___Mwst_auswei,private,offer,12500,bus,2010,manual,116,80000,8,diesel,No,25-03-2016 00:00,0
+897,06-03-2016 15:48,BMW_Z4_roadster_3.0i___Voll__M_Paket__Top_Zustand,private,offer,11500,cabrio,2003,manual,231,150000,3,petrol,No,06-03-2016 00:00,0
+898,11-03-2016 23:36,Volvo_V70_Kombi,private,offer,1875,Combi,2000,automatic,162,150000,9,petrol,NA,11-03-2016 00:00,0
+899,11-03-2016 18:00,BMW_330i,private,offer,9400,limousine,2001,automatic,231,100000,11,petrol,No,11-03-2016 00:00,0
+900,15-03-2016 21:46,BMW_320i,private,offer,2500,limousine,2001,manual,170,150000,10,petrol,No,15-03-2016 00:00,0
+901,28-03-2016 23:55,Citroën_C1_1.0_Advance__5_Tuerer__8_fach_bereift,private,offer,2990,Small Car,2007,manual,68,80000,8,petrol,No,28-03-2016 00:00,0
+902,12-03-2016 22:50,Peugeot_206,private,offer,1050,Small Car,2001,manual,0,150000,12,petrol,Yes,12-03-2016 00:00,0
+903,11-03-2016 13:55,Hyundai_Sonata__super_Zustand_!,private,offer,2600,limousine,2004,manual,131,100000,1,petrol,No,11-03-2016 00:00,0
+904,13-03-2016 08:25,VW_Golf_5_1.6_FSI_116Ps_Tuev_11/2017_Rot,private,offer,5400,limousine,2004,manual,116,100000,9,petrol,NA,13-03-2016 00:00,0
+905,27-03-2016 16:38,Land_Rover_Freelander_1.8i,private,offer,2440,suv,2001,manual,117,150000,3,petrol,No,27-03-2016 00:00,0
+906,16-03-2016 16:52,Skoda_Octavia_Combi_1.8_TSI_DSG_Elegance,private,offer,12450,Combi,2009,automatic,160,60000,3,petrol,No,16-03-2016 00:00,0
+907,03-04-2016 15:51,Volkswagen_Golf_1.4_Edition,private,offer,1900,limousine,2001,manual,75,150000,2,petrol,No,03-04-2016 00:00,0
+908,28-03-2016 18:25,Renault_Megane_Garndtour__Diesel_Kombi,private,offer,1200,Combi,2003,manual,120,150000,11,diesel,No,28-03-2016 00:00,0
+909,28-03-2016 18:48,Volkswagen_Touran_Highline_DSG,private,offer,23222,bus,2014,automatic,140,10000,7,petrol,No,28-03-2016 00:00,0
+910,13-03-2016 11:36,Volkswagen_Polo_1.2_TSI_MATCH,private,offer,11999,Small Car,2012,manual,90,50000,4,petrol,No,13-03-2016 00:00,0
+911,24-03-2016 18:50,BMW_318i_touring,private,offer,3299,Combi,2002,manual,143,150000,9,petrol,No,24-03-2016 00:00,0
+912,03-04-2016 16:50,Ford_Focus_2.0_16V_Ghia,private,offer,8250,limousine,2010,manual,145,100000,4,petrol,No,03-04-2016 00:00,0
+913,09-03-2016 20:49,Audi_A4_2.5_TDI,private,offer,4600,limousine,2003,manual,163,150000,9,diesel,No,09-03-2016 00:00,0
+914,27-03-2016 14:53,BMW_316i,private,offer,1500,coupe,2000,manual,102,150000,4,petrol,No,27-03-2016 00:00,0
+915,17-03-2016 16:37,Kia_Rio_1.4_Dream_Team_Edition,private,offer,11750,Small Car,2014,manual,109,150000,12,petrol,No,17-03-2016 00:00,0
+916,22-03-2016 16:48,Volkswagen_Golf_1.4_TSI_DSG,private,offer,11000,limousine,2009,automatic,160,100000,6,petrol,No,22-03-2016 00:00,0
+917,15-03-2016 23:06,Mercedes_Benz_Cls_63_AMG,private,offer,20000,limousine,2008,automatic,350,150000,9,diesel,No,15-03-2016 00:00,0
+918,22-03-2016 16:54,BMW_525i_Aut.,private,offer,14990,limousine,2005,automatic,218,100000,10,petrol,No,22-03-2016 00:00,0
+919,07-03-2016 07:59,Mitsubishi_Pajero_Pinin,private,offer,3450,suv,2000,automatic,120,150000,4,petrol,No,07-03-2016 00:00,0
+920,09-03-2016 21:54,Smart_Fortwo__Coupe__CDI__Passion,private,offer,5400,Small Car,2009,automatic,45,60000,9,diesel,No,09-03-2016 00:00,0
+921,24-03-2016 12:55,Opel_Corsa_1.2_16V,private,offer,2890,Small Car,2002,manual,75,150000,4,petrol,No,24-03-2016 00:00,0
+922,15-03-2016 01:00,Toyota_Corolla_Verso_2.2_D_CAT_Executive,private,offer,5100,bus,2006,manual,177,150000,11,diesel,Yes,14-03-2016 00:00,0
+923,25-03-2016 15:56,BMW_530d_Aut.,private,offer,22850,limousine,2011,automatic,245,150000,1,diesel,No,25-03-2016 00:00,0
+924,02-04-2016 21:40,Volkswagen_Passat_Variant_2.0_TDI_Comfortline,private,offer,5650,Combi,2008,manual,140,150000,1,diesel,No,02-04-2016 00:00,0
+925,07-03-2016 21:37,Renault_Twingo_1.2_16V_Expression_Automatik,private,offer,4900,Small Car,2009,automatic,76,60000,8,petrol,No,07-03-2016 00:00,0
+926,26-03-2016 13:55,Schwarzer_Golf_1.4_Goal,private,offer,5800,limousine,2006,manual,80,125000,4,petrol,NA,26-03-2016 00:00,0
+927,28-03-2016 12:59,Audi_A6_3.0_TDI_DPF_multitronic/_Leder/Navi/Xenon/PDC,private,offer,28490,limousine,2011,automatic,204,70000,11,diesel,No,28-03-2016 00:00,0
+928,19-03-2016 21:52,Opel_Astra_GTC_2.0_Turbo__Navi__8_x_Alur.__HU_neu,private,offer,5450,limousine,2005,manual,200,150000,1,petrol,No,19-03-2016 00:00,0
+929,03-04-2016 11:43,Bmw_320__M3_Optik__,private,offer,5000,coupe,2000,manual,150,150000,1,petrol,NA,03-04-2016 00:00,0
+930,30-03-2016 23:36,Renault_Megane_TCe_250_Coupe_Renault_Sport,private,offer,14990,coupe,2011,manual,250,60000,9,petrol,No,30-03-2016 00:00,0
+931,06-03-2016 20:48,Golf_4_1.9_TDI_Gruen_Umweltplakette,private,offer,4390,NA,2005,manual,101,150000,12,diesel,NA,06-03-2016 00:00,0
+932,15-03-2016 18:53,VW_T5_Multivan_2.5_TDI___AHK___Standheizung____TOP_ZUSTAND!!!,private,offer,15990,bus,2004,manual,174,150000,6,diesel,No,15-03-2016 00:00,0
+933,25-03-2016 19:44,VW_Golf_V_Trendline,private,offer,3333,limousine,2005,manual,75,150000,5,petrol,Yes,25-03-2016 00:00,0
+934,11-03-2016 10:40,Mercedes_Benz_GLK_220_CDI_DPF_4Matic_BlueEFFICIENCY_7G_TRONIC,private,offer,22000,suv,2010,automatic,170,60000,8,diesel,No,11-03-2016 00:00,0
+935,08-03-2016 14:51,Vw_polo_6n2_Tuev_05/16_tdi_gti_16v_vr6,private,offer,1250,Small Car,2001,manual,75,150000,4,diesel,No,08-03-2016 00:00,0
+936,01-04-2016 21:44,Alfa_Romeo_156_2.0_Twin_Spark_/_TOP_Zustand_/Klima__No_Passat_A4_,private,offer,1199,limousine,2000,manual,155,150000,5,petrol,NA,01-04-2016 00:00,0
+937,30-03-2016 00:58,Volkswagen_Eos_1.4_TSI,private,offer,15990,cabrio,2011,manual,122,40000,7,petrol,No,29-03-2016 00:00,0
+938,24-03-2016 19:54,Skoda_Roomster_1.2_12V_HTP_LPG_AutoGas,private,offer,5450,Combi,2009,manual,69,150000,7,lpg,No,24-03-2016 00:00,0
+939,04-04-2016 07:58,Volkswagen_Touran_2.0_TDI_Trendline_7_Sitz_Voll_Scheckheft_Euro_4,private,offer,4900,bus,2006,manual,140,150000,9,diesel,No,04-04-2016 00:00,0
+940,10-03-2016 16:56,Touran_2.0_TDI_Highline,private,offer,2800,Combi,2005,NA,0,150000,11,diesel,No,10-03-2016 00:00,0
+941,05-04-2016 15:06,Peugeot_308_120_VTi,private,offer,4900,limousine,2011,manual,120,125000,10,petrol,No,05-04-2016 00:00,0
+942,05-04-2016 14:06,Mercedes_Benz_E_220_T_CDI_Classic,private,offer,2100,Combi,2001,automatic,143,150000,5,diesel,Yes,05-04-2016 00:00,0
+943,15-03-2016 23:55,Audi_A8L_Langversion_Sonderaustattung,private,offer,8599,limousine,2003,automatic,275,150000,10,diesel,No,15-03-2016 00:00,0
+944,05-04-2016 01:47,Dacia_Logan_MCV_1.6_16V,private,offer,2200,Combi,2008,manual,105,150000,3,lpg,No,04-04-2016 00:00,0
+945,07-03-2016 19:48,Fiat_Grande_Punto_1.3_Multijet_16V_Dynamic,private,offer,4000,Small Car,2009,manual,75,150000,3,diesel,No,07-03-2016 00:00,0
+946,17-03-2016 19:50,Golf_5_2.0_TDI_mit_turboschaden,private,offer,3500,limousine,2005,automatic,170,150000,2,diesel,Yes,17-03-2016 00:00,0
+947,10-03-2016 07:53,Opel_Meriva_1.6_16V,private,offer,3200,bus,2004,manual,101,90000,2,petrol,No,10-03-2016 00:00,0
+948,27-03-2016 21:43,Opel_Corsa_C,private,offer,2290,Small Car,2001,manual,57,150000,9,petrol,NA,27-03-2016 00:00,0
+949,23-03-2016 13:46,Bmw_318i_e46_lueckenlos_Scheckheft_gepflegt_bei_Bmw,private,offer,2800,limousine,2000,manual,118,20000,1,petrol,No,23-03-2016 00:00,0
+950,20-03-2016 11:59,Audi_A4_2.0_Tuev11_16,private,offer,3100,limousine,2000,NA,131,150000,11,NA,No,20-03-2016 00:00,0
+951,21-03-2016 01:37,Citroën_C5_2.0_16V_Aut.,private,offer,2500,limousine,2006,automatic,140,150000,7,diesel,No,21-03-2016 00:00,0
+952,13-03-2016 18:42,Mercedes_Benz_Ml_400_CDI_Final_Edition,private,offer,4950,suv,2002,automatic,250,150000,9,diesel,No,13-03-2016 00:00,0
+953,08-03-2016 10:50,Seat_Alhambra_1.9_TDI,private,offer,2450,bus,2002,manual,116,150000,12,diesel,No,08-03-2016 00:00,0
+954,02-04-2016 18:53,Jaguar_X_Type_Executive_3.0_V6_231_PS/_TÜV_10_16_/Scheckheft_/TOP,private,offer,4290,limousine,2001,automatic,231,150000,11,petrol,No,02-04-2016 00:00,0
+955,24-03-2016 08:54,Audi_A3_in_liebe_Haende_abzugeben,private,offer,8500,Combi,2006,manual,115,125000,10,petrol,NA,24-03-2016 00:00,0
+956,20-03-2016 13:55,Peugeot_308_SW_Tendance_120_VTI__Top_Kombi_Zweitwagen,private,offer,6450,Combi,2008,manual,120,100000,4,petrol,No,20-03-2016 00:00,0
+957,23-03-2016 14:45,MINI_Mini_Cooper_Cabrio,private,offer,15999,cabrio,2012,manual,122,70000,6,petrol,No,23-03-2016 00:00,0
+958,13-03-2016 19:48,Dacia_Duster_4x2_Prestige_SCHNÄPPCHEN!!,private,offer,7800,suv,2011,manual,107,100000,12,diesel,No,13-03-2016 00:00,0
+959,14-03-2016 22:52,Fiat_Scudo_L2__5_Si.__Panorama_Executive,private,offer,16900,Combi,2013,manual,163,60000,3,diesel,No,14-03-2016 00:00,0
+960,18-03-2016 23:06,DAIHATSU__CUORE__TOYOTA__MINI__KLEINWAGEN__STADTAUTO__GRÜN,private,offer,1200,Small Car,2002,manual,56,150000,2,petrol,NA,18-03-2016 00:00,0
+961,01-04-2016 07:36,Mercedes_Benz_C_180,private,offer,3500,limousine,2001,manual,129,150000,10,petrol,No,01-04-2016 00:00,0
+962,04-04-2016 22:54,Audi_A4_2.0_Autogas__LPG_,private,offer,2750,limousine,2001,manual,131,150000,11,lpg,No,04-04-2016 00:00,0
+963,19-03-2016 07:36,Mercedes_Benz_S_320_CDI,private,offer,3999,limousine,2002,automatic,197,150000,8,diesel,No,19-03-2016 00:00,0
+964,31-03-2016 23:51,Honda_Accord_Tourer_2.2i_DTEC_Automatik_Executive,private,offer,10600,Combi,2009,automatic,150,150000,7,diesel,No,31-03-2016 00:00,0
+965,02-04-2016 23:50,Renault_Megane_1.4_Authentique,private,offer,1750,limousine,2003,manual,82,100000,11,petrol,No,02-04-2016 00:00,0
+966,15-03-2016 23:53,Peugeot_307_SW_7sitzer_zum_Top_Preis_TÜV_HU_Neu,private,offer,3000,Combi,2005,manual,109,5000,5,diesel,No,15-03-2016 00:00,0
+967,21-03-2016 09:51,Volkswagen_Sharan_1.9_TDI_Comfortline_Family,private,offer,4490,bus,2001,manual,116,150000,2,diesel,No,21-03-2016 00:00,0
+968,15-03-2016 09:51,Ford_Focus_C_MAX_1.8,private,offer,3790,bus,2006,manual,125,150000,7,petrol,No,15-03-2016 00:00,0
+969,21-03-2016 22:36,VW_Passat_2_0TDI_R_Line_Edition,private,offer,14900,Combi,2009,manual,170,100000,5,NA,No,21-03-2016 00:00,0
+970,03-04-2016 21:57,Volkswagen_Touareg_3.0_V6_TDI_DPF__R_Line__Luftfwk,private,offer,18250,suv,2008,manual,239,150000,9,diesel,No,03-04-2016 00:00,0
+971,20-03-2016 14:54,Gepflegter_Opel_Astra_J_mit_der_Ausstattunglinie_Design_Edition,private,offer,8400,limousine,2011,manual,120,70000,11,petrol,No,20-03-2016 00:00,0
+972,28-03-2016 13:38,Opel_Corsa_1.2_16V_ecoFlex,private,offer,5300,Small Car,2010,NA,0,80000,6,petrol,NA,28-03-2016 00:00,0
+973,14-03-2016 15:36,Audi_A4_Avant_2.7_TDI_DPF_Ambiente,private,offer,9300,Combi,2008,manual,190,150000,8,diesel,No,14-03-2016 00:00,0
+974,26-03-2016 14:38,Volkswagen_Passat_Variant_1.6_Edition,private,offer,1099,Combi,2000,manual,101,150000,3,petrol,No,26-03-2016 00:00,0
+975,26-03-2016 23:57,BMW_530d_Aut_Head_Up_Display_Xenon_SCHECKHEFT,private,offer,10350,limousine,2004,manual,218,150000,4,diesel,No,26-03-2016 00:00,0
+976,31-03-2016 21:52,Volkswagen_Golf_2.0_TDI_Individual,private,offer,6500,limousine,2005,manual,140,150000,11,diesel,No,31-03-2016 00:00,0
+977,10-03-2016 09:49,Mercedes__ML__320_LPG____RHD____Anhaengerzug___3_5_t____Leder_,private,offer,2450,suv,2000,automatic,218,150000,5,lpg,Yes,10-03-2016 00:00,0
+978,17-03-2016 11:54,Ford_Fiesta_1.3_Viva,private,offer,2800,Small Car,2004,manual,69,100000,5,petrol,No,17-03-2016 00:00,0
+979,20-03-2016 21:53,Verkaufe_VW_POLO,private,offer,3500,Small Car,2005,manual,55,150000,0,petrol,NA,20-03-2016 00:00,0
+980,17-03-2016 23:55,BMW_525d_Touring,private,offer,11000,Combi,2004,manual,177,150000,9,diesel,No,17-03-2016 00:00,0
+981,13-03-2016 11:42,Touran_7sitzer_automatik_diesel,private,offer,4950,NA,2005,automatic,0,150000,10,diesel,NA,13-03-2016 00:00,0
+982,02-04-2016 17:39,Mercedes_Benz_E_200_T_Kompr._Avantgarde+SHD+AHK+Navi+SHZ+Xenon,private,offer,14900,Combi,2007,manual,184,80000,12,petrol,No,02-04-2016 00:00,0
+983,30-03-2016 21:44,Ford_Fiesta,private,offer,1400,Small Car,2001,manual,50,125000,9,petrol,No,30-03-2016 00:00,0
+984,10-03-2016 21:49,Volkswagen_Touran,private,offer,6990,bus,2004,manual,140,150000,9,diesel,NA,19-02-2016 00:00,0
+985,15-03-2016 12:50,Opel_Vectra_1.9_CDTI_DPF_Automatik,private,offer,4200,limousine,2005,automatic,150,125000,6,diesel,No,15-03-2016 00:00,0
+986,18-03-2016 13:49,Ich_verkaufe_mein_schicken_skoda_superb,private,offer,2900,limousine,2003,automatic,0,150000,8,diesel,NA,18-03-2016 00:00,0
+987,05-03-2016 19:49,Volkswagen_Polo_1.6_Black/Silver_Edition,private,offer,6700,Small Car,2008,manual,105,100000,6,petrol,No,05-03-2016 00:00,0
+988,17-03-2016 16:53,Golf_4_Tdi_101PS_pumpe_duese,private,offer,1500,limousine,2002,manual,101,150000,12,diesel,No,17-03-2016 00:00,0
+989,26-03-2016 18:41,Passat_Lim._Highline,private,offer,14900,limousine,2011,manual,211,50000,3,petrol,NA,26-03-2016 00:00,0
+990,03-04-2016 20:57,Audi_TT_3.2_Quattro_8n_Dsg_H&r_Gewindefahrwerk_Oz_R32_Vr6,private,offer,8750,NA,2016,automatic,250,150000,8,petrol,NA,03-04-2016 00:00,0
+991,23-03-2016 15:54,Passat_3BG_1_9TDI._Xenon._Klima._TÜV11/2017_Kombi_131P/S_2_Hand._,private,offer,3999,Combi,2004,automatic,131,150000,5,diesel,No,23-03-2016 00:00,0
+992,18-03-2016 15:43,Renault_Twingo_*SERVO*_KLIMA*,private,offer,1390,Small Car,2003,manual,58,100000,8,petrol,NA,18-03-2016 00:00,0
+993,10-03-2016 17:53,BMW_325i_Touring__Navigation__Bi_Xenon,private,offer,13499,Combi,2009,manual,218,150000,2,petrol,No,10-03-2016 00:00,0
+994,07-03-2016 11:56,AUTO____BJ_1998,private,offer,6000,NA,2000,manual,0,150000,0,diesel,No,07-03-2016 00:00,0
+995,16-03-2016 21:45,Seat_Ibiza,private,offer,3200,coupe,2008,manual,86,150000,2,petrol,No,16-03-2016 00:00,0
+996,15-03-2016 18:59,Mercedes_Benz_E_500_Cabrio_7G_TRONIC,private,offer,36000,cabrio,2012,automatic,408,125000,4,petrol,No,15-03-2016 00:00,0
+997,08-03-2016 21:52,Kia_Sportage_1.6_GDI_2WD_Fifa_World_Cup_Edition,private,offer,20600,suv,2014,manual,135,40000,3,petrol,No,08-03-2016 00:00,0
+998,20-03-2016 10:58,Geflegter_astra_6_Gang_gruene_Plakette,private,offer,2550,Combi,2005,manual,121,150000,12,diesel,No,20-03-2016 00:00,0
+999,16-03-2016 18:44,Mercedes_Benz_A_170_Classic,private,offer,4150,limousine,2005,manual,116,125000,1,petrol,No,16-03-2016 00:00,0
+1000,24-03-2016 12:37,Automatik_aus_Rentnerhand!,private,offer,4900,NA,2006,automatic,0,70000,9,NA,NA,24-03-2016 00:00,0
